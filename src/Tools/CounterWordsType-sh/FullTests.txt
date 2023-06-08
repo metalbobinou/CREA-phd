@@ -1,0 +1,5205 @@
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.00.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 0
+css bn:01642119n : 1
+javascript bn:00055423n : 1
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 1
+url bn:00079080n : 1
+internet bn:00024712n : 1
+session bn:03751534n : 1
+page bn:00060158n : 1
+post bn:01500184n : 1
+session cookies bn:00070691n : 1
+server bn:00044916n : 0
+xhtml bn:01163644n : 0
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.00.txt
+
+Total : 14 / 17 (82.35%)
+
+####
+
+composant bn:02635060n : 0
+rel bn:03117903n : 0
+java interface bn:03111439n : 0
+autoload bn:01997802n : 0
+zend engine bn:01337536n : 0
+rpc bn:01991191n : 0
+xml bn:02771436n : 0
+active server page bn:02246064n : 0
+jscript bn:01995344n : 0
+sun bn:00075170n : 0
+sun one bn:02461700n : 0
+activex bn:03829972n : 0
+vbscript bn:02626435n : 0
+licence bn:00050986n : 1
+composer bn:17364202n : 0
+iso­8859­1 bn:00717125n : 0
+epub bn:01314222n : 0
+pdf bn:01745594n : 0
+mvc bn:02245403n : 0
+twig bn:02360542n : 0
+symfony bn:02798620n : 0
+tdd bn:02924470n : 0
+web service bn:03829842n : 0
+api bn:02130401n : 0
+git bn:01012408n : 0
+jit bn:01502421n : 0
+hhvm bn:16989031n : 0
+unicode bn:02529895n : 0
+saga bn:03877082n : 0
+hiphop bn:01959769n : 0
+xhp bn:14508869n : 0
+framework bn:14831528n : 0
+phalcon bn:15355608n : 0
+aot bn:15411174n : 0
+cakephp bn:03024996n : 0
+yii bn:02219993n : 0
+distribution bn:02322565n : 0
+pear bn:03735126n : 0
+dbx bn:03185121n : 0
+optimisation bn:01564896n : 0
+postgresql bn:01709156n : 0
+docbook bn:03194644n : 0
+gnu bn:00324017n : 0
+gnu fdl bn:01157394n : 0
+hash-tables bn:00587820n : 0
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.00.txt
+
+Total : 1 / 45 (2.22%)
+
+####
+
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+client bn:00019764n : 1
+programme bn:00021492n : 1
+perl bn:01723165n : 1
+python bn:01713224n : 0
+java bn:00048043n : 0
+size bn:00016413n : 1
+value bn:00079508n : 1
+encoder bn:02487361n : 0
+evaluation bn:03464447n : 0
+back office bn:01367276n : 0
+xamp bn:02350502n : 0
+doctype bn:15839327n : 0
+w3c bn:02673666n : 0
+blockquote bn:02659523n : 0
+tr bn:03561884n : 0
+dns bn:03714295n : 0
+xor bn:00178793n : 0
+expr bn:03120209n : 0
+trie bn:02479296n : 0
+method bn:01641329n : 0
+méthode bn:17307407n : 1
+bit bn:00010731n : 0
+expression bn:03834028n : 0
+structure bn:00025330n : 1
+locale bn:03080237n : 0
+enum bn:00031065n : 0
+set bn:00090224v : 0
+timestamp bn:03603649n : 1
+myisam bn:02270426n : 0
+innodb bn:01067935n : 0
+fread bn:01714886n : 0
+upload bn:14257394n : 0
+classes bn:03608262n : 0
+exception bn:03416394n : 1
+preprocessor bn:03699337n : 0
+home bn:00044994n : 0
+interpreter bn:00047204n : 0
+application bn:00005095n : 1
+query language bn:17302791n : 0
+lamp bn:01708928n : 1
+linux bn:00051427n : 1
+server side bn:03816678n : 0
+windows bn:00081305n : 1
+module bn:00021497n : 0
+execution bn:00016287n : 0
+flux bn:03889230n : 1
+charset bn:00017756n : 0
+auto bn:00007309n : 0
+em bn:00030453n : 0
+transaction bn:01650764n : 0
+version 7 bn:02248664n : 0
+compiler bn:00021344n : 1
+mamp bn:03197470n : 0
+homebrew bn:02339205n : 0
+macports bn:01068822n : 0
+directive bn:03824485n : 0
+buffers bn:00013673n : 0
+safe mode bn:01095828n : 0
+syntax highlighting bn:02006707n : 0
+processor bn:00014395n : 0
+web client bn:00013447n : 0
+sort bn:00082871v : 0
+public bn:00109211a : 0
+constraints bn:00022062n : 0
+open source bn:01157392n : 0
+define bn:00086465v : 0
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.00.txt
+
+Total : 34 / 147 (23.12%)
+
+####
+
+facebook bn:03624775n : 1
+site bn:00047172n : 1
+forum bn:14251420n : 0
+navigation bn:00057073n : 0
+message bn:00521573n : 1
+yahoo bn:00081801n : 0
+wordpress bn:03437452n : 0
+joomla bn:01946532n : 0
+ecommerce bn:00029344n : 0
+prestashop bn:01224182n : 0
+magento bn:00917637n : 0
+communication bn:00021221n : 0
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.00.txt
+
+Total : 22 / 93 (23.65%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.25.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 0
+css bn:01642119n : 1
+javascript bn:00055423n : 1
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 1
+url bn:00079080n : 1
+internet bn:00024712n : 1
+session bn:03751534n : 1
+page bn:00060158n : 1
+post bn:01500184n : 1
+session cookies bn:00070691n : 1
+server bn:00044916n : 0
+xhtml bn:01163644n : 0
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.25.txt
+
+Total : 14 / 17 (82.35%)
+
+####
+
+composant bn:02635060n : 0
+rel bn:03117903n : 0
+java interface bn:03111439n : 0
+autoload bn:01997802n : 0
+zend engine bn:01337536n : 0
+rpc bn:01991191n : 0
+xml bn:02771436n : 0
+active server page bn:02246064n : 0
+jscript bn:01995344n : 0
+sun bn:00075170n : 0
+sun one bn:02461700n : 0
+activex bn:03829972n : 0
+vbscript bn:02626435n : 0
+licence bn:00050986n : 1
+composer bn:17364202n : 0
+iso­8859­1 bn:00717125n : 0
+epub bn:01314222n : 0
+pdf bn:01745594n : 0
+mvc bn:02245403n : 0
+twig bn:02360542n : 0
+symfony bn:02798620n : 0
+tdd bn:02924470n : 0
+web service bn:03829842n : 0
+api bn:02130401n : 0
+git bn:01012408n : 0
+jit bn:01502421n : 0
+hhvm bn:16989031n : 0
+unicode bn:02529895n : 0
+saga bn:03877082n : 0
+hiphop bn:01959769n : 0
+xhp bn:14508869n : 0
+framework bn:14831528n : 0
+phalcon bn:15355608n : 0
+aot bn:15411174n : 0
+cakephp bn:03024996n : 0
+yii bn:02219993n : 0
+distribution bn:02322565n : 0
+pear bn:03735126n : 0
+dbx bn:03185121n : 0
+optimisation bn:01564896n : 0
+postgresql bn:01709156n : 0
+docbook bn:03194644n : 0
+gnu bn:00324017n : 0
+gnu fdl bn:01157394n : 0
+hash-tables bn:00587820n : 0
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.25.txt
+
+Total : 1 / 45 (2.22%)
+
+####
+
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+client bn:00019764n : 1
+programme bn:00021492n : 1
+perl bn:01723165n : 1
+python bn:01713224n : 0
+java bn:00048043n : 0
+size bn:00016413n : 1
+value bn:00079508n : 1
+encoder bn:02487361n : 0
+evaluation bn:03464447n : 0
+back office bn:01367276n : 0
+xamp bn:02350502n : 0
+doctype bn:15839327n : 0
+w3c bn:02673666n : 0
+blockquote bn:02659523n : 0
+tr bn:03561884n : 0
+dns bn:03714295n : 0
+xor bn:00178793n : 0
+expr bn:03120209n : 0
+trie bn:02479296n : 0
+method bn:01641329n : 0
+méthode bn:17307407n : 1
+bit bn:00010731n : 0
+expression bn:03834028n : 0
+structure bn:00025330n : 1
+locale bn:03080237n : 0
+enum bn:00031065n : 0
+set bn:00090224v : 0
+timestamp bn:03603649n : 1
+myisam bn:02270426n : 0
+innodb bn:01067935n : 0
+fread bn:01714886n : 0
+upload bn:14257394n : 0
+classes bn:03608262n : 0
+exception bn:03416394n : 1
+preprocessor bn:03699337n : 0
+home bn:00044994n : 0
+interpreter bn:00047204n : 0
+application bn:00005095n : 1
+query language bn:17302791n : 0
+lamp bn:01708928n : 1
+linux bn:00051427n : 1
+server side bn:03816678n : 0
+windows bn:00081305n : 1
+module bn:00021497n : 0
+execution bn:00016287n : 0
+flux bn:03889230n : 1
+charset bn:00017756n : 0
+auto bn:00007309n : 0
+em bn:00030453n : 0
+transaction bn:01650764n : 0
+version 7 bn:02248664n : 0
+compiler bn:00021344n : 1
+mamp bn:03197470n : 0
+homebrew bn:02339205n : 0
+macports bn:01068822n : 0
+directive bn:03824485n : 0
+buffers bn:00013673n : 0
+safe mode bn:01095828n : 0
+syntax highlighting bn:02006707n : 0
+processor bn:00014395n : 0
+web client bn:00013447n : 0
+sort bn:00082871v : 0
+public bn:00109211a : 0
+constraints bn:00022062n : 0
+open source bn:01157392n : 0
+define bn:00086465v : 0
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.25.txt
+
+Total : 34 / 147 (23.12%)
+
+####
+
+facebook bn:03624775n : 1
+site bn:00047172n : 1
+forum bn:14251420n : 0
+navigation bn:00057073n : 0
+message bn:00521573n : 1
+yahoo bn:00081801n : 0
+wordpress bn:03437452n : 0
+joomla bn:01946532n : 0
+ecommerce bn:00029344n : 0
+prestashop bn:01224182n : 0
+magento bn:00917637n : 0
+communication bn:00021221n : 0
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.25.txt
+
+Total : 22 / 93 (23.65%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.50.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 0
+css bn:01642119n : 1
+javascript bn:00055423n : 0
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 1
+url bn:00079080n : 1
+internet bn:00024712n : 1
+session bn:03751534n : 1
+page bn:00060158n : 1
+post bn:01500184n : 1
+session cookies bn:00070691n : 1
+server bn:00044916n : 0
+xhtml bn:01163644n : 0
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.50.txt
+
+Total : 13 / 17 (76.47%)
+
+####
+
+composant bn:02635060n : 0
+rel bn:03117903n : 0
+java interface bn:03111439n : 0
+autoload bn:01997802n : 0
+zend engine bn:01337536n : 0
+rpc bn:01991191n : 0
+xml bn:02771436n : 0
+active server page bn:02246064n : 0
+jscript bn:01995344n : 0
+sun bn:00075170n : 0
+sun one bn:02461700n : 0
+activex bn:03829972n : 0
+vbscript bn:02626435n : 0
+licence bn:00050986n : 1
+composer bn:17364202n : 0
+iso­8859­1 bn:00717125n : 0
+epub bn:01314222n : 0
+pdf bn:01745594n : 0
+mvc bn:02245403n : 0
+twig bn:02360542n : 0
+symfony bn:02798620n : 0
+tdd bn:02924470n : 0
+web service bn:03829842n : 0
+api bn:02130401n : 0
+git bn:01012408n : 0
+jit bn:01502421n : 0
+hhvm bn:16989031n : 0
+unicode bn:02529895n : 0
+saga bn:03877082n : 0
+hiphop bn:01959769n : 0
+xhp bn:14508869n : 0
+framework bn:14831528n : 0
+phalcon bn:15355608n : 0
+aot bn:15411174n : 0
+cakephp bn:03024996n : 0
+yii bn:02219993n : 0
+distribution bn:02322565n : 0
+pear bn:03735126n : 0
+dbx bn:03185121n : 0
+optimisation bn:01564896n : 0
+postgresql bn:01709156n : 0
+docbook bn:03194644n : 0
+gnu bn:00324017n : 0
+gnu fdl bn:01157394n : 0
+hash-tables bn:00587820n : 0
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.50.txt
+
+Total : 1 / 45 (2.22%)
+
+####
+
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+client bn:00019764n : 1
+programme bn:00021492n : 1
+perl bn:01723165n : 1
+python bn:01713224n : 0
+java bn:00048043n : 0
+size bn:00016413n : 1
+value bn:00079508n : 1
+encoder bn:02487361n : 0
+evaluation bn:03464447n : 0
+back office bn:01367276n : 0
+xamp bn:02350502n : 0
+doctype bn:15839327n : 0
+w3c bn:02673666n : 0
+blockquote bn:02659523n : 0
+tr bn:03561884n : 0
+dns bn:03714295n : 0
+xor bn:00178793n : 0
+expr bn:03120209n : 0
+trie bn:02479296n : 0
+method bn:01641329n : 0
+méthode bn:17307407n : 1
+bit bn:00010731n : 0
+expression bn:03834028n : 0
+structure bn:00025330n : 1
+locale bn:03080237n : 0
+enum bn:00031065n : 0
+set bn:00090224v : 0
+timestamp bn:03603649n : 1
+myisam bn:02270426n : 0
+innodb bn:01067935n : 0
+fread bn:01714886n : 0
+upload bn:14257394n : 0
+classes bn:03608262n : 0
+exception bn:03416394n : 1
+preprocessor bn:03699337n : 0
+home bn:00044994n : 0
+interpreter bn:00047204n : 0
+application bn:00005095n : 0
+query language bn:17302791n : 0
+lamp bn:01708928n : 1
+linux bn:00051427n : 1
+server side bn:03816678n : 0
+windows bn:00081305n : 1
+module bn:00021497n : 0
+execution bn:00016287n : 0
+flux bn:03889230n : 1
+charset bn:00017756n : 0
+auto bn:00007309n : 0
+em bn:00030453n : 0
+transaction bn:01650764n : 0
+version 7 bn:02248664n : 0
+compiler bn:00021344n : 1
+mamp bn:03197470n : 0
+homebrew bn:02339205n : 0
+macports bn:01068822n : 0
+directive bn:03824485n : 0
+buffers bn:00013673n : 0
+safe mode bn:01095828n : 0
+syntax highlighting bn:02006707n : 0
+processor bn:00014395n : 0
+web client bn:00013447n : 0
+sort bn:00082871v : 0
+public bn:00109211a : 0
+constraints bn:00022062n : 0
+open source bn:01157392n : 0
+define bn:00086465v : 0
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.50.txt
+
+Total : 33 / 147 (22.44%)
+
+####
+
+facebook bn:03624775n : 1
+site bn:00047172n : 1
+forum bn:14251420n : 0
+navigation bn:00057073n : 0
+message bn:00521573n : 1
+yahoo bn:00081801n : 0
+wordpress bn:03437452n : 0
+joomla bn:01946532n : 0
+ecommerce bn:00029344n : 0
+prestashop bn:01224182n : 0
+magento bn:00917637n : 0
+communication bn:00021221n : 0
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.50.txt
+
+Total : 22 / 93 (23.65%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.75.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 0
+css bn:01642119n : 0
+javascript bn:00055423n : 0
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 1
+url bn:00079080n : 1
+internet bn:00024712n : 1
+session bn:03751534n : 1
+page bn:00060158n : 1
+post bn:01500184n : 0
+session cookies bn:00070691n : 1
+server bn:00044916n : 0
+xhtml bn:01163644n : 0
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.75.txt
+
+Total : 11 / 17 (64.70%)
+
+####
+
+composant bn:02635060n : 0
+rel bn:03117903n : 0
+java interface bn:03111439n : 0
+autoload bn:01997802n : 0
+zend engine bn:01337536n : 0
+rpc bn:01991191n : 0
+xml bn:02771436n : 0
+active server page bn:02246064n : 0
+jscript bn:01995344n : 0
+sun bn:00075170n : 0
+sun one bn:02461700n : 0
+activex bn:03829972n : 0
+vbscript bn:02626435n : 0
+licence bn:00050986n : 1
+composer bn:17364202n : 0
+iso­8859­1 bn:00717125n : 0
+epub bn:01314222n : 0
+pdf bn:01745594n : 0
+mvc bn:02245403n : 0
+twig bn:02360542n : 0
+symfony bn:02798620n : 0
+tdd bn:02924470n : 0
+web service bn:03829842n : 0
+api bn:02130401n : 0
+git bn:01012408n : 0
+jit bn:01502421n : 0
+hhvm bn:16989031n : 0
+unicode bn:02529895n : 0
+saga bn:03877082n : 0
+hiphop bn:01959769n : 0
+xhp bn:14508869n : 0
+framework bn:14831528n : 0
+phalcon bn:15355608n : 0
+aot bn:15411174n : 0
+cakephp bn:03024996n : 0
+yii bn:02219993n : 0
+distribution bn:02322565n : 0
+pear bn:03735126n : 0
+dbx bn:03185121n : 0
+optimisation bn:01564896n : 0
+postgresql bn:01709156n : 0
+docbook bn:03194644n : 0
+gnu bn:00324017n : 0
+gnu fdl bn:01157394n : 0
+hash-tables bn:00587820n : 0
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.75.txt
+
+Total : 1 / 45 (2.22%)
+
+####
+
+web page bn:00080778n : 0
+http bn:00045088n : 0
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 0
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 0
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 0
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+client bn:00019764n : 1
+programme bn:00021492n : 1
+perl bn:01723165n : 0
+python bn:01713224n : 0
+java bn:00048043n : 0
+size bn:00016413n : 1
+value bn:00079508n : 1
+encoder bn:02487361n : 0
+evaluation bn:03464447n : 0
+back office bn:01367276n : 0
+xamp bn:02350502n : 0
+doctype bn:15839327n : 0
+w3c bn:02673666n : 0
+blockquote bn:02659523n : 0
+tr bn:03561884n : 0
+dns bn:03714295n : 0
+xor bn:00178793n : 0
+expr bn:03120209n : 0
+trie bn:02479296n : 0
+method bn:01641329n : 0
+méthode bn:17307407n : 0
+bit bn:00010731n : 0
+expression bn:03834028n : 0
+structure bn:00025330n : 1
+locale bn:03080237n : 0
+enum bn:00031065n : 0
+set bn:00090224v : 0
+timestamp bn:03603649n : 1
+myisam bn:02270426n : 0
+innodb bn:01067935n : 0
+fread bn:01714886n : 0
+upload bn:14257394n : 0
+classes bn:03608262n : 0
+exception bn:03416394n : 1
+preprocessor bn:03699337n : 0
+home bn:00044994n : 0
+interpreter bn:00047204n : 0
+application bn:00005095n : 0
+query language bn:17302791n : 0
+lamp bn:01708928n : 0
+linux bn:00051427n : 0
+server side bn:03816678n : 0
+windows bn:00081305n : 1
+module bn:00021497n : 0
+execution bn:00016287n : 0
+flux bn:03889230n : 1
+charset bn:00017756n : 0
+auto bn:00007309n : 0
+em bn:00030453n : 0
+transaction bn:01650764n : 0
+version 7 bn:02248664n : 0
+compiler bn:00021344n : 1
+mamp bn:03197470n : 0
+homebrew bn:02339205n : 0
+macports bn:01068822n : 0
+directive bn:03824485n : 0
+buffers bn:00013673n : 0
+safe mode bn:01095828n : 0
+syntax highlighting bn:02006707n : 0
+processor bn:00014395n : 0
+web client bn:00013447n : 0
+sort bn:00082871v : 0
+public bn:00109211a : 0
+constraints bn:00022062n : 0
+open source bn:01157392n : 0
+define bn:00086465v : 0
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.75.txt
+
+Total : 25 / 147 (17.00%)
+
+####
+
+facebook bn:03624775n : 1
+site bn:00047172n : 1
+forum bn:14251420n : 0
+navigation bn:00057073n : 0
+message bn:00521573n : 1
+yahoo bn:00081801n : 0
+wordpress bn:03437452n : 0
+joomla bn:01946532n : 0
+ecommerce bn:00029344n : 0
+prestashop bn:01224182n : 0
+magento bn:00917637n : 0
+communication bn:00021221n : 0
+web page bn:00080778n : 0
+http bn:00045088n : 0
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 0
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 0
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 0
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=0.75.txt
+
+Total : 18 / 93 (19.35%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=1.00.txt
+web bn:00080772n : 0
+navigation bn:00057073n : 0
+css bn:01642119n : 0
+javascript bn:00055423n : 0
+html bn:00045087n : 1
+apache bn:01932513n : 0
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 0
+url bn:00079080n : 1
+internet bn:00024712n : 0
+session bn:03751534n : 0
+page bn:00060158n : 0
+post bn:01500184n : 0
+session cookies bn:00070691n : 0
+server bn:00044916n : 0
+xhtml bn:01163644n : 0
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=1.00.txt
+
+Total : 4 / 17 (23.52%)
+
+####
+
+composant bn:02635060n : 0
+rel bn:03117903n : 0
+java interface bn:03111439n : 0
+autoload bn:01997802n : 0
+zend engine bn:01337536n : 0
+rpc bn:01991191n : 0
+xml bn:02771436n : 0
+active server page bn:02246064n : 0
+jscript bn:01995344n : 0
+sun bn:00075170n : 0
+sun one bn:02461700n : 0
+activex bn:03829972n : 0
+vbscript bn:02626435n : 0
+licence bn:00050986n : 0
+composer bn:17364202n : 0
+iso­8859­1 bn:00717125n : 0
+epub bn:01314222n : 0
+pdf bn:01745594n : 0
+mvc bn:02245403n : 0
+twig bn:02360542n : 0
+symfony bn:02798620n : 0
+tdd bn:02924470n : 0
+web service bn:03829842n : 0
+api bn:02130401n : 0
+git bn:01012408n : 0
+jit bn:01502421n : 0
+hhvm bn:16989031n : 0
+unicode bn:02529895n : 0
+saga bn:03877082n : 0
+hiphop bn:01959769n : 0
+xhp bn:14508869n : 0
+framework bn:14831528n : 0
+phalcon bn:15355608n : 0
+aot bn:15411174n : 0
+cakephp bn:03024996n : 0
+yii bn:02219993n : 0
+distribution bn:02322565n : 0
+pear bn:03735126n : 0
+dbx bn:03185121n : 0
+optimisation bn:01564896n : 0
+postgresql bn:01709156n : 0
+docbook bn:03194644n : 0
+gnu bn:00324017n : 0
+gnu fdl bn:01157394n : 0
+hash-tables bn:00587820n : 0
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=1.00.txt
+
+Total : 0 / 45 (0%)
+
+####
+
+web page bn:00080778n : 0
+http bn:00045088n : 0
+document bn:00028018n : 0
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 0
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 0
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 0
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 0
+include bn:00082370v : 0
+instruction bn:00020945n : 0
+test bn:01836974n : 0
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 0
+substr bn:17242513n : 0
+return bn:03828774n : 0
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 0
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 0
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 0
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+client bn:00019764n : 1
+programme bn:00021492n : 0
+perl bn:01723165n : 0
+python bn:01713224n : 0
+java bn:00048043n : 0
+size bn:00016413n : 1
+value bn:00079508n : 1
+encoder bn:02487361n : 0
+evaluation bn:03464447n : 0
+back office bn:01367276n : 0
+xamp bn:02350502n : 0
+doctype bn:15839327n : 0
+w3c bn:02673666n : 0
+blockquote bn:02659523n : 0
+tr bn:03561884n : 0
+dns bn:03714295n : 0
+xor bn:00178793n : 0
+expr bn:03120209n : 0
+trie bn:02479296n : 0
+method bn:01641329n : 0
+méthode bn:17307407n : 0
+bit bn:00010731n : 0
+expression bn:03834028n : 0
+structure bn:00025330n : 0
+locale bn:03080237n : 0
+enum bn:00031065n : 0
+set bn:00090224v : 0
+timestamp bn:03603649n : 0
+myisam bn:02270426n : 0
+innodb bn:01067935n : 0
+fread bn:01714886n : 0
+upload bn:14257394n : 0
+classes bn:03608262n : 0
+exception bn:03416394n : 0
+preprocessor bn:03699337n : 0
+home bn:00044994n : 0
+interpreter bn:00047204n : 0
+application bn:00005095n : 0
+query language bn:17302791n : 0
+lamp bn:01708928n : 0
+linux bn:00051427n : 0
+server side bn:03816678n : 0
+windows bn:00081305n : 0
+module bn:00021497n : 0
+execution bn:00016287n : 0
+flux bn:03889230n : 0
+charset bn:00017756n : 0
+auto bn:00007309n : 0
+em bn:00030453n : 0
+transaction bn:01650764n : 0
+version 7 bn:02248664n : 0
+compiler bn:00021344n : 0
+mamp bn:03197470n : 0
+homebrew bn:02339205n : 0
+macports bn:01068822n : 0
+directive bn:03824485n : 0
+buffers bn:00013673n : 0
+safe mode bn:01095828n : 0
+syntax highlighting bn:02006707n : 0
+processor bn:00014395n : 0
+web client bn:00013447n : 0
+sort bn:00082871v : 0
+public bn:00109211a : 0
+constraints bn:00022062n : 0
+open source bn:01157392n : 0
+define bn:00086465v : 0
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=1.00.txt
+
+Total : 6 / 147 (4.08%)
+
+####
+
+facebook bn:03624775n : 0
+site bn:00047172n : 1
+forum bn:14251420n : 0
+navigation bn:00057073n : 0
+message bn:00521573n : 0
+yahoo bn:00081801n : 0
+wordpress bn:03437452n : 0
+joomla bn:01946532n : 0
+ecommerce bn:00029344n : 0
+prestashop bn:01224182n : 0
+magento bn:00917637n : 0
+communication bn:00021221n : 0
+web page bn:00080778n : 0
+http bn:00045088n : 0
+document bn:00028018n : 0
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 0
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 0
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 0
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 0
+include bn:00082370v : 0
+instruction bn:00020945n : 0
+test bn:01836974n : 0
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 0
+substr bn:17242513n : 0
+return bn:03828774n : 0
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 0
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 0
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 0
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=B-B=1.00.txt
+
+Total : 4 / 93 (4.30%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.00.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 0
+css bn:01642119n : 1
+javascript bn:00055423n : 1
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 1
+url bn:00079080n : 1
+internet bn:00024712n : 1
+session bn:03751534n : 1
+page bn:00060158n : 1
+post bn:01500184n : 1
+session cookies bn:00070691n : 1
+server bn:00044916n : 0
+xhtml bn:01163644n : 0
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.00.txt
+
+Total : 14 / 17 (82.35%)
+
+####
+
+composant bn:02635060n : 0
+rel bn:03117903n : 0
+java interface bn:03111439n : 0
+autoload bn:01997802n : 0
+zend engine bn:01337536n : 0
+rpc bn:01991191n : 0
+xml bn:02771436n : 0
+active server page bn:02246064n : 0
+jscript bn:01995344n : 0
+sun bn:00075170n : 0
+sun one bn:02461700n : 0
+activex bn:03829972n : 0
+vbscript bn:02626435n : 0
+licence bn:00050986n : 1
+composer bn:17364202n : 0
+iso­8859­1 bn:00717125n : 0
+epub bn:01314222n : 0
+pdf bn:01745594n : 0
+mvc bn:02245403n : 0
+twig bn:02360542n : 0
+symfony bn:02798620n : 0
+tdd bn:02924470n : 0
+web service bn:03829842n : 0
+api bn:02130401n : 0
+git bn:01012408n : 0
+jit bn:01502421n : 0
+hhvm bn:16989031n : 0
+unicode bn:02529895n : 0
+saga bn:03877082n : 0
+hiphop bn:01959769n : 0
+xhp bn:14508869n : 0
+framework bn:14831528n : 0
+phalcon bn:15355608n : 0
+aot bn:15411174n : 0
+cakephp bn:03024996n : 0
+yii bn:02219993n : 0
+distribution bn:02322565n : 0
+pear bn:03735126n : 0
+dbx bn:03185121n : 0
+optimisation bn:01564896n : 0
+postgresql bn:01709156n : 0
+docbook bn:03194644n : 0
+gnu bn:00324017n : 0
+gnu fdl bn:01157394n : 0
+hash-tables bn:00587820n : 0
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.00.txt
+
+Total : 1 / 45 (2.22%)
+
+####
+
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+client bn:00019764n : 1
+programme bn:00021492n : 1
+perl bn:01723165n : 1
+python bn:01713224n : 0
+java bn:00048043n : 0
+size bn:00016413n : 1
+value bn:00079508n : 1
+encoder bn:02487361n : 0
+evaluation bn:03464447n : 0
+back office bn:01367276n : 0
+xamp bn:02350502n : 0
+doctype bn:15839327n : 0
+w3c bn:02673666n : 0
+blockquote bn:02659523n : 0
+tr bn:03561884n : 0
+dns bn:03714295n : 0
+xor bn:00178793n : 0
+expr bn:03120209n : 0
+trie bn:02479296n : 0
+method bn:01641329n : 0
+méthode bn:17307407n : 1
+bit bn:00010731n : 0
+expression bn:03834028n : 0
+structure bn:00025330n : 1
+locale bn:03080237n : 0
+enum bn:00031065n : 0
+set bn:00090224v : 0
+timestamp bn:03603649n : 1
+myisam bn:02270426n : 0
+innodb bn:01067935n : 0
+fread bn:01714886n : 0
+upload bn:14257394n : 0
+classes bn:03608262n : 0
+exception bn:03416394n : 1
+preprocessor bn:03699337n : 0
+home bn:00044994n : 0
+interpreter bn:00047204n : 0
+application bn:00005095n : 1
+query language bn:17302791n : 0
+lamp bn:01708928n : 1
+linux bn:00051427n : 1
+server side bn:03816678n : 0
+windows bn:00081305n : 1
+module bn:00021497n : 0
+execution bn:00016287n : 0
+flux bn:03889230n : 1
+charset bn:00017756n : 0
+auto bn:00007309n : 0
+em bn:00030453n : 0
+transaction bn:01650764n : 0
+version 7 bn:02248664n : 0
+compiler bn:00021344n : 1
+mamp bn:03197470n : 0
+homebrew bn:02339205n : 0
+macports bn:01068822n : 0
+directive bn:03824485n : 0
+buffers bn:00013673n : 0
+safe mode bn:01095828n : 0
+syntax highlighting bn:02006707n : 0
+processor bn:00014395n : 0
+web client bn:00013447n : 0
+sort bn:00082871v : 0
+public bn:00109211a : 0
+constraints bn:00022062n : 0
+open source bn:01157392n : 0
+define bn:00086465v : 0
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.00.txt
+
+Total : 34 / 147 (23.12%)
+
+####
+
+facebook bn:03624775n : 1
+site bn:00047172n : 1
+forum bn:14251420n : 0
+navigation bn:00057073n : 0
+message bn:00521573n : 1
+yahoo bn:00081801n : 0
+wordpress bn:03437452n : 0
+joomla bn:01946532n : 0
+ecommerce bn:00029344n : 0
+prestashop bn:01224182n : 0
+magento bn:00917637n : 0
+communication bn:00021221n : 0
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.00.txt
+
+Total : 22 / 93 (23.65%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.25.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 0
+css bn:01642119n : 1
+javascript bn:00055423n : 1
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 1
+url bn:00079080n : 1
+internet bn:00024712n : 1
+session bn:03751534n : 1
+page bn:00060158n : 1
+post bn:01500184n : 1
+session cookies bn:00070691n : 1
+server bn:00044916n : 0
+xhtml bn:01163644n : 0
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.25.txt
+
+Total : 14 / 17 (82.35%)
+
+####
+
+composant bn:02635060n : 0
+rel bn:03117903n : 0
+java interface bn:03111439n : 0
+autoload bn:01997802n : 0
+zend engine bn:01337536n : 0
+rpc bn:01991191n : 0
+xml bn:02771436n : 0
+active server page bn:02246064n : 0
+jscript bn:01995344n : 0
+sun bn:00075170n : 0
+sun one bn:02461700n : 0
+activex bn:03829972n : 0
+vbscript bn:02626435n : 0
+licence bn:00050986n : 1
+composer bn:17364202n : 0
+iso­8859­1 bn:00717125n : 0
+epub bn:01314222n : 0
+pdf bn:01745594n : 0
+mvc bn:02245403n : 0
+twig bn:02360542n : 0
+symfony bn:02798620n : 0
+tdd bn:02924470n : 0
+web service bn:03829842n : 0
+api bn:02130401n : 0
+git bn:01012408n : 0
+jit bn:01502421n : 0
+hhvm bn:16989031n : 0
+unicode bn:02529895n : 0
+saga bn:03877082n : 0
+hiphop bn:01959769n : 0
+xhp bn:14508869n : 0
+framework bn:14831528n : 0
+phalcon bn:15355608n : 0
+aot bn:15411174n : 0
+cakephp bn:03024996n : 0
+yii bn:02219993n : 0
+distribution bn:02322565n : 0
+pear bn:03735126n : 0
+dbx bn:03185121n : 0
+optimisation bn:01564896n : 0
+postgresql bn:01709156n : 0
+docbook bn:03194644n : 0
+gnu bn:00324017n : 0
+gnu fdl bn:01157394n : 0
+hash-tables bn:00587820n : 0
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.25.txt
+
+Total : 1 / 45 (2.22%)
+
+####
+
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+client bn:00019764n : 1
+programme bn:00021492n : 1
+perl bn:01723165n : 1
+python bn:01713224n : 0
+java bn:00048043n : 0
+size bn:00016413n : 1
+value bn:00079508n : 1
+encoder bn:02487361n : 0
+evaluation bn:03464447n : 0
+back office bn:01367276n : 0
+xamp bn:02350502n : 0
+doctype bn:15839327n : 0
+w3c bn:02673666n : 0
+blockquote bn:02659523n : 0
+tr bn:03561884n : 0
+dns bn:03714295n : 0
+xor bn:00178793n : 0
+expr bn:03120209n : 0
+trie bn:02479296n : 0
+method bn:01641329n : 0
+méthode bn:17307407n : 1
+bit bn:00010731n : 0
+expression bn:03834028n : 0
+structure bn:00025330n : 1
+locale bn:03080237n : 0
+enum bn:00031065n : 0
+set bn:00090224v : 0
+timestamp bn:03603649n : 1
+myisam bn:02270426n : 0
+innodb bn:01067935n : 0
+fread bn:01714886n : 0
+upload bn:14257394n : 0
+classes bn:03608262n : 0
+exception bn:03416394n : 1
+preprocessor bn:03699337n : 0
+home bn:00044994n : 0
+interpreter bn:00047204n : 0
+application bn:00005095n : 1
+query language bn:17302791n : 0
+lamp bn:01708928n : 1
+linux bn:00051427n : 1
+server side bn:03816678n : 0
+windows bn:00081305n : 1
+module bn:00021497n : 0
+execution bn:00016287n : 0
+flux bn:03889230n : 1
+charset bn:00017756n : 0
+auto bn:00007309n : 0
+em bn:00030453n : 0
+transaction bn:01650764n : 0
+version 7 bn:02248664n : 0
+compiler bn:00021344n : 1
+mamp bn:03197470n : 0
+homebrew bn:02339205n : 0
+macports bn:01068822n : 0
+directive bn:03824485n : 0
+buffers bn:00013673n : 0
+safe mode bn:01095828n : 0
+syntax highlighting bn:02006707n : 0
+processor bn:00014395n : 0
+web client bn:00013447n : 0
+sort bn:00082871v : 0
+public bn:00109211a : 0
+constraints bn:00022062n : 0
+open source bn:01157392n : 0
+define bn:00086465v : 0
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.25.txt
+
+Total : 34 / 147 (23.12%)
+
+####
+
+facebook bn:03624775n : 1
+site bn:00047172n : 1
+forum bn:14251420n : 0
+navigation bn:00057073n : 0
+message bn:00521573n : 1
+yahoo bn:00081801n : 0
+wordpress bn:03437452n : 0
+joomla bn:01946532n : 0
+ecommerce bn:00029344n : 0
+prestashop bn:01224182n : 0
+magento bn:00917637n : 0
+communication bn:00021221n : 0
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.25.txt
+
+Total : 22 / 93 (23.65%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.50.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 0
+css bn:01642119n : 1
+javascript bn:00055423n : 1
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 1
+url bn:00079080n : 1
+internet bn:00024712n : 1
+session bn:03751534n : 1
+page bn:00060158n : 1
+post bn:01500184n : 1
+session cookies bn:00070691n : 1
+server bn:00044916n : 0
+xhtml bn:01163644n : 0
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.50.txt
+
+Total : 14 / 17 (82.35%)
+
+####
+
+composant bn:02635060n : 0
+rel bn:03117903n : 0
+java interface bn:03111439n : 0
+autoload bn:01997802n : 0
+zend engine bn:01337536n : 0
+rpc bn:01991191n : 0
+xml bn:02771436n : 0
+active server page bn:02246064n : 0
+jscript bn:01995344n : 0
+sun bn:00075170n : 0
+sun one bn:02461700n : 0
+activex bn:03829972n : 0
+vbscript bn:02626435n : 0
+licence bn:00050986n : 1
+composer bn:17364202n : 0
+iso­8859­1 bn:00717125n : 0
+epub bn:01314222n : 0
+pdf bn:01745594n : 0
+mvc bn:02245403n : 0
+twig bn:02360542n : 0
+symfony bn:02798620n : 0
+tdd bn:02924470n : 0
+web service bn:03829842n : 0
+api bn:02130401n : 0
+git bn:01012408n : 0
+jit bn:01502421n : 0
+hhvm bn:16989031n : 0
+unicode bn:02529895n : 0
+saga bn:03877082n : 0
+hiphop bn:01959769n : 0
+xhp bn:14508869n : 0
+framework bn:14831528n : 0
+phalcon bn:15355608n : 0
+aot bn:15411174n : 0
+cakephp bn:03024996n : 0
+yii bn:02219993n : 0
+distribution bn:02322565n : 0
+pear bn:03735126n : 0
+dbx bn:03185121n : 0
+optimisation bn:01564896n : 0
+postgresql bn:01709156n : 0
+docbook bn:03194644n : 0
+gnu bn:00324017n : 0
+gnu fdl bn:01157394n : 0
+hash-tables bn:00587820n : 0
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.50.txt
+
+Total : 1 / 45 (2.22%)
+
+####
+
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+client bn:00019764n : 1
+programme bn:00021492n : 1
+perl bn:01723165n : 1
+python bn:01713224n : 0
+java bn:00048043n : 0
+size bn:00016413n : 1
+value bn:00079508n : 1
+encoder bn:02487361n : 0
+evaluation bn:03464447n : 0
+back office bn:01367276n : 0
+xamp bn:02350502n : 0
+doctype bn:15839327n : 0
+w3c bn:02673666n : 0
+blockquote bn:02659523n : 0
+tr bn:03561884n : 0
+dns bn:03714295n : 0
+xor bn:00178793n : 0
+expr bn:03120209n : 0
+trie bn:02479296n : 0
+method bn:01641329n : 0
+méthode bn:17307407n : 1
+bit bn:00010731n : 0
+expression bn:03834028n : 0
+structure bn:00025330n : 1
+locale bn:03080237n : 0
+enum bn:00031065n : 0
+set bn:00090224v : 0
+timestamp bn:03603649n : 1
+myisam bn:02270426n : 0
+innodb bn:01067935n : 0
+fread bn:01714886n : 0
+upload bn:14257394n : 0
+classes bn:03608262n : 0
+exception bn:03416394n : 1
+preprocessor bn:03699337n : 0
+home bn:00044994n : 0
+interpreter bn:00047204n : 0
+application bn:00005095n : 1
+query language bn:17302791n : 0
+lamp bn:01708928n : 1
+linux bn:00051427n : 1
+server side bn:03816678n : 0
+windows bn:00081305n : 1
+module bn:00021497n : 0
+execution bn:00016287n : 0
+flux bn:03889230n : 1
+charset bn:00017756n : 0
+auto bn:00007309n : 0
+em bn:00030453n : 0
+transaction bn:01650764n : 0
+version 7 bn:02248664n : 0
+compiler bn:00021344n : 1
+mamp bn:03197470n : 0
+homebrew bn:02339205n : 0
+macports bn:01068822n : 0
+directive bn:03824485n : 0
+buffers bn:00013673n : 0
+safe mode bn:01095828n : 0
+syntax highlighting bn:02006707n : 0
+processor bn:00014395n : 0
+web client bn:00013447n : 0
+sort bn:00082871v : 0
+public bn:00109211a : 0
+constraints bn:00022062n : 0
+open source bn:01157392n : 0
+define bn:00086465v : 0
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.50.txt
+
+Total : 34 / 147 (23.12%)
+
+####
+
+facebook bn:03624775n : 1
+site bn:00047172n : 1
+forum bn:14251420n : 0
+navigation bn:00057073n : 0
+message bn:00521573n : 1
+yahoo bn:00081801n : 0
+wordpress bn:03437452n : 0
+joomla bn:01946532n : 0
+ecommerce bn:00029344n : 0
+prestashop bn:01224182n : 0
+magento bn:00917637n : 0
+communication bn:00021221n : 0
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 1
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.50.txt
+
+Total : 22 / 93 (23.65%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.75.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 0
+css bn:01642119n : 1
+javascript bn:00055423n : 1
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 1
+url bn:00079080n : 0
+internet bn:00024712n : 1
+session bn:03751534n : 1
+page bn:00060158n : 1
+post bn:01500184n : 1
+session cookies bn:00070691n : 1
+server bn:00044916n : 0
+xhtml bn:01163644n : 0
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.75.txt
+
+Total : 13 / 17 (76.47%)
+
+####
+
+composant bn:02635060n : 0
+rel bn:03117903n : 0
+java interface bn:03111439n : 0
+autoload bn:01997802n : 0
+zend engine bn:01337536n : 0
+rpc bn:01991191n : 0
+xml bn:02771436n : 0
+active server page bn:02246064n : 0
+jscript bn:01995344n : 0
+sun bn:00075170n : 0
+sun one bn:02461700n : 0
+activex bn:03829972n : 0
+vbscript bn:02626435n : 0
+licence bn:00050986n : 1
+composer bn:17364202n : 0
+iso­8859­1 bn:00717125n : 0
+epub bn:01314222n : 0
+pdf bn:01745594n : 0
+mvc bn:02245403n : 0
+twig bn:02360542n : 0
+symfony bn:02798620n : 0
+tdd bn:02924470n : 0
+web service bn:03829842n : 0
+api bn:02130401n : 0
+git bn:01012408n : 0
+jit bn:01502421n : 0
+hhvm bn:16989031n : 0
+unicode bn:02529895n : 0
+saga bn:03877082n : 0
+hiphop bn:01959769n : 0
+xhp bn:14508869n : 0
+framework bn:14831528n : 0
+phalcon bn:15355608n : 0
+aot bn:15411174n : 0
+cakephp bn:03024996n : 0
+yii bn:02219993n : 0
+distribution bn:02322565n : 0
+pear bn:03735126n : 0
+dbx bn:03185121n : 0
+optimisation bn:01564896n : 0
+postgresql bn:01709156n : 0
+docbook bn:03194644n : 0
+gnu bn:00324017n : 0
+gnu fdl bn:01157394n : 0
+hash-tables bn:00587820n : 0
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.75.txt
+
+Total : 1 / 45 (2.22%)
+
+####
+
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 0
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+client bn:00019764n : 1
+programme bn:00021492n : 1
+perl bn:01723165n : 1
+python bn:01713224n : 0
+java bn:00048043n : 0
+size bn:00016413n : 1
+value bn:00079508n : 0
+encoder bn:02487361n : 0
+evaluation bn:03464447n : 0
+back office bn:01367276n : 0
+xamp bn:02350502n : 0
+doctype bn:15839327n : 0
+w3c bn:02673666n : 0
+blockquote bn:02659523n : 0
+tr bn:03561884n : 0
+dns bn:03714295n : 0
+xor bn:00178793n : 0
+expr bn:03120209n : 0
+trie bn:02479296n : 0
+method bn:01641329n : 0
+méthode bn:17307407n : 1
+bit bn:00010731n : 0
+expression bn:03834028n : 0
+structure bn:00025330n : 1
+locale bn:03080237n : 0
+enum bn:00031065n : 0
+set bn:00090224v : 0
+timestamp bn:03603649n : 1
+myisam bn:02270426n : 0
+innodb bn:01067935n : 0
+fread bn:01714886n : 0
+upload bn:14257394n : 0
+classes bn:03608262n : 0
+exception bn:03416394n : 1
+preprocessor bn:03699337n : 0
+home bn:00044994n : 0
+interpreter bn:00047204n : 0
+application bn:00005095n : 1
+query language bn:17302791n : 0
+lamp bn:01708928n : 1
+linux bn:00051427n : 1
+server side bn:03816678n : 0
+windows bn:00081305n : 1
+module bn:00021497n : 0
+execution bn:00016287n : 0
+flux bn:03889230n : 1
+charset bn:00017756n : 0
+auto bn:00007309n : 0
+em bn:00030453n : 0
+transaction bn:01650764n : 0
+version 7 bn:02248664n : 0
+compiler bn:00021344n : 1
+mamp bn:03197470n : 0
+homebrew bn:02339205n : 0
+macports bn:01068822n : 0
+directive bn:03824485n : 0
+buffers bn:00013673n : 0
+safe mode bn:01095828n : 0
+syntax highlighting bn:02006707n : 0
+processor bn:00014395n : 0
+web client bn:00013447n : 0
+sort bn:00082871v : 0
+public bn:00109211a : 0
+constraints bn:00022062n : 0
+open source bn:01157392n : 0
+define bn:00086465v : 0
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.75.txt
+
+Total : 32 / 147 (21.76%)
+
+####
+
+facebook bn:03624775n : 1
+site bn:00047172n : 1
+forum bn:14251420n : 0
+navigation bn:00057073n : 0
+message bn:00521573n : 1
+yahoo bn:00081801n : 0
+wordpress bn:03437452n : 0
+joomla bn:01946532n : 0
+ecommerce bn:00029344n : 0
+prestashop bn:01224182n : 0
+magento bn:00917637n : 0
+communication bn:00021221n : 0
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 1
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 1
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 1
+include bn:00082370v : 0
+instruction bn:00020945n : 1
+test bn:01836974n : 0
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 0
+foreach bn:03463379n : 0
+id bn:00729878n : 0
+strlen bn:02730004n : 1
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 1
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 1
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=0.75.txt
+
+Total : 21 / 93 (22.58%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=1.00.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 0
+css bn:01642119n : 1
+javascript bn:00055423n : 1
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 0
+url bn:00079080n : 0
+internet bn:00024712n : 0
+session bn:03751534n : 1
+page bn:00060158n : 0
+post bn:01500184n : 1
+session cookies bn:00070691n : 0
+server bn:00044916n : 0
+xhtml bn:01163644n : 0
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=1.00.txt
+
+Total : 9 / 17 (52.94%)
+
+####
+
+composant bn:02635060n : 0
+rel bn:03117903n : 0
+java interface bn:03111439n : 0
+autoload bn:01997802n : 0
+zend engine bn:01337536n : 0
+rpc bn:01991191n : 0
+xml bn:02771436n : 0
+active server page bn:02246064n : 0
+jscript bn:01995344n : 0
+sun bn:00075170n : 0
+sun one bn:02461700n : 0
+activex bn:03829972n : 0
+vbscript bn:02626435n : 0
+licence bn:00050986n : 0
+composer bn:17364202n : 0
+iso­8859­1 bn:00717125n : 0
+epub bn:01314222n : 0
+pdf bn:01745594n : 0
+mvc bn:02245403n : 0
+twig bn:02360542n : 0
+symfony bn:02798620n : 0
+tdd bn:02924470n : 0
+web service bn:03829842n : 0
+api bn:02130401n : 0
+git bn:01012408n : 0
+jit bn:01502421n : 0
+hhvm bn:16989031n : 0
+unicode bn:02529895n : 0
+saga bn:03877082n : 0
+hiphop bn:01959769n : 0
+xhp bn:14508869n : 0
+framework bn:14831528n : 0
+phalcon bn:15355608n : 0
+aot bn:15411174n : 0
+cakephp bn:03024996n : 0
+yii bn:02219993n : 0
+distribution bn:02322565n : 0
+pear bn:03735126n : 0
+dbx bn:03185121n : 0
+optimisation bn:01564896n : 0
+postgresql bn:01709156n : 0
+docbook bn:03194644n : 0
+gnu bn:00324017n : 0
+gnu fdl bn:01157394n : 0
+hash-tables bn:00587820n : 0
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=1.00.txt
+
+Total : 0 / 45 (0%)
+
+####
+
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 0
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 0
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 0
+include bn:00082370v : 0
+instruction bn:00020945n : 0
+test bn:01836974n : 0
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 0
+foreach bn:03463379n : 0
+id bn:00729878n : 0
+strlen bn:02730004n : 0
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 0
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 0
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+client bn:00019764n : 1
+programme bn:00021492n : 1
+perl bn:01723165n : 1
+python bn:01713224n : 0
+java bn:00048043n : 0
+size bn:00016413n : 1
+value bn:00079508n : 0
+encoder bn:02487361n : 0
+evaluation bn:03464447n : 0
+back office bn:01367276n : 0
+xamp bn:02350502n : 0
+doctype bn:15839327n : 0
+w3c bn:02673666n : 0
+blockquote bn:02659523n : 0
+tr bn:03561884n : 0
+dns bn:03714295n : 0
+xor bn:00178793n : 0
+expr bn:03120209n : 0
+trie bn:02479296n : 0
+method bn:01641329n : 0
+méthode bn:17307407n : 1
+bit bn:00010731n : 0
+expression bn:03834028n : 0
+structure bn:00025330n : 1
+locale bn:03080237n : 0
+enum bn:00031065n : 0
+set bn:00090224v : 0
+timestamp bn:03603649n : 0
+myisam bn:02270426n : 0
+innodb bn:01067935n : 0
+fread bn:01714886n : 0
+upload bn:14257394n : 0
+classes bn:03608262n : 0
+exception bn:03416394n : 0
+preprocessor bn:03699337n : 0
+home bn:00044994n : 0
+interpreter bn:00047204n : 0
+application bn:00005095n : 1
+query language bn:17302791n : 0
+lamp bn:01708928n : 1
+linux bn:00051427n : 1
+server side bn:03816678n : 0
+windows bn:00081305n : 0
+module bn:00021497n : 0
+execution bn:00016287n : 0
+flux bn:03889230n : 0
+charset bn:00017756n : 0
+auto bn:00007309n : 0
+em bn:00030453n : 0
+transaction bn:01650764n : 0
+version 7 bn:02248664n : 0
+compiler bn:00021344n : 0
+mamp bn:03197470n : 0
+homebrew bn:02339205n : 0
+macports bn:01068822n : 0
+directive bn:03824485n : 0
+buffers bn:00013673n : 0
+safe mode bn:01095828n : 0
+syntax highlighting bn:02006707n : 0
+processor bn:00014395n : 0
+web client bn:00013447n : 0
+sort bn:00082871v : 0
+public bn:00109211a : 0
+constraints bn:00022062n : 0
+open source bn:01157392n : 0
+define bn:00086465v : 0
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=1.00.txt
+
+Total : 16 / 147 (10.88%)
+
+####
+
+facebook bn:03624775n : 0
+site bn:00047172n : 1
+forum bn:14251420n : 0
+navigation bn:00057073n : 0
+message bn:00521573n : 0
+yahoo bn:00081801n : 0
+wordpress bn:03437452n : 0
+joomla bn:01946532n : 0
+ecommerce bn:00029344n : 0
+prestashop bn:01224182n : 0
+magento bn:00917637n : 0
+communication bn:00021221n : 0
+web page bn:00080778n : 0
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 0
+tableau bn:00051926n : 0
+text bn:00076732n : 0
+password bn:00023218n : 0
+variables bn:00079583n : 0
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 0
+tutorial bn:00078719n : 0
+header bn:00043309n : 0
+firefox bn:01387235n : 0
+internet explorer bn:17346309n : 0
+internet explorer 9 bn:00863156n : 0
+explorer bn:00032342n : 0
+h2 bn:02803535n : 0
+caption bn:00015763n : 0
+tbody bn:02104867n : 0
+jpg bn:00838809n : 0
+color bn:00020726n : 0
+include bn:00082370v : 0
+instruction bn:00020945n : 0
+test bn:01836974n : 0
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 0
+foreach bn:03463379n : 0
+id bn:00729878n : 0
+strlen bn:02730004n : 0
+substr bn:17242513n : 0
+return bn:03828774n : 1
+require_once bn:02174453n : 0
+radio bn:00065899n : 0
+date bn:15315044n : 0
+strftime bn:03338250n : 0
+phpmyadmin bn:03382496n : 0
+format bn:01626478n : 0
+polices bn:00022026n : 0
+identification bn:00045819n : 0
+hypertext bn:00545957n : 1
+markup bn:00053491n : 0
+markup language bn:00053492n : 0
+menu bn:00021485n : 0
+link bn:00045513n : 0
+italic bn:02014607n : 0
+underline bn:00095362v : 0
+margin bn:00053397n : 0
+meta bn:03509721n : 0
+div bn:02567434n : 0
+footer bn:00035726n : 0
+coin bn:00020497n : 0
+gauche bn:00931251n : 0
+right bn:00031712n : 0
+installation bn:03478637n : 0
+cms bn:03631223n : 0
+content management bn:01533805n : 0
+number bn:00058285n : 0
+digit bn:00025702n : 0
+max bn:03253563n : 0
+plugins bn:00001275n : 0
+length bn:00050662n : 0
+faq bn:00033653n : 0
+apostrophe bn:00004988n : 0
+inscription bn:00046867n : 0
+condition bn:03183137n : 0
+true bn:00101187a : 0
+exit bn:00087845v : 0
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 0
+user bn:00079373n : 0
+integer bn:00047009n : 0
+base 10 bn:00025700n : 0
+addition bn:00001296n : 0
+multiplication bn:00056300n : 0
+division bn:00027919n : 0
+modulo bn:00553864n : 0
+date_format bn:03576260n : 0
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=H-B=1.00.txt
+
+Total : 8 / 93 (8.60%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.00.txt
+web bn:00080772n : 0
+navigation bn:00057073n : 1
+css bn:01642119n : 0
+javascript bn:00055423n : 0
+html bn:00045087n : 0
+apache bn:01932513n : 0
+php bn:01753580n : 0
+mysql bn:01225760n : 1
+sql bn:02266432n : 0
+url bn:00079080n : 0
+internet bn:00024712n : 0
+session bn:03751534n : 0
+page bn:00060158n : 0
+post bn:01500184n : 0
+session cookies bn:00070691n : 0
+server bn:00044916n : 1
+xhtml bn:01163644n : 1
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.00.txt
+
+Total : 4 / 17 (23.52%)
+
+####
+
+composant bn:02635060n : 1
+rel bn:03117903n : 1
+java interface bn:03111439n : 1
+autoload bn:01997802n : 1
+zend engine bn:01337536n : 1
+rpc bn:01991191n : 1
+xml bn:02771436n : 1
+active server page bn:02246064n : 1
+jscript bn:01995344n : 1
+sun bn:00075170n : 1
+sun one bn:02461700n : 1
+activex bn:03829972n : 1
+vbscript bn:02626435n : 1
+licence bn:00050986n : 0
+composer bn:17364202n : 1
+iso­8859­1 bn:00717125n : 1
+epub bn:01314222n : 1
+pdf bn:01745594n : 1
+mvc bn:02245403n : 1
+twig bn:02360542n : 1
+symfony bn:02798620n : 1
+tdd bn:02924470n : 1
+web service bn:03829842n : 1
+api bn:02130401n : 1
+git bn:01012408n : 1
+jit bn:01502421n : 1
+hhvm bn:16989031n : 1
+unicode bn:02529895n : 1
+saga bn:03877082n : 1
+hiphop bn:01959769n : 1
+xhp bn:14508869n : 1
+framework bn:14831528n : 1
+phalcon bn:15355608n : 1
+aot bn:15411174n : 1
+cakephp bn:03024996n : 1
+yii bn:02219993n : 1
+distribution bn:02322565n : 1
+pear bn:03735126n : 1
+dbx bn:03185121n : 1
+optimisation bn:01564896n : 1
+postgresql bn:01709156n : 1
+docbook bn:03194644n : 1
+gnu bn:00324017n : 1
+gnu fdl bn:01157394n : 1
+hash-tables bn:00587820n : 1
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.00.txt
+
+Total : 44 / 45 (97.77%)
+
+####
+
+web page bn:00080778n : 1
+http bn:00045088n : 0
+document bn:00028018n : 0
+code bn:00020354n : 0
+print bn:00064437n : 1
+tableau bn:00051926n : 0
+text bn:00076732n : 1
+password bn:00023218n : 1
+variables bn:00079583n : 1
+entier bn:03340872n : 0
+version bn:00047114n : 0
+html 5 bn:03675085n : 1
+tutorial bn:00078719n : 1
+header bn:00043309n : 1
+firefox bn:01387235n : 1
+internet explorer bn:17346309n : 1
+internet explorer 9 bn:00863156n : 1
+explorer bn:00032342n : 1
+h2 bn:02803535n : 0
+caption bn:00015763n : 1
+tbody bn:02104867n : 1
+jpg bn:00838809n : 1
+color bn:00020726n : 0
+include bn:00082370v : 1
+instruction bn:00020945n : 0
+test bn:01836974n : 1
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 1
+foreach bn:03463379n : 0
+id bn:00729878n : 1
+strlen bn:02730004n : 0
+substr bn:17242513n : 1
+return bn:03828774n : 0
+require_once bn:02174453n : 1
+radio bn:00065899n : 1
+date bn:15315044n : 0
+strftime bn:03338250n : 1
+phpmyadmin bn:03382496n : 1
+format bn:01626478n : 1
+polices bn:00022026n : 1
+identification bn:00045819n : 1
+hypertext bn:00545957n : 0
+markup bn:00053491n : 1
+markup language bn:00053492n : 1
+menu bn:00021485n : 1
+link bn:00045513n : 1
+italic bn:02014607n : 1
+underline bn:00095362v : 1
+margin bn:00053397n : 1
+meta bn:03509721n : 1
+div bn:02567434n : 1
+footer bn:00035726n : 1
+coin bn:00020497n : 1
+gauche bn:00931251n : 1
+right bn:00031712n : 1
+installation bn:03478637n : 0
+cms bn:03631223n : 1
+content management bn:01533805n : 1
+number bn:00058285n : 1
+digit bn:00025702n : 1
+max bn:03253563n : 1
+plugins bn:00001275n : 1
+length bn:00050662n : 1
+faq bn:00033653n : 1
+apostrophe bn:00004988n : 1
+inscription bn:00046867n : 1
+condition bn:03183137n : 1
+true bn:00101187a : 1
+exit bn:00087845v : 1
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 1
+user bn:00079373n : 1
+integer bn:00047009n : 1
+base 10 bn:00025700n : 1
+addition bn:00001296n : 1
+multiplication bn:00056300n : 1
+division bn:00027919n : 1
+modulo bn:00553864n : 1
+date_format bn:03576260n : 1
+client bn:00019764n : 0
+programme bn:00021492n : 0
+perl bn:01723165n : 0
+python bn:01713224n : 1
+java bn:00048043n : 1
+size bn:00016413n : 0
+value bn:00079508n : 0
+encoder bn:02487361n : 1
+evaluation bn:03464447n : 1
+back office bn:01367276n : 1
+xamp bn:02350502n : 1
+doctype bn:15839327n : 1
+w3c bn:02673666n : 1
+blockquote bn:02659523n : 1
+tr bn:03561884n : 1
+dns bn:03714295n : 1
+xor bn:00178793n : 1
+expr bn:03120209n : 1
+trie bn:02479296n : 1
+method bn:01641329n : 1
+méthode bn:17307407n : 0
+bit bn:00010731n : 1
+expression bn:03834028n : 1
+structure bn:00025330n : 0
+locale bn:03080237n : 1
+enum bn:00031065n : 1
+set bn:00090224v : 1
+timestamp bn:03603649n : 0
+myisam bn:02270426n : 1
+innodb bn:01067935n : 1
+fread bn:01714886n : 1
+upload bn:14257394n : 1
+classes bn:03608262n : 1
+exception bn:03416394n : 0
+preprocessor bn:03699337n : 1
+home bn:00044994n : 1
+interpreter bn:00047204n : 1
+application bn:00005095n : 0
+query language bn:17302791n : 1
+lamp bn:01708928n : 0
+linux bn:00051427n : 0
+server side bn:03816678n : 1
+windows bn:00081305n : 0
+module bn:00021497n : 1
+execution bn:00016287n : 1
+flux bn:03889230n : 0
+charset bn:00017756n : 1
+auto bn:00007309n : 1
+em bn:00030453n : 1
+transaction bn:01650764n : 1
+version 7 bn:02248664n : 1
+compiler bn:00021344n : 0
+mamp bn:03197470n : 1
+homebrew bn:02339205n : 1
+macports bn:01068822n : 1
+directive bn:03824485n : 1
+buffers bn:00013673n : 1
+safe mode bn:01095828n : 1
+syntax highlighting bn:02006707n : 1
+processor bn:00014395n : 1
+web client bn:00013447n : 1
+sort bn:00082871v : 1
+public bn:00109211a : 1
+constraints bn:00022062n : 1
+open source bn:01157392n : 1
+define bn:00086465v : 1
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.00.txt
+
+Total : 113 / 147 (76.87%)
+
+####
+
+facebook bn:03624775n : 0
+site bn:00047172n : 0
+forum bn:14251420n : 1
+navigation bn:00057073n : 1
+message bn:00521573n : 0
+yahoo bn:00081801n : 1
+wordpress bn:03437452n : 1
+joomla bn:01946532n : 1
+ecommerce bn:00029344n : 1
+prestashop bn:01224182n : 1
+magento bn:00917637n : 1
+communication bn:00021221n : 1
+web page bn:00080778n : 1
+http bn:00045088n : 0
+document bn:00028018n : 0
+code bn:00020354n : 0
+print bn:00064437n : 1
+tableau bn:00051926n : 0
+text bn:00076732n : 1
+password bn:00023218n : 1
+variables bn:00079583n : 1
+entier bn:03340872n : 0
+version bn:00047114n : 0
+html 5 bn:03675085n : 1
+tutorial bn:00078719n : 1
+header bn:00043309n : 1
+firefox bn:01387235n : 1
+internet explorer bn:17346309n : 1
+internet explorer 9 bn:00863156n : 1
+explorer bn:00032342n : 1
+h2 bn:02803535n : 0
+caption bn:00015763n : 1
+tbody bn:02104867n : 1
+jpg bn:00838809n : 1
+color bn:00020726n : 0
+include bn:00082370v : 1
+instruction bn:00020945n : 0
+test bn:01836974n : 1
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 1
+foreach bn:03463379n : 0
+id bn:00729878n : 1
+strlen bn:02730004n : 0
+substr bn:17242513n : 1
+return bn:03828774n : 0
+require_once bn:02174453n : 1
+radio bn:00065899n : 1
+date bn:15315044n : 0
+strftime bn:03338250n : 1
+phpmyadmin bn:03382496n : 1
+format bn:01626478n : 1
+polices bn:00022026n : 1
+identification bn:00045819n : 1
+hypertext bn:00545957n : 0
+markup bn:00053491n : 1
+markup language bn:00053492n : 1
+menu bn:00021485n : 1
+link bn:00045513n : 1
+italic bn:02014607n : 1
+underline bn:00095362v : 1
+margin bn:00053397n : 1
+meta bn:03509721n : 1
+div bn:02567434n : 1
+footer bn:00035726n : 1
+coin bn:00020497n : 1
+gauche bn:00931251n : 1
+right bn:00031712n : 1
+installation bn:03478637n : 0
+cms bn:03631223n : 1
+content management bn:01533805n : 1
+number bn:00058285n : 1
+digit bn:00025702n : 1
+max bn:03253563n : 1
+plugins bn:00001275n : 1
+length bn:00050662n : 1
+faq bn:00033653n : 1
+apostrophe bn:00004988n : 1
+inscription bn:00046867n : 1
+condition bn:03183137n : 1
+true bn:00101187a : 1
+exit bn:00087845v : 1
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 1
+user bn:00079373n : 1
+integer bn:00047009n : 1
+base 10 bn:00025700n : 1
+addition bn:00001296n : 1
+multiplication bn:00056300n : 1
+division bn:00027919n : 1
+modulo bn:00553864n : 1
+date_format bn:03576260n : 1
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.00.txt
+
+Total : 71 / 93 (76.34%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.25.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 1
+css bn:01642119n : 1
+javascript bn:00055423n : 0
+html bn:00045087n : 0
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 0
+url bn:00079080n : 0
+internet bn:00024712n : 0
+session bn:03751534n : 0
+page bn:00060158n : 0
+post bn:01500184n : 0
+session cookies bn:00070691n : 0
+server bn:00044916n : 1
+xhtml bn:01163644n : 1
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.25.txt
+
+Total : 8 / 17 (47.05%)
+
+####
+
+composant bn:02635060n : 1
+rel bn:03117903n : 1
+java interface bn:03111439n : 1
+autoload bn:01997802n : 1
+zend engine bn:01337536n : 1
+rpc bn:01991191n : 1
+xml bn:02771436n : 1
+active server page bn:02246064n : 1
+jscript bn:01995344n : 1
+sun bn:00075170n : 1
+sun one bn:02461700n : 1
+activex bn:03829972n : 1
+vbscript bn:02626435n : 1
+licence bn:00050986n : 0
+composer bn:17364202n : 1
+iso­8859­1 bn:00717125n : 1
+epub bn:01314222n : 1
+pdf bn:01745594n : 1
+mvc bn:02245403n : 1
+twig bn:02360542n : 1
+symfony bn:02798620n : 1
+tdd bn:02924470n : 1
+web service bn:03829842n : 1
+api bn:02130401n : 1
+git bn:01012408n : 1
+jit bn:01502421n : 1
+hhvm bn:16989031n : 1
+unicode bn:02529895n : 1
+saga bn:03877082n : 1
+hiphop bn:01959769n : 1
+xhp bn:14508869n : 1
+framework bn:14831528n : 1
+phalcon bn:15355608n : 1
+aot bn:15411174n : 1
+cakephp bn:03024996n : 1
+yii bn:02219993n : 1
+distribution bn:02322565n : 1
+pear bn:03735126n : 1
+dbx bn:03185121n : 1
+optimisation bn:01564896n : 1
+postgresql bn:01709156n : 1
+docbook bn:03194644n : 1
+gnu bn:00324017n : 1
+gnu fdl bn:01157394n : 1
+hash-tables bn:00587820n : 1
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.25.txt
+
+Total : 44 / 45 (97.77%)
+
+####
+
+web page bn:00080778n : 1
+http bn:00045088n : 0
+document bn:00028018n : 0
+code bn:00020354n : 1
+print bn:00064437n : 1
+tableau bn:00051926n : 0
+text bn:00076732n : 1
+password bn:00023218n : 1
+variables bn:00079583n : 1
+entier bn:03340872n : 0
+version bn:00047114n : 0
+html 5 bn:03675085n : 1
+tutorial bn:00078719n : 1
+header bn:00043309n : 1
+firefox bn:01387235n : 1
+internet explorer bn:17346309n : 1
+internet explorer 9 bn:00863156n : 1
+explorer bn:00032342n : 1
+h2 bn:02803535n : 0
+caption bn:00015763n : 1
+tbody bn:02104867n : 1
+jpg bn:00838809n : 1
+color bn:00020726n : 0
+include bn:00082370v : 1
+instruction bn:00020945n : 0
+test bn:01836974n : 1
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 1
+foreach bn:03463379n : 0
+id bn:00729878n : 1
+strlen bn:02730004n : 0
+substr bn:17242513n : 1
+return bn:03828774n : 0
+require_once bn:02174453n : 1
+radio bn:00065899n : 1
+date bn:15315044n : 0
+strftime bn:03338250n : 1
+phpmyadmin bn:03382496n : 1
+format bn:01626478n : 1
+polices bn:00022026n : 1
+identification bn:00045819n : 1
+hypertext bn:00545957n : 0
+markup bn:00053491n : 1
+markup language bn:00053492n : 1
+menu bn:00021485n : 1
+link bn:00045513n : 1
+italic bn:02014607n : 1
+underline bn:00095362v : 1
+margin bn:00053397n : 1
+meta bn:03509721n : 1
+div bn:02567434n : 1
+footer bn:00035726n : 1
+coin bn:00020497n : 1
+gauche bn:00931251n : 1
+right bn:00031712n : 1
+installation bn:03478637n : 0
+cms bn:03631223n : 1
+content management bn:01533805n : 1
+number bn:00058285n : 1
+digit bn:00025702n : 1
+max bn:03253563n : 1
+plugins bn:00001275n : 1
+length bn:00050662n : 1
+faq bn:00033653n : 1
+apostrophe bn:00004988n : 1
+inscription bn:00046867n : 1
+condition bn:03183137n : 1
+true bn:00101187a : 1
+exit bn:00087845v : 1
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 1
+user bn:00079373n : 1
+integer bn:00047009n : 1
+base 10 bn:00025700n : 1
+addition bn:00001296n : 1
+multiplication bn:00056300n : 1
+division bn:00027919n : 1
+modulo bn:00553864n : 1
+date_format bn:03576260n : 1
+client bn:00019764n : 0
+programme bn:00021492n : 0
+perl bn:01723165n : 0
+python bn:01713224n : 1
+java bn:00048043n : 1
+size bn:00016413n : 1
+value bn:00079508n : 0
+encoder bn:02487361n : 1
+evaluation bn:03464447n : 1
+back office bn:01367276n : 1
+xamp bn:02350502n : 1
+doctype bn:15839327n : 1
+w3c bn:02673666n : 1
+blockquote bn:02659523n : 1
+tr bn:03561884n : 1
+dns bn:03714295n : 1
+xor bn:00178793n : 1
+expr bn:03120209n : 1
+trie bn:02479296n : 1
+method bn:01641329n : 1
+méthode bn:17307407n : 0
+bit bn:00010731n : 1
+expression bn:03834028n : 1
+structure bn:00025330n : 0
+locale bn:03080237n : 1
+enum bn:00031065n : 1
+set bn:00090224v : 1
+timestamp bn:03603649n : 0
+myisam bn:02270426n : 1
+innodb bn:01067935n : 1
+fread bn:01714886n : 1
+upload bn:14257394n : 1
+classes bn:03608262n : 1
+exception bn:03416394n : 0
+preprocessor bn:03699337n : 1
+home bn:00044994n : 1
+interpreter bn:00047204n : 1
+application bn:00005095n : 0
+query language bn:17302791n : 1
+lamp bn:01708928n : 0
+linux bn:00051427n : 0
+server side bn:03816678n : 1
+windows bn:00081305n : 0
+module bn:00021497n : 1
+execution bn:00016287n : 1
+flux bn:03889230n : 0
+charset bn:00017756n : 1
+auto bn:00007309n : 1
+em bn:00030453n : 1
+transaction bn:01650764n : 1
+version 7 bn:02248664n : 1
+compiler bn:00021344n : 0
+mamp bn:03197470n : 1
+homebrew bn:02339205n : 1
+macports bn:01068822n : 1
+directive bn:03824485n : 1
+buffers bn:00013673n : 1
+safe mode bn:01095828n : 1
+syntax highlighting bn:02006707n : 1
+processor bn:00014395n : 1
+web client bn:00013447n : 1
+sort bn:00082871v : 1
+public bn:00109211a : 1
+constraints bn:00022062n : 1
+open source bn:01157392n : 1
+define bn:00086465v : 1
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.25.txt
+
+Total : 115 / 147 (78.23%)
+
+####
+
+facebook bn:03624775n : 0
+site bn:00047172n : 1
+forum bn:14251420n : 1
+navigation bn:00057073n : 1
+message bn:00521573n : 0
+yahoo bn:00081801n : 1
+wordpress bn:03437452n : 1
+joomla bn:01946532n : 1
+ecommerce bn:00029344n : 1
+prestashop bn:01224182n : 1
+magento bn:00917637n : 1
+communication bn:00021221n : 1
+web page bn:00080778n : 1
+http bn:00045088n : 0
+document bn:00028018n : 0
+code bn:00020354n : 1
+print bn:00064437n : 1
+tableau bn:00051926n : 0
+text bn:00076732n : 1
+password bn:00023218n : 1
+variables bn:00079583n : 1
+entier bn:03340872n : 0
+version bn:00047114n : 0
+html 5 bn:03675085n : 1
+tutorial bn:00078719n : 1
+header bn:00043309n : 1
+firefox bn:01387235n : 1
+internet explorer bn:17346309n : 1
+internet explorer 9 bn:00863156n : 1
+explorer bn:00032342n : 1
+h2 bn:02803535n : 0
+caption bn:00015763n : 1
+tbody bn:02104867n : 1
+jpg bn:00838809n : 1
+color bn:00020726n : 0
+include bn:00082370v : 1
+instruction bn:00020945n : 0
+test bn:01836974n : 1
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 1
+foreach bn:03463379n : 0
+id bn:00729878n : 1
+strlen bn:02730004n : 0
+substr bn:17242513n : 1
+return bn:03828774n : 0
+require_once bn:02174453n : 1
+radio bn:00065899n : 1
+date bn:15315044n : 0
+strftime bn:03338250n : 1
+phpmyadmin bn:03382496n : 1
+format bn:01626478n : 1
+polices bn:00022026n : 1
+identification bn:00045819n : 1
+hypertext bn:00545957n : 0
+markup bn:00053491n : 1
+markup language bn:00053492n : 1
+menu bn:00021485n : 1
+link bn:00045513n : 1
+italic bn:02014607n : 1
+underline bn:00095362v : 1
+margin bn:00053397n : 1
+meta bn:03509721n : 1
+div bn:02567434n : 1
+footer bn:00035726n : 1
+coin bn:00020497n : 1
+gauche bn:00931251n : 1
+right bn:00031712n : 1
+installation bn:03478637n : 0
+cms bn:03631223n : 1
+content management bn:01533805n : 1
+number bn:00058285n : 1
+digit bn:00025702n : 1
+max bn:03253563n : 1
+plugins bn:00001275n : 1
+length bn:00050662n : 1
+faq bn:00033653n : 1
+apostrophe bn:00004988n : 1
+inscription bn:00046867n : 1
+condition bn:03183137n : 1
+true bn:00101187a : 1
+exit bn:00087845v : 1
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 1
+user bn:00079373n : 1
+integer bn:00047009n : 1
+base 10 bn:00025700n : 1
+addition bn:00001296n : 1
+multiplication bn:00056300n : 1
+division bn:00027919n : 1
+modulo bn:00553864n : 1
+date_format bn:03576260n : 1
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.25.txt
+
+Total : 73 / 93 (78.49%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.50.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 1
+css bn:01642119n : 1
+javascript bn:00055423n : 1
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 0
+url bn:00079080n : 0
+internet bn:00024712n : 0
+session bn:03751534n : 1
+page bn:00060158n : 0
+post bn:01500184n : 0
+session cookies bn:00070691n : 0
+server bn:00044916n : 1
+xhtml bn:01163644n : 1
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.50.txt
+
+Total : 11 / 17 (64.70%)
+
+####
+
+composant bn:02635060n : 1
+rel bn:03117903n : 1
+java interface bn:03111439n : 1
+autoload bn:01997802n : 1
+zend engine bn:01337536n : 1
+rpc bn:01991191n : 1
+xml bn:02771436n : 1
+active server page bn:02246064n : 1
+jscript bn:01995344n : 1
+sun bn:00075170n : 1
+sun one bn:02461700n : 1
+activex bn:03829972n : 1
+vbscript bn:02626435n : 1
+licence bn:00050986n : 0
+composer bn:17364202n : 1
+iso­8859­1 bn:00717125n : 1
+epub bn:01314222n : 1
+pdf bn:01745594n : 1
+mvc bn:02245403n : 1
+twig bn:02360542n : 1
+symfony bn:02798620n : 1
+tdd bn:02924470n : 1
+web service bn:03829842n : 1
+api bn:02130401n : 1
+git bn:01012408n : 1
+jit bn:01502421n : 1
+hhvm bn:16989031n : 1
+unicode bn:02529895n : 1
+saga bn:03877082n : 1
+hiphop bn:01959769n : 1
+xhp bn:14508869n : 1
+framework bn:14831528n : 1
+phalcon bn:15355608n : 1
+aot bn:15411174n : 1
+cakephp bn:03024996n : 1
+yii bn:02219993n : 1
+distribution bn:02322565n : 1
+pear bn:03735126n : 1
+dbx bn:03185121n : 1
+optimisation bn:01564896n : 1
+postgresql bn:01709156n : 1
+docbook bn:03194644n : 1
+gnu bn:00324017n : 1
+gnu fdl bn:01157394n : 1
+hash-tables bn:00587820n : 1
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.50.txt
+
+Total : 44 / 45 (97.77%)
+
+####
+
+web page bn:00080778n : 1
+http bn:00045088n : 0
+document bn:00028018n : 0
+code bn:00020354n : 1
+print bn:00064437n : 1
+tableau bn:00051926n : 0
+text bn:00076732n : 1
+password bn:00023218n : 1
+variables bn:00079583n : 1
+entier bn:03340872n : 0
+version bn:00047114n : 1
+html 5 bn:03675085n : 1
+tutorial bn:00078719n : 1
+header bn:00043309n : 1
+firefox bn:01387235n : 1
+internet explorer bn:17346309n : 1
+internet explorer 9 bn:00863156n : 1
+explorer bn:00032342n : 1
+h2 bn:02803535n : 0
+caption bn:00015763n : 1
+tbody bn:02104867n : 1
+jpg bn:00838809n : 1
+color bn:00020726n : 0
+include bn:00082370v : 1
+instruction bn:00020945n : 0
+test bn:01836974n : 1
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 1
+foreach bn:03463379n : 0
+id bn:00729878n : 1
+strlen bn:02730004n : 0
+substr bn:17242513n : 1
+return bn:03828774n : 1
+require_once bn:02174453n : 1
+radio bn:00065899n : 1
+date bn:15315044n : 0
+strftime bn:03338250n : 1
+phpmyadmin bn:03382496n : 1
+format bn:01626478n : 1
+polices bn:00022026n : 1
+identification bn:00045819n : 1
+hypertext bn:00545957n : 0
+markup bn:00053491n : 1
+markup language bn:00053492n : 1
+menu bn:00021485n : 1
+link bn:00045513n : 1
+italic bn:02014607n : 1
+underline bn:00095362v : 1
+margin bn:00053397n : 1
+meta bn:03509721n : 1
+div bn:02567434n : 1
+footer bn:00035726n : 1
+coin bn:00020497n : 1
+gauche bn:00931251n : 1
+right bn:00031712n : 1
+installation bn:03478637n : 0
+cms bn:03631223n : 1
+content management bn:01533805n : 1
+number bn:00058285n : 1
+digit bn:00025702n : 1
+max bn:03253563n : 1
+plugins bn:00001275n : 1
+length bn:00050662n : 1
+faq bn:00033653n : 1
+apostrophe bn:00004988n : 1
+inscription bn:00046867n : 1
+condition bn:03183137n : 1
+true bn:00101187a : 1
+exit bn:00087845v : 1
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 1
+user bn:00079373n : 1
+integer bn:00047009n : 1
+base 10 bn:00025700n : 1
+addition bn:00001296n : 1
+multiplication bn:00056300n : 1
+division bn:00027919n : 1
+modulo bn:00553864n : 1
+date_format bn:03576260n : 1
+client bn:00019764n : 1
+programme bn:00021492n : 0
+perl bn:01723165n : 0
+python bn:01713224n : 1
+java bn:00048043n : 1
+size bn:00016413n : 1
+value bn:00079508n : 0
+encoder bn:02487361n : 1
+evaluation bn:03464447n : 1
+back office bn:01367276n : 1
+xamp bn:02350502n : 1
+doctype bn:15839327n : 1
+w3c bn:02673666n : 1
+blockquote bn:02659523n : 1
+tr bn:03561884n : 1
+dns bn:03714295n : 1
+xor bn:00178793n : 1
+expr bn:03120209n : 1
+trie bn:02479296n : 1
+method bn:01641329n : 1
+méthode bn:17307407n : 0
+bit bn:00010731n : 1
+expression bn:03834028n : 1
+structure bn:00025330n : 0
+locale bn:03080237n : 1
+enum bn:00031065n : 1
+set bn:00090224v : 1
+timestamp bn:03603649n : 0
+myisam bn:02270426n : 1
+innodb bn:01067935n : 1
+fread bn:01714886n : 1
+upload bn:14257394n : 1
+classes bn:03608262n : 1
+exception bn:03416394n : 0
+preprocessor bn:03699337n : 1
+home bn:00044994n : 1
+interpreter bn:00047204n : 1
+application bn:00005095n : 1
+query language bn:17302791n : 1
+lamp bn:01708928n : 0
+linux bn:00051427n : 0
+server side bn:03816678n : 1
+windows bn:00081305n : 0
+module bn:00021497n : 1
+execution bn:00016287n : 1
+flux bn:03889230n : 0
+charset bn:00017756n : 1
+auto bn:00007309n : 1
+em bn:00030453n : 1
+transaction bn:01650764n : 1
+version 7 bn:02248664n : 1
+compiler bn:00021344n : 0
+mamp bn:03197470n : 1
+homebrew bn:02339205n : 1
+macports bn:01068822n : 1
+directive bn:03824485n : 1
+buffers bn:00013673n : 1
+safe mode bn:01095828n : 1
+syntax highlighting bn:02006707n : 1
+processor bn:00014395n : 1
+web client bn:00013447n : 1
+sort bn:00082871v : 1
+public bn:00109211a : 1
+constraints bn:00022062n : 1
+open source bn:01157392n : 1
+define bn:00086465v : 1
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.50.txt
+
+Total : 119 / 147 (80.95%)
+
+####
+
+facebook bn:03624775n : 0
+site bn:00047172n : 1
+forum bn:14251420n : 1
+navigation bn:00057073n : 1
+message bn:00521573n : 0
+yahoo bn:00081801n : 1
+wordpress bn:03437452n : 1
+joomla bn:01946532n : 1
+ecommerce bn:00029344n : 1
+prestashop bn:01224182n : 1
+magento bn:00917637n : 1
+communication bn:00021221n : 1
+web page bn:00080778n : 1
+http bn:00045088n : 0
+document bn:00028018n : 0
+code bn:00020354n : 1
+print bn:00064437n : 1
+tableau bn:00051926n : 0
+text bn:00076732n : 1
+password bn:00023218n : 1
+variables bn:00079583n : 1
+entier bn:03340872n : 0
+version bn:00047114n : 1
+html 5 bn:03675085n : 1
+tutorial bn:00078719n : 1
+header bn:00043309n : 1
+firefox bn:01387235n : 1
+internet explorer bn:17346309n : 1
+internet explorer 9 bn:00863156n : 1
+explorer bn:00032342n : 1
+h2 bn:02803535n : 0
+caption bn:00015763n : 1
+tbody bn:02104867n : 1
+jpg bn:00838809n : 1
+color bn:00020726n : 0
+include bn:00082370v : 1
+instruction bn:00020945n : 0
+test bn:01836974n : 1
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 1
+foreach bn:03463379n : 0
+id bn:00729878n : 1
+strlen bn:02730004n : 0
+substr bn:17242513n : 1
+return bn:03828774n : 1
+require_once bn:02174453n : 1
+radio bn:00065899n : 1
+date bn:15315044n : 0
+strftime bn:03338250n : 1
+phpmyadmin bn:03382496n : 1
+format bn:01626478n : 1
+polices bn:00022026n : 1
+identification bn:00045819n : 1
+hypertext bn:00545957n : 0
+markup bn:00053491n : 1
+markup language bn:00053492n : 1
+menu bn:00021485n : 1
+link bn:00045513n : 1
+italic bn:02014607n : 1
+underline bn:00095362v : 1
+margin bn:00053397n : 1
+meta bn:03509721n : 1
+div bn:02567434n : 1
+footer bn:00035726n : 1
+coin bn:00020497n : 1
+gauche bn:00931251n : 1
+right bn:00031712n : 1
+installation bn:03478637n : 0
+cms bn:03631223n : 1
+content management bn:01533805n : 1
+number bn:00058285n : 1
+digit bn:00025702n : 1
+max bn:03253563n : 1
+plugins bn:00001275n : 1
+length bn:00050662n : 1
+faq bn:00033653n : 1
+apostrophe bn:00004988n : 1
+inscription bn:00046867n : 1
+condition bn:03183137n : 1
+true bn:00101187a : 1
+exit bn:00087845v : 1
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 1
+user bn:00079373n : 1
+integer bn:00047009n : 1
+base 10 bn:00025700n : 1
+addition bn:00001296n : 1
+multiplication bn:00056300n : 1
+division bn:00027919n : 1
+modulo bn:00553864n : 1
+date_format bn:03576260n : 1
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.50.txt
+
+Total : 75 / 93 (80.64%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.75.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 1
+css bn:01642119n : 1
+javascript bn:00055423n : 1
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 0
+url bn:00079080n : 1
+internet bn:00024712n : 0
+session bn:03751534n : 1
+page bn:00060158n : 0
+post bn:01500184n : 1
+session cookies bn:00070691n : 0
+server bn:00044916n : 1
+xhtml bn:01163644n : 1
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.75.txt
+
+Total : 13 / 17 (76.47%)
+
+####
+
+composant bn:02635060n : 1
+rel bn:03117903n : 1
+java interface bn:03111439n : 1
+autoload bn:01997802n : 1
+zend engine bn:01337536n : 1
+rpc bn:01991191n : 1
+xml bn:02771436n : 1
+active server page bn:02246064n : 1
+jscript bn:01995344n : 1
+sun bn:00075170n : 1
+sun one bn:02461700n : 1
+activex bn:03829972n : 1
+vbscript bn:02626435n : 1
+licence bn:00050986n : 0
+composer bn:17364202n : 1
+iso­8859­1 bn:00717125n : 1
+epub bn:01314222n : 1
+pdf bn:01745594n : 1
+mvc bn:02245403n : 1
+twig bn:02360542n : 1
+symfony bn:02798620n : 1
+tdd bn:02924470n : 1
+web service bn:03829842n : 1
+api bn:02130401n : 1
+git bn:01012408n : 1
+jit bn:01502421n : 1
+hhvm bn:16989031n : 1
+unicode bn:02529895n : 1
+saga bn:03877082n : 1
+hiphop bn:01959769n : 1
+xhp bn:14508869n : 1
+framework bn:14831528n : 1
+phalcon bn:15355608n : 1
+aot bn:15411174n : 1
+cakephp bn:03024996n : 1
+yii bn:02219993n : 1
+distribution bn:02322565n : 1
+pear bn:03735126n : 1
+dbx bn:03185121n : 1
+optimisation bn:01564896n : 1
+postgresql bn:01709156n : 1
+docbook bn:03194644n : 1
+gnu bn:00324017n : 1
+gnu fdl bn:01157394n : 1
+hash-tables bn:00587820n : 1
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.75.txt
+
+Total : 44 / 45 (97.77%)
+
+####
+
+web page bn:00080778n : 1
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 1
+tableau bn:00051926n : 0
+text bn:00076732n : 1
+password bn:00023218n : 1
+variables bn:00079583n : 1
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 1
+tutorial bn:00078719n : 1
+header bn:00043309n : 1
+firefox bn:01387235n : 1
+internet explorer bn:17346309n : 1
+internet explorer 9 bn:00863156n : 1
+explorer bn:00032342n : 1
+h2 bn:02803535n : 0
+caption bn:00015763n : 1
+tbody bn:02104867n : 1
+jpg bn:00838809n : 1
+color bn:00020726n : 0
+include bn:00082370v : 1
+instruction bn:00020945n : 0
+test bn:01836974n : 1
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 1
+foreach bn:03463379n : 1
+id bn:00729878n : 1
+strlen bn:02730004n : 0
+substr bn:17242513n : 1
+return bn:03828774n : 1
+require_once bn:02174453n : 1
+radio bn:00065899n : 1
+date bn:15315044n : 0
+strftime bn:03338250n : 1
+phpmyadmin bn:03382496n : 1
+format bn:01626478n : 1
+polices bn:00022026n : 1
+identification bn:00045819n : 1
+hypertext bn:00545957n : 1
+markup bn:00053491n : 1
+markup language bn:00053492n : 1
+menu bn:00021485n : 1
+link bn:00045513n : 1
+italic bn:02014607n : 1
+underline bn:00095362v : 1
+margin bn:00053397n : 1
+meta bn:03509721n : 1
+div bn:02567434n : 1
+footer bn:00035726n : 1
+coin bn:00020497n : 1
+gauche bn:00931251n : 1
+right bn:00031712n : 1
+installation bn:03478637n : 0
+cms bn:03631223n : 1
+content management bn:01533805n : 1
+number bn:00058285n : 1
+digit bn:00025702n : 1
+max bn:03253563n : 1
+plugins bn:00001275n : 1
+length bn:00050662n : 1
+faq bn:00033653n : 1
+apostrophe bn:00004988n : 1
+inscription bn:00046867n : 1
+condition bn:03183137n : 1
+true bn:00101187a : 1
+exit bn:00087845v : 1
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 1
+user bn:00079373n : 1
+integer bn:00047009n : 1
+base 10 bn:00025700n : 1
+addition bn:00001296n : 1
+multiplication bn:00056300n : 1
+division bn:00027919n : 1
+modulo bn:00553864n : 1
+date_format bn:03576260n : 1
+client bn:00019764n : 1
+programme bn:00021492n : 1
+perl bn:01723165n : 1
+python bn:01713224n : 1
+java bn:00048043n : 1
+size bn:00016413n : 1
+value bn:00079508n : 1
+encoder bn:02487361n : 1
+evaluation bn:03464447n : 1
+back office bn:01367276n : 1
+xamp bn:02350502n : 1
+doctype bn:15839327n : 1
+w3c bn:02673666n : 1
+blockquote bn:02659523n : 1
+tr bn:03561884n : 1
+dns bn:03714295n : 1
+xor bn:00178793n : 1
+expr bn:03120209n : 1
+trie bn:02479296n : 1
+method bn:01641329n : 1
+méthode bn:17307407n : 1
+bit bn:00010731n : 1
+expression bn:03834028n : 1
+structure bn:00025330n : 0
+locale bn:03080237n : 1
+enum bn:00031065n : 1
+set bn:00090224v : 1
+timestamp bn:03603649n : 0
+myisam bn:02270426n : 1
+innodb bn:01067935n : 1
+fread bn:01714886n : 1
+upload bn:14257394n : 1
+classes bn:03608262n : 1
+exception bn:03416394n : 0
+preprocessor bn:03699337n : 1
+home bn:00044994n : 1
+interpreter bn:00047204n : 1
+application bn:00005095n : 1
+query language bn:17302791n : 1
+lamp bn:01708928n : 1
+linux bn:00051427n : 1
+server side bn:03816678n : 1
+windows bn:00081305n : 0
+module bn:00021497n : 1
+execution bn:00016287n : 1
+flux bn:03889230n : 0
+charset bn:00017756n : 1
+auto bn:00007309n : 1
+em bn:00030453n : 1
+transaction bn:01650764n : 1
+version 7 bn:02248664n : 1
+compiler bn:00021344n : 0
+mamp bn:03197470n : 1
+homebrew bn:02339205n : 1
+macports bn:01068822n : 1
+directive bn:03824485n : 1
+buffers bn:00013673n : 1
+safe mode bn:01095828n : 1
+syntax highlighting bn:02006707n : 1
+processor bn:00014395n : 1
+web client bn:00013447n : 1
+sort bn:00082871v : 1
+public bn:00109211a : 1
+constraints bn:00022062n : 1
+open source bn:01157392n : 1
+define bn:00086465v : 1
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.75.txt
+
+Total : 130 / 147 (88.43%)
+
+####
+
+facebook bn:03624775n : 0
+site bn:00047172n : 1
+forum bn:14251420n : 1
+navigation bn:00057073n : 1
+message bn:00521573n : 0
+yahoo bn:00081801n : 1
+wordpress bn:03437452n : 1
+joomla bn:01946532n : 1
+ecommerce bn:00029344n : 1
+prestashop bn:01224182n : 1
+magento bn:00917637n : 1
+communication bn:00021221n : 1
+web page bn:00080778n : 1
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 1
+tableau bn:00051926n : 0
+text bn:00076732n : 1
+password bn:00023218n : 1
+variables bn:00079583n : 1
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 1
+tutorial bn:00078719n : 1
+header bn:00043309n : 1
+firefox bn:01387235n : 1
+internet explorer bn:17346309n : 1
+internet explorer 9 bn:00863156n : 1
+explorer bn:00032342n : 1
+h2 bn:02803535n : 0
+caption bn:00015763n : 1
+tbody bn:02104867n : 1
+jpg bn:00838809n : 1
+color bn:00020726n : 0
+include bn:00082370v : 1
+instruction bn:00020945n : 0
+test bn:01836974n : 1
+elseif bn:15711528n : 0
+break bn:00047734n : 0
+default bn:03854990n : 1
+foreach bn:03463379n : 1
+id bn:00729878n : 1
+strlen bn:02730004n : 0
+substr bn:17242513n : 1
+return bn:03828774n : 1
+require_once bn:02174453n : 1
+radio bn:00065899n : 1
+date bn:15315044n : 0
+strftime bn:03338250n : 1
+phpmyadmin bn:03382496n : 1
+format bn:01626478n : 1
+polices bn:00022026n : 1
+identification bn:00045819n : 1
+hypertext bn:00545957n : 1
+markup bn:00053491n : 1
+markup language bn:00053492n : 1
+menu bn:00021485n : 1
+link bn:00045513n : 1
+italic bn:02014607n : 1
+underline bn:00095362v : 1
+margin bn:00053397n : 1
+meta bn:03509721n : 1
+div bn:02567434n : 1
+footer bn:00035726n : 1
+coin bn:00020497n : 1
+gauche bn:00931251n : 1
+right bn:00031712n : 1
+installation bn:03478637n : 0
+cms bn:03631223n : 1
+content management bn:01533805n : 1
+number bn:00058285n : 1
+digit bn:00025702n : 1
+max bn:03253563n : 1
+plugins bn:00001275n : 1
+length bn:00050662n : 1
+faq bn:00033653n : 1
+apostrophe bn:00004988n : 1
+inscription bn:00046867n : 1
+condition bn:03183137n : 1
+true bn:00101187a : 1
+exit bn:00087845v : 1
+script bn:01431715n : 0
+style bn:00033729n : 0
+input bn:02570242n : 1
+user bn:00079373n : 1
+integer bn:00047009n : 1
+base 10 bn:00025700n : 1
+addition bn:00001296n : 1
+multiplication bn:00056300n : 1
+division bn:00027919n : 1
+modulo bn:00553864n : 1
+date_format bn:03576260n : 1
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=0.75.txt
+
+Total : 80 / 93 (86.02%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=1.00.txt
+web bn:00080772n : 1
+navigation bn:00057073n : 1
+css bn:01642119n : 1
+javascript bn:00055423n : 1
+html bn:00045087n : 1
+apache bn:01932513n : 1
+php bn:01753580n : 1
+mysql bn:01225760n : 1
+sql bn:02266432n : 1
+url bn:00079080n : 1
+internet bn:00024712n : 1
+session bn:03751534n : 1
+page bn:00060158n : 1
+post bn:01500184n : 1
+session cookies bn:00070691n : 1
+server bn:00044916n : 1
+xhtml bn:01163644n : 1
+
+--
+
+refs/RequiredWords-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=1.00.txt
+
+Total : 17 / 17 (100.00%)
+
+####
+
+composant bn:02635060n : 1
+rel bn:03117903n : 1
+java interface bn:03111439n : 1
+autoload bn:01997802n : 1
+zend engine bn:01337536n : 1
+rpc bn:01991191n : 1
+xml bn:02771436n : 1
+active server page bn:02246064n : 1
+jscript bn:01995344n : 1
+sun bn:00075170n : 1
+sun one bn:02461700n : 1
+activex bn:03829972n : 1
+vbscript bn:02626435n : 1
+licence bn:00050986n : 1
+composer bn:17364202n : 1
+iso­8859­1 bn:00717125n : 1
+epub bn:01314222n : 1
+pdf bn:01745594n : 1
+mvc bn:02245403n : 1
+twig bn:02360542n : 1
+symfony bn:02798620n : 1
+tdd bn:02924470n : 1
+web service bn:03829842n : 1
+api bn:02130401n : 1
+git bn:01012408n : 1
+jit bn:01502421n : 1
+hhvm bn:16989031n : 1
+unicode bn:02529895n : 1
+saga bn:03877082n : 1
+hiphop bn:01959769n : 1
+xhp bn:14508869n : 1
+framework bn:14831528n : 1
+phalcon bn:15355608n : 1
+aot bn:15411174n : 1
+cakephp bn:03024996n : 1
+yii bn:02219993n : 1
+distribution bn:02322565n : 1
+pear bn:03735126n : 1
+dbx bn:03185121n : 1
+optimisation bn:01564896n : 1
+postgresql bn:01709156n : 1
+docbook bn:03194644n : 1
+gnu bn:00324017n : 1
+gnu fdl bn:01157394n : 1
+hash-tables bn:00587820n : 1
+
+--
+
+refs/IT-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=1.00.txt
+
+Total : 45 / 45 (100.00%)
+
+####
+
+web page bn:00080778n : 1
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 1
+tableau bn:00051926n : 1
+text bn:00076732n : 1
+password bn:00023218n : 1
+variables bn:00079583n : 1
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 1
+tutorial bn:00078719n : 1
+header bn:00043309n : 1
+firefox bn:01387235n : 1
+internet explorer bn:17346309n : 1
+internet explorer 9 bn:00863156n : 1
+explorer bn:00032342n : 1
+h2 bn:02803535n : 1
+caption bn:00015763n : 1
+tbody bn:02104867n : 1
+jpg bn:00838809n : 1
+color bn:00020726n : 1
+include bn:00082370v : 1
+instruction bn:00020945n : 1
+test bn:01836974n : 1
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 1
+foreach bn:03463379n : 1
+id bn:00729878n : 1
+strlen bn:02730004n : 1
+substr bn:17242513n : 1
+return bn:03828774n : 1
+require_once bn:02174453n : 1
+radio bn:00065899n : 1
+date bn:15315044n : 1
+strftime bn:03338250n : 1
+phpmyadmin bn:03382496n : 1
+format bn:01626478n : 1
+polices bn:00022026n : 1
+identification bn:00045819n : 1
+hypertext bn:00545957n : 1
+markup bn:00053491n : 1
+markup language bn:00053492n : 1
+menu bn:00021485n : 1
+link bn:00045513n : 1
+italic bn:02014607n : 1
+underline bn:00095362v : 1
+margin bn:00053397n : 1
+meta bn:03509721n : 1
+div bn:02567434n : 1
+footer bn:00035726n : 1
+coin bn:00020497n : 1
+gauche bn:00931251n : 1
+right bn:00031712n : 1
+installation bn:03478637n : 1
+cms bn:03631223n : 1
+content management bn:01533805n : 1
+number bn:00058285n : 1
+digit bn:00025702n : 1
+max bn:03253563n : 1
+plugins bn:00001275n : 1
+length bn:00050662n : 1
+faq bn:00033653n : 1
+apostrophe bn:00004988n : 1
+inscription bn:00046867n : 1
+condition bn:03183137n : 1
+true bn:00101187a : 1
+exit bn:00087845v : 1
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 1
+user bn:00079373n : 1
+integer bn:00047009n : 1
+base 10 bn:00025700n : 1
+addition bn:00001296n : 1
+multiplication bn:00056300n : 1
+division bn:00027919n : 1
+modulo bn:00553864n : 1
+date_format bn:03576260n : 1
+client bn:00019764n : 1
+programme bn:00021492n : 1
+perl bn:01723165n : 1
+python bn:01713224n : 1
+java bn:00048043n : 1
+size bn:00016413n : 1
+value bn:00079508n : 1
+encoder bn:02487361n : 1
+evaluation bn:03464447n : 1
+back office bn:01367276n : 1
+xamp bn:02350502n : 1
+doctype bn:15839327n : 1
+w3c bn:02673666n : 1
+blockquote bn:02659523n : 1
+tr bn:03561884n : 1
+dns bn:03714295n : 1
+xor bn:00178793n : 1
+expr bn:03120209n : 1
+trie bn:02479296n : 1
+method bn:01641329n : 1
+méthode bn:17307407n : 1
+bit bn:00010731n : 1
+expression bn:03834028n : 1
+structure bn:00025330n : 1
+locale bn:03080237n : 1
+enum bn:00031065n : 1
+set bn:00090224v : 1
+timestamp bn:03603649n : 1
+myisam bn:02270426n : 1
+innodb bn:01067935n : 1
+fread bn:01714886n : 1
+upload bn:14257394n : 1
+classes bn:03608262n : 1
+exception bn:03416394n : 1
+preprocessor bn:03699337n : 1
+home bn:00044994n : 1
+interpreter bn:00047204n : 1
+application bn:00005095n : 1
+query language bn:17302791n : 1
+lamp bn:01708928n : 1
+linux bn:00051427n : 1
+server side bn:03816678n : 1
+windows bn:00081305n : 1
+module bn:00021497n : 1
+execution bn:00016287n : 1
+flux bn:03889230n : 1
+charset bn:00017756n : 1
+auto bn:00007309n : 1
+em bn:00030453n : 1
+transaction bn:01650764n : 1
+version 7 bn:02248664n : 1
+compiler bn:00021344n : 1
+mamp bn:03197470n : 1
+homebrew bn:02339205n : 1
+macports bn:01068822n : 1
+directive bn:03824485n : 1
+buffers bn:00013673n : 1
+safe mode bn:01095828n : 1
+syntax highlighting bn:02006707n : 1
+processor bn:00014395n : 1
+web client bn:00013447n : 1
+sort bn:00082871v : 1
+public bn:00109211a : 1
+constraints bn:00022062n : 1
+open source bn:01157392n : 1
+define bn:00086465v : 1
+
+--
+
+refs/IT-Students-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=1.00.txt
+
+Total : 147 / 147 (100.00%)
+
+####
+
+facebook bn:03624775n : 1
+site bn:00047172n : 1
+forum bn:14251420n : 1
+navigation bn:00057073n : 1
+message bn:00521573n : 1
+yahoo bn:00081801n : 1
+wordpress bn:03437452n : 1
+joomla bn:01946532n : 1
+ecommerce bn:00029344n : 1
+prestashop bn:01224182n : 1
+magento bn:00917637n : 1
+communication bn:00021221n : 1
+web page bn:00080778n : 1
+http bn:00045088n : 1
+document bn:00028018n : 1
+code bn:00020354n : 1
+print bn:00064437n : 1
+tableau bn:00051926n : 1
+text bn:00076732n : 1
+password bn:00023218n : 1
+variables bn:00079583n : 1
+entier bn:03340872n : 1
+version bn:00047114n : 1
+html 5 bn:03675085n : 1
+tutorial bn:00078719n : 1
+header bn:00043309n : 1
+firefox bn:01387235n : 1
+internet explorer bn:17346309n : 1
+internet explorer 9 bn:00863156n : 1
+explorer bn:00032342n : 1
+h2 bn:02803535n : 1
+caption bn:00015763n : 1
+tbody bn:02104867n : 1
+jpg bn:00838809n : 1
+color bn:00020726n : 1
+include bn:00082370v : 1
+instruction bn:00020945n : 1
+test bn:01836974n : 1
+elseif bn:15711528n : 1
+break bn:00047734n : 1
+default bn:03854990n : 1
+foreach bn:03463379n : 1
+id bn:00729878n : 1
+strlen bn:02730004n : 1
+substr bn:17242513n : 1
+return bn:03828774n : 1
+require_once bn:02174453n : 1
+radio bn:00065899n : 1
+date bn:15315044n : 1
+strftime bn:03338250n : 1
+phpmyadmin bn:03382496n : 1
+format bn:01626478n : 1
+polices bn:00022026n : 1
+identification bn:00045819n : 1
+hypertext bn:00545957n : 1
+markup bn:00053491n : 1
+markup language bn:00053492n : 1
+menu bn:00021485n : 1
+link bn:00045513n : 1
+italic bn:02014607n : 1
+underline bn:00095362v : 1
+margin bn:00053397n : 1
+meta bn:03509721n : 1
+div bn:02567434n : 1
+footer bn:00035726n : 1
+coin bn:00020497n : 1
+gauche bn:00931251n : 1
+right bn:00031712n : 1
+installation bn:03478637n : 1
+cms bn:03631223n : 1
+content management bn:01533805n : 1
+number bn:00058285n : 1
+digit bn:00025702n : 1
+max bn:03253563n : 1
+plugins bn:00001275n : 1
+length bn:00050662n : 1
+faq bn:00033653n : 1
+apostrophe bn:00004988n : 1
+inscription bn:00046867n : 1
+condition bn:03183137n : 1
+true bn:00101187a : 1
+exit bn:00087845v : 1
+script bn:01431715n : 1
+style bn:00033729n : 1
+input bn:02570242n : 1
+user bn:00079373n : 1
+integer bn:00047009n : 1
+base 10 bn:00025700n : 1
+addition bn:00001296n : 1
+multiplication bn:00056300n : 1
+division bn:00027919n : 1
+modulo bn:00553864n : 1
+date_format bn:03576260n : 1
+
+--
+
+refs/Non-Experts-bn.txt
+data/transposed-Norm-tagged-disambiguated-content-matrix.csv-O=N-S=M-B=1.00.txt
+
+Total : 93 / 93 (100.00%)
+
+####
+
+#######################################################
+#######################################################
+#######################################################
+

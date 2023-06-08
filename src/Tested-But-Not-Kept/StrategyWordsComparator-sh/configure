@@ -1,0 +1,81 @@
+#! /bin/sh
+
+# Detecting OS commands (make/gmake, md5/md5sum, ...)
+OS=`uname`
+
+#  cygwin workout
+CYGWIN_PATTERN=${OS##CYGWIN}
+CYG_OS=${OS%%${CYGWIN_PATTERN}}
+
+SED=sed
+AWK=awk
+PYTHON=python3
+
+CAT=cat
+HEAD=head
+JOIN=join
+SORT=sort
+TR=tr
+UNIQ=uniq
+
+if [ "$OS" = "FreeBSD" ]; then
+	echo "Configure for FreeBSD"
+elif [ "$OS" = "Debian" ]; then
+	echo "Configure for Debian"
+elif [ "$OS" = "Linux" ]; then
+	echo "Configure for Linux (generic)"
+elif [ "$OS" = "Darwin" ]; then
+	echo "Configure for MacOS"
+	SED=gsed
+	AWK=gawk
+elif [ "$CYG_OS" = "CYGWIN" ]; then
+	echo "Configure for Cygwin"
+else
+	echo "Generic configure"
+fi
+
+# Get flags
+DEBUG=false
+if [ $# -eq 0 ]; then
+    DEBUG=false
+else
+    while [ $# -ne 0 ]; do
+	VAL=`echo $1 | tr '[:lower:]' '[:upper:]' | tr -d '\n'`
+        if [ "${VAL}" = "DEBUG" ]; then
+            DEBUG=true
+        fi
+        shift
+    done
+fi
+
+
+# Export useful vars
+echo "SED=${SED}" > Makefile.rules
+echo "AWK=${AWK}" >> Makefile.rules
+echo "PYTHON=${PYTHON}" >> Makefile.rules
+echo "CAT=${CAT}" >> Makefile.rules
+echo "HEAD=${HEAD}" >> Makefile.rules
+echo "JOIN=${JOIN}" >> Makefile.rules
+echo "SORT=${SORT}" >> Makefile.rules
+echo "TR=${TR}" >> Makefile.rules
+echo "UNIQ=${UNIQ}" >> Makefile.rules
+
+echo "SED=${SED}" > vars.sh
+echo "AWK=${AWK}" >> vars.sh
+echo "PYTHON=${PYTHON}" >> vars.sh
+echo "CAT=${CAT}" >> vars.sh
+echo "HEAD=${HEAD}" >> vars.sh
+echo "JOIN=${JOIN}" >> vars.sh
+echo "SORT=${SORT}" >> vars.sh
+echo "TR=${TR}" >> vars.sh
+echo "UNIQ=${UNIQ}" >> vars.sh
+
+echo "SED=${SED}"
+echo "AWK=${AWK}"
+echo "PYTHON=${PYTHON}"
+echo "CAT=${CAT}"
+echo "HEAD=${HEAD}"
+echo "JOIN=${JOIN}"
+echo "SORT=${SORT}"
+echo "TR=${TR}"
+echo "UNIQ=${UNIQ}"

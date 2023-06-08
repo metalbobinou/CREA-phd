@@ -1,0 +1,53 @@
+B
+
+18
+12
+
+Agenda
+Appareil photo
+Calculatrice
+Calendrier
+Google
+E-mail
+Facebook
+Gmail
+Google Play Store
+Lecteur video
+Maps
+Mes fichiers
+Mise a jour logicielle
+Notes
+Parametres
+Telephone
+SMS
+YouTube
+University
+Home
+Transportation
+Home Wifi
+Univ Wifi
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+.XXXXXXXX.XX
+X.XXXXXXX...
+.XXXXXXXX.XX
+..XXXXXXX..X
+..X..X.X....
+..X..X.X...X
+..X..X.X...X
+.XX...X..XXX
+..X..XXX.X..
+...XXX.X.X.X
+XXXXXXXXXXXX
+.XXXXXXXXX.X
+..X..X.XX...
+X.X.XXXXXX..
+.XXXXX.X...X
+..XXXXXX.X..
+...XX..X....
+.XXX.XXX.XXX

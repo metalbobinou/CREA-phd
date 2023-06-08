@@ -1,0 +1,30 @@
+[Lattice]
+8
+8
+[Objects]
+Calendrier
+Google
+Gmail
+Google Play Store
+Mise a jour logicielle
+Notes
+Telephone
+SMS
+[Attributes]
+Home
+Transportation
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+[relation]
+1 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 1 
+0 0 0 1 0 0 0 0 
+0 0 0 0 1 0 0 1 
+0 0 1 0 0 1 0 1 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 

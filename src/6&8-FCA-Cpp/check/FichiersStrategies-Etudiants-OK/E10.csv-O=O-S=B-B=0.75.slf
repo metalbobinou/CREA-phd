@@ -1,0 +1,41 @@
+[Lattice]
+11
+13
+[Objects]
+Candy Crush
+Dropbox
+Facebook
+Facebook messenger
+Gmail
+Instagram
+Google
+LizLisa
+Tumblr
+Wordpress
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+0 0 0 0 0 0 0 1 0 1 0 0 0 
+0 0 0 0 0 0 1 0 0 1 1 0 0 
+0 0 0 0 0 1 1 1 0 0 0 0 1 
+0 0 0 0 0 0 0 1 1 0 0 0 1 
+0 0 0 0 0 0 0 1 0 1 1 0 0 
+1 0 0 0 1 0 0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 0 0 1 0 1 0 
+0 1 0 1 0 0 0 1 0 0 1 0 0 
+1 0 1 0 0 0 1 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 0 0 1 0 0 

@@ -1,0 +1,39 @@
+[Lattice]
+13
+7
+[Objects]
+AlloCine
+Appareil photo
+BBM
+E-mail
+Facebook
+Flappy Bird
+Instagram
+Photos
+SMS
+SnapChat
+Telephone
+Twitter
+WhatsApp
+[Attributes]
+University
+Cinema
+Home
+Home Wifi
+Morning
+Evening
+Weekend
+[relation]
+0 1 0 0 0 0 0 
+0 0 0 0 0 0 1 
+0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 
+1 0 0 0 1 0 0 
+0 0 0 0 0 1 0 
+1 0 0 0 0 0 0 
+0 0 0 0 0 1 1 
+1 0 0 0 1 1 0 
+0 0 1 0 0 1 0 
+0 0 0 0 0 1 0 
+0 0 1 0 0 1 0 

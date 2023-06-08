@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: Main.Main
+Class-Path: ./ ./libs/babelfy-commons-1.0.jar  ./libs/babelfy-online-1.0.jar  ./libs/jltutils-2.0.4.jar ./libs/gson-2.3.1.jar ./libs/commons-configuration-1.5.jar ./libs/commons-logging-1.1.3.jar ./libs/commons-lang-2.3.jar ./libs/commons-collections-3.2.jar ./libs/httpclient-4.3.6.jar ./libs/httpcore-4.3.3.jar ./libs/httpmime-4.3.6.jar ./libs/jcommander-1.78.jar

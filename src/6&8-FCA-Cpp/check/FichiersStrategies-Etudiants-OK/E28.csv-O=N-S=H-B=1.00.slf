@@ -1,0 +1,32 @@
+[Lattice]
+10
+6
+[Objects]
+Alarme
+Angry Birds
+Drive
+Facebook
+Gmail
+Google
+Mise a jour logicielle
+Radio
+SMS
+Telephone
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Morning
+[relation]
+0 0 0 1 0 0 
+0 0 0 0 1 0 
+0 0 0 0 1 0 
+0 0 0 0 1 0 
+1 0 0 0 1 0 
+0 0 0 0 1 0 
+0 0 0 0 0 1 
+0 0 1 0 0 0 
+1 1 0 0 0 0 
+0 1 0 0 0 0 

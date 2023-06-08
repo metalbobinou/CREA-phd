@@ -1,0 +1,69 @@
+<html>
+<head>
+	<title>Maquette GUI sélection dans un CSV</title>
+</head>
+
+<body>
+<center>
+Tableau lu depuis un CSV, et générant un CSV.<br />
+Les cases sont cochées par défaut, et on peut ajouter un élément à la fin.<br />
+</center>
+<br />
+
+<center>
+<table border=1>
+  <tr>
+	<!-- line 0 -->
+	<th>Keep</th>
+    <th>Term</th>
+    <th style="background-color: gray">BN:ID</th>
+	<th>C1</th>
+	<th>C2</th>
+	<th>C3</th>
+	<th>C4</th>
+  </tr>
+  <tr>
+	<!-- line 1 -->
+	<td><input type="checkbox" id="1" name="1" checked></td>
+    <td>cours</td>
+    <td style="background-color: gray">bn:00076429n</td>
+	<td>1</td>
+	<td>0</td>
+	<td>1</td>
+	<td>0</td>
+  </tr>
+  <tr>
+	<!-- line 2 -->
+	<td><input type="checkbox" id="2" name="2" checked></td>
+    <td>web</td>
+    <td style="background-color: gray">bn:00080772n</td>
+	<td>0</td>
+	<td>1</td>
+	<td>1</td>
+	<td>1</td>
+  </tr>
+   <tr>
+	<!-- line 3 -->
+	<td>...</td>
+    <td>...</td>
+    <td style="background-color: gray">...</td>
+	<td>...</td>
+	<td>...</td>
+	<td>...</td>
+	<td>...</td>
+  </tr>
+  <tr>
+	<!-- line 4 -->
+	<td><input type="button" value="Add"></td>
+    <td><input type="text" id="add4_term" name="add4_term" maxlength="10" size="10"></td>
+    <td style="background-color: gray"><input type="text" id="add4_bnid" name="add4_bnid" minlength="12" maxlength="12" size="12" value="bn:"></td>
+	<td><input type="number" id="add4_C1" name="add4_C1" min="0" max="100" size="4" value="0"></td>
+	<td><input type="number" id="add4_C2" name="add4_C2" min="0" max="100" size="4" value="0"></td>
+	<td><input type="number" id="add4_C3" name="add4_C3" min="0" max="100" size="4" value="0"></td>
+	<td><input type="number" id="add4_C4" name="add4_C4" min="0" max="100" size="4" value="0"></td>
+  </tr>
+</table>
+</center>
+
+</body>
+</html>

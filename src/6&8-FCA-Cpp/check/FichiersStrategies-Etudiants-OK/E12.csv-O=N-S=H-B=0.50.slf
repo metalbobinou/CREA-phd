@@ -1,0 +1,36 @@
+[Lattice]
+12
+6
+[Objects]
+Alarme
+Appareil photo
+BNP PARIBAS
+Google
+E-mail
+Facebook
+Skype
+SMS
+SnapChat
+Spotify
+Twitter
+YouTube
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+Evening
+Weekend
+[relation]
+0 1 0 0 0 0 
+0 0 0 1 0 1 
+0 0 0 1 0 0 
+0 0 1 0 0 1 
+1 0 1 1 0 1 
+0 0 1 0 0 1 
+0 0 1 0 0 0 
+0 0 0 1 0 1 
+0 1 1 1 1 0 
+0 0 1 0 0 1 
+1 0 1 1 0 0 
+0 0 1 0 0 0 

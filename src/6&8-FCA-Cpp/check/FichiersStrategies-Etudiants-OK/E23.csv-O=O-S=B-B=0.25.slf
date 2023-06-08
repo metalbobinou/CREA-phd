@@ -1,0 +1,75 @@
+[Lattice]
+28
+13
+[Objects]
+Alarme
+Appareil photo
+Candy Crush
+E-mail
+Facebook
+Firefox
+Flappy Bird
+Flipboard
+Gestion de taches
+Gmail
+Google Now
+Google Play Store
+HFR4droid
+JeuxVideo.com
+Maps
+Mes fichiers
+Meteo
+My Boy Free
+News Republic
+Parametres
+Safari
+Shazam
+Skype
+SMS
+Telephone
+Waze
+WeChat
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+Smartphone Samsung
+Tablet
+[relation]
+0 0 0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 1 1 0 0 
+1 1 0 1 0 1 1 0 0 0 1 0 0 
+0 0 0 0 0 1 1 1 1 0 1 0 0 
+0 0 0 0 0 1 1 1 1 0 1 0 0 
+1 0 1 0 0 0 0 0 1 1 1 0 0 
+0 0 0 0 0 0 1 1 1 1 1 0 1 
+0 0 0 0 0 1 1 1 1 1 1 0 1 
+0 0 0 0 0 1 1 1 1 1 0 0 0 
+0 0 0 0 0 1 1 1 1 0 1 0 0 
+1 0 1 0 0 1 0 0 1 1 1 0 0 
+0 0 0 0 0 0 0 1 1 0 1 0 0 
+1 0 1 0 1 0 1 0 1 0 1 0 0 
+0 0 1 0 1 0 0 0 1 0 1 0 0 
+1 0 0 0 1 0 0 0 0 1 1 0 0 
+1 1 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 1 0 1 0 0 0 
+0 0 0 0 0 1 1 1 1 1 1 0 1 
+0 1 0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 1 1 0 0 0 
+0 0 0 0 0 0 0 1 1 0 1 0 0 
+0 0 0 0 0 0 0 0 1 1 1 0 0 
+0 0 1 0 0 0 1 1 1 1 1 0 0 
+1 0 0 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 1 0 0 
+1 0 1 0 1 1 0 0 1 0 1 0 0 
+1 0 0 0 1 0 0 0 1 0 1 0 1 

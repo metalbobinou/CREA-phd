@@ -1,0 +1,49 @@
+[Lattice]
+16
+11
+[Objects]
+Alarme
+AlloCine
+Angry Birds
+Calculatrice
+Drive
+Facebook
+Gmail
+Google
+Google Play Store
+Lecteur video
+Mes fichiers
+Mise a jour logicielle
+Radio
+SMS
+Telephone
+YouTube
+[Attributes]
+University
+Train station
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+[relation]
+0 0 0 0 0 1 0 0 0 0 1 
+0 1 0 0 0 0 0 0 0 0 0 
+1 1 1 0 0 0 0 0 0 1 0 
+1 0 0 0 0 0 1 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 1 0 
+1 0 0 0 0 0 1 0 0 0 0 
+1 0 0 0 1 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 0 0 0 
+1 0 0 1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 1 1 1 0 
+0 0 0 0 0 0 1 0 0 1 0 
+0 0 1 1 0 0 1 0 0 1 0 
+1 1 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 0 

@@ -1,0 +1,73 @@
+#! /bin/sh
+
+LINUX_PATH=
+MAC_PATH=tree-tagger-MacOSX
+WIN_PATH=TreeTagger-Win64
+
+# Detecting OS commands (make/gmake, md5/md5sum, ...)
+OS=`uname`
+
+#  cygwin workout
+CYGWIN_PATTERN=${OS##CYGWIN}
+CYG_OS=${OS%%${CYGWIN_PATTERN}}
+
+if [ "$OS" = "FreeBSD" ]; then
+	echo "Configure for FreeBSD"
+	TT_PATH=${LINUX_PATH}
+	SED=sed
+	AWK=awk
+elif [ "$OS" = "Debian" ]; then
+	echo "Configure for Debian"
+	TT_PATH=${LINUX_PATH}
+	SED=sed
+	AWK=awk
+elif [ "$OS" = "Linux" ]; then
+	echo "Configure for Linux (generic)"
+	TT_PATH=${LINUX_PATH}
+	SED=sed
+	AWK=awk
+elif [ "$OS" = "Darwin" ]; then
+	echo "Configure for MacOS"
+	TT_PATH=${MAC_PATH}
+	SED=gsed
+	AWK=gawk
+elif [ "$CYG_OS" = "CYGWIN" ]; then
+	echo "Configure for Cygwin"
+	TT_PATH=${WIN_PATH}
+	SED=sed
+	AWK=awk
+else
+	echo "Generic configure"
+	TT_PATH=${LINUX_PATH}
+	SED=sed
+	AWK=awk
+fi
+
+# Get flags
+DEBUG=false
+if [ $# -eq 0 ]; then
+    DEBUG=false
+else
+    while [ $# -ne 0 ]; do
+	VAL=`echo $1 | tr '[:lower:]' '[:upper:]' | tr -d '\n'`
+        if [ "${VAL}" = "DEBUG" ]; then
+            DEBUG=true
+        fi
+        shift
+    done
+fi
+
+
+# Export useful vars
+echo "TT_PATH=${TT_PATH}" > Makefile.rules
+echo "SED=${SED}" >> Makefile.rules
+echo "AWK=${AWK}" >> Makefile.rules
+
+echo "TT_PATH=${TT_PATH}" > vars.sh
+echo "SED=${SED}" >> vars.sh
+echo "AWK=${AWK}" >> vars.sh
+
+
+echo "TT_PATH=${TT_PATH}"
+echo "SED=${SED}"
+echo "AWK=${AWK}"

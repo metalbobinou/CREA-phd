@@ -1,0 +1,42 @@
+[Lattice]
+14
+8
+[Objects]
+AlloCine
+AppyGeek
+Google
+Eurosport
+Facebook
+IMDb
+Instagram
+LCL Mobile
+Mes fichiers
+Parametres
+Runtastic
+SMS
+Telephone
+Twitter
+[Attributes]
+Train station
+Cinema
+Restaurant
+Transportation
+Network 3G
+Public Wifi
+Morning
+Weekend
+[relation]
+0 1 0 0 0 1 0 0 
+1 0 0 0 1 0 0 0 
+0 0 1 1 0 0 0 0 
+1 0 0 1 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 1 0 0 0 1 0 0 
+0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 
+0 1 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 
+0 0 0 1 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 1 1 0 0 1 0 0 

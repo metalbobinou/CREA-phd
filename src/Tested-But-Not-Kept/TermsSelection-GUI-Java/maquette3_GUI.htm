@@ -1,0 +1,126 @@
+<html>
+<head>
+	<title>Maquette GUI sélection dans un CSV</title>
+	<style>
+	td { text-align: center; }
+	</style>
+</head>
+
+<body>
+<center>
+Tableau lu depuis un CSV, et générant un CSV.<br />
+Les cases sont cochées par défaut, et on peut ajouter un élément à la fin.<br />
+<br/>
+
+<table border=0>
+  <tr>
+  <th>Colonne différente entre réf et stratégie : </th>
+  <th style="background-color: rgba(0, 0, 255, 0.4); width: 2cm"> </th>
+  <th style="width: 1cm">  </th>
+  <th>Ligne présente en réf mais absente avec stratégie : </th>
+  <th style="background-color: rgba(255, 0, 0, 0.4); width: 2cm">  </th>
+  </tr>
+</table>
+</center>
+
+<br />
+<br />
+
+<center>
+<table border=1>
+<thead>
+  <tr>
+	<!-- line 0 -->
+	<th style="border: 0"> </th>
+	<th>Keep</th>
+    <th>Term</th>
+    <th style="background-color: gray">BN:ID</th>
+	<th>C1</th>
+	<th>C2</th>
+	<th>C3</th>
+	<th>C4</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+	<!-- line 1 -->
+	<th rowspan="3"> Stratégie </th>
+	<td><input type="checkbox" id="1" name="1" checked></td>
+    <td>cours</td>
+    <td style="background-color: gray">bn:00076429n</td>
+	<td>1</td>
+	<td>0</td>
+	<td>1</td>
+	<td>0</td>
+  </tr>
+  <tr>
+	<!-- line 2 -->
+	<td><input type="checkbox" id="2" name="2" checked></td>
+    <td>web</td>
+    <td style="background-color: rgba(0, 0, 0, 0.5)">bn:00080772n</td>
+	<td style="background-color: rgba(0, 0, 255, 0.4)">0</td>
+	<td>1</td>
+	<td>1</td>
+	<td style="background-color: rgba(0, 0, 255, 0.4)">1</td>
+  </tr>
+   <tr>
+	<!-- line 3 -->
+	<td>...</td>
+    <td>...</td>
+    <td style="background-color: gray">...</td>
+	<td>...</td>
+	<td>...</td>
+	<td>...</td>
+	<td>...</td>
+  </tr>
+  <tr>
+	<!-- line 4 -->
+	<th rowspan="3"> Référence </th>
+	<td style="background-color: rgba(255, 0, 0, 0.4)"><input type="checkbox" id="4" name="4"></td>
+    <td style="background-color: rgba(255, 0, 0, 0.4)">mysql</td>
+    <td style="background-color: rgba(128, 0, 0, 0.5)">bn:01234567n</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">0</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">0</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">0</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">1</td>
+  </tr>
+  <tr>
+	<!-- line 5 -->
+  	<td style="background-color: rgba(255, 0, 0, 0.4)"><input type="checkbox" id="5" name="5"></td>
+    <td style="background-color: rgba(255, 0, 0, 0.4)">windows</td>
+    <td style="background-color: rgba(128, 0, 0, 0.5)">bn:34567890n</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">1</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">0</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">0</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">1</td>
+  </tr>
+  <tr>
+	<!-- line 6 -->
+	<td style="background-color: rgba(255, 0, 0, 0.4)">...</td>
+    <td style="background-color: rgba(255, 0, 0, 0.4)">...</td>
+    <td style="background-color: rgba(128, 0, 0, 0.5)">...</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">...</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">...</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">...</td>
+	<td style="background-color: rgba(255, 0, 0, 0.4)">...</td>
+  </tr>
+  <tr>
+	<!-- line 7 -->
+	<th rowspan="1"> Ajout Manuel </th>
+	<td><input type="button" value="Add"></td>
+    <td><input type="text" id="add7_term" name="add7_term" maxlength="10" size="10"></td>
+    <td style="background-color: gray"><input type="text" id="add7_bnid" name="add7_bnid" minlength="12" maxlength="12" size="12" value="bn:"></td>
+	<td><input type="number" id="add7_C1" name="add7_C1" min="0" max="100" size="3" value="0"></td>
+	<td><input type="number" id="add7_C2" name="add7_C2" min="0" max="100" size="3" value="0"></td>
+	<td><input type="number" id="add7_C3" name="add7_C3" min="0" max="100" size="3" value="0"></td>
+	<td><input type="number" id="add7_C4" name="add7_C4" min="0" max="100" size="3" value="0"></td>
+  </tr>
+</tbody>
+</table>
+<br />
+<input type="button" value="Lock/Unlock">
+<input type="button" value="Export CSV">
+</center>
+
+</body>
+</html>

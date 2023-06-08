@@ -1,0 +1,113 @@
+0) Prendre la colonne de la séance à construire [auto]
+1) Lire les clusters (et leur contenu) par ordre de priorité [choix guidé]
+1bis) Identifier les buts et objectifs pour la séance [choix libre]
+2) Marquer tous les termes correspondants aux objectifs fixés et supprimer ceux qui ne sont pas intéressants [choix libre]
+2bis) Identifier les thèmes/chapitres intéressants pour la séance à construire [choix libre]
+2ter) Attribuer un thème/chapitre à chaque terme [choix libre]
+  [Il faut imaginer une interface simplifiée pour la sélection :
+   supprime/conserve les mots, qui s'applique à tous les autres clusters de la séance]
+3) Trier par thèmes/chapitres les termes [auto]
+4) Ordonner les thèmes/chapitres selon la séance visée [choix libre]
+5) Générer un pack de slides (1 slide par thème, avec tous les termes dedans) [auto]
+6) Ordonner les termes, dupliquer les slides, ... selon les besoins et types de termes [choix libre]
+  (ex : citer un terme en exemple, expliquer un terme en profondeur, ...)
+7) [OPTIONNEL/RUNTIME-ONLY] "Exécuter" la séance de cours +
+    En fin de séance, noter où la slide où le cours s'est arrêté, et reporter les termes & thèmes pas encore faits
+8) Passer à la séance suivante, et reprendre à l'étape 0,
+ - retirer des clusters suivants les termes sélectionnés pour cette séance [auto]
+   ==> ne retirer que les termes liés à des thèmes/chapitres !
+   ==> Laisser les inclassables & ambigus (plusieurs lectures) pour les séances suivantes.
+ - éventuellement : reporter les termes en trop de la séance précédente, et donc quelques objectifs [choix libre]
+
+Ou alors :
+- Générer en statique/à l'avance toutes les séances
+- A la fin de chaque séance refaire l'algorithme en reportant les termes/slides pas faites ?
+
+
+Ex :
+A) Séance 1
+2) Notions introductives et générales :
+   - Usage du web dans la société civile et dans le contexte des entreprises
+   - Rappels de HTML
+   - Installation de l'environnement de travail
+   - Documentation
+3)
+
+#########################
+
+REMARQUE : 
+En Séance 2 j'ai créé un cours qui parle des integer et des tableaux... ça incluait beaucoup de termes liés à ces thèmes.
+En Séance 3, les clusters me donnaient plusieurs termes "integer" et "tableaux" de la séance 2... mais en fait, ça peut s'utiliser pour les thèmes et TD des séances suivantes : les maths pour faire le décompte des pages, les tableaux & date en BDD
+Les termes parfois liés explicitement à un thème, peuvent servir en complément dans d'autres.
+Les filtrages successifs peuvent donner des idées nouvelles d'association de ces termes normalement associés à des thèmes déjà faits.
+Ex : "hash-tables" pour stocker les mots de passe en BDD, "tableau" pour les valeurs de retour des BDD en PHP, "date_format" pour le format des dates en BDD...
+Date et Tableaux ont déjà été vus avant, mais là ils redeviennent utiles.
+
+Les termes filtrés au fur et à mesure, mais pas complètement, permettent en fait de changer de point de vue à chaque séance sur leurs usages.
+Selon le contexte (ou le mini-contexte), les termes prennent parfois beaucoup d'importance.
+
+
+#########################
+
+BUT : sélectionner quelques termes pour chaque séances
+[si je rajoute des "thèmes" ou des choses manuelles... difficile à valoriser]
+
+
+Tagger les clusters plutôt que les termes ?
+-> indiquer l'intérêt du cluster
+-> si le cluster a un intérêt fort, le tagger ! ou en déduire un tag
+
+
+Limiter le nombre de thèmes par séance ?
+
+Coeur de l'algo actuellement :
+1) générer une liste de thèmes à partir de la lecture des clusters et de leurs termes
+ => l'organisation sous forme de clusters permet de plus facilement retrouver les thèmes
+2) tagger les termes
+
+
+
+Expérimentations à part/plus tard :
+- quelles techniques de clusterings génèrent les meilleurs clusters ?
+
+
+#########################
+
+
+
+######
+Idées :
+- Cette partie de la méthode "ajoute" ce que les étapes automatiques d'avant n'ont pas trouvé, c'est-à-dire la catégorisation très fine
+  des termes et le point de vue précis que l'enseignant veut transmettre aux étudiants.
+- BabelFy a retrouvé la majorité des termes liés au(x) sujet(s) grâce à son fonctionnement & les bases de connaissances que BabelNet utilises,
+  mais il s'agit d'une interprétation un peu "statique"/à la lecture de cas passés
+- L'ACF a cherché les points communs entre les documents, et a permis d'exclure les documents trop éloignés
+- Le clustering a cherché automatiquement à relier des termes selon leurs points communs calculés par l'ACF
+- Toutes ces étapes majoritairement automatiques ont essayé de classer et étiquetter automatiquement des connaissances explicites,
+  mais 2 étapes exploitant les connaissances implicites (l'instinct ?) de l'enseignant permettent de re-classer et re-étiquetter
+  l'ensemble des termes pour les besoins spécifiques du cours construit.
+
+
+######
+Ancienne version (remplace 5, 6, 7) :
+5) Evaluer la durée nécessaire pour utiliser les termes dans la séance [choix libre]
+  (ex : citer un terme en exemple, expliquer un terme en profondeur, ...)
+6) Copier/Conserver uniquement les termes utiles pour la séance selon la durée disponible [choix libre]
+
+
+
+
+######
+
+Idée de GUI pour faire ça :
+* pour chaque séance :
+- insérer la liste de clusters de termes (CSV)
+- à gauche, la liste des clusters avec tous les termes lisibles
+- à droite, la liste des termes du cluster courant
+- à droite, face à chaque mot, une case "conserver" et une case "supprimer"
+- à chaque terme supprimé : on le grise dans tous les autres clusters suivants
+- à la fin, on génère une liste de termes pour cette séance
+
+* séance suivante :
+- affiche en italique (ou autre) les termes de la séance précédente
+- refaire les traitements comme avant

@@ -1,0 +1,32 @@
+[Lattice]
+9
+8
+[Objects]
+Alarme
+Appareil photo
+Google
+Facebook
+Google Play Store
+Maps
+Navigation
+Parametres
+RunKeeper
+[Attributes]
+Home
+Home Wifi
+Early Morning
+Evening
+Weekend
+Memory 16G
+Street
+Computer
+[relation]
+0 0 1 0 0 1 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 
+1 1 0 1 0 1 0 0 
+1 1 0 0 1 1 0 0 
+0 0 0 0 1 0 1 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 1 0 

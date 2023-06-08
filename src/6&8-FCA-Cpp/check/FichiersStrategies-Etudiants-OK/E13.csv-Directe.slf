@@ -1,0 +1,55 @@
+[Lattice]
+19
+11
+[Objects]
+Adobe Reader
+Alarme
+Appareil photo
+Astro
+Calculatrice
+Google
+E-mail
+Flappy Bird
+Google Play Store
+Instagram
+Maps
+Need For Speed
+Parametres
+Skype
+SMS
+Subway Surfer
+Twitter
+Viber
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Library
+Home Wifi
+Network 3G
+Morning
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+1 1 1 1 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 1 1 
+1 1 0 0 0 0 1 0 1 0 0 
+0 1 1 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 1 0 0 0 
+1 1 0 1 1 1 0 1 0 0 0 
+1 1 1 1 0 1 0 0 0 0 0 
+1 1 1 0 0 0 1 1 0 0 0 
+1 1 0 0 0 1 0 1 0 0 0 
+1 1 0 0 0 1 0 0 1 0 0 
+1 0 1 0 0 1 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 0 
+1 1 1 0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 1 0 0 
+1 1 1 0 0 0 0 0 1 0 0 
+1 1 0 0 1 1 0 0 1 0 0 
+0 1 0 0 1 1 0 0 1 0 0 
+1 1 0 1 1 1 0 1 1 0 1 

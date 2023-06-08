@@ -1,0 +1,31 @@
+[Lattice]
+10
+5
+[Objects]
+9GAG
+Appareil photo
+Facebook
+Gmail
+Mes fichiers
+Parametres
+SMS
+Telephone
+Tumblr
+YouTube
+[Attributes]
+University
+Home
+Network 3G
+Tablet
+Memory 16G
+[relation]
+1 0 1 1 1 
+0 0 0 0 1 
+1 0 1 1 1 
+0 0 1 0 1 
+0 0 1 0 1 
+0 1 1 0 1 
+0 1 1 0 1 
+0 0 1 0 1 
+1 0 1 0 1 
+0 0 0 1 1 

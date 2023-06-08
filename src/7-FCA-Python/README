@@ -1,0 +1,10 @@
+FCA Lattice Building :
+
+- Why : Find which terms appear appear often together.
+- What : The Formal Context (binary matrix) contain the terms appearences per
+  documents.
+- How : A Lattice is built by finding which terms appear together in multiple
+  documents. Each group of terms appearing together within documents is called
+  a Formal Concept.
+
+Input files : stratey-matrix.txt (TXT format, not CSV nor SLF)

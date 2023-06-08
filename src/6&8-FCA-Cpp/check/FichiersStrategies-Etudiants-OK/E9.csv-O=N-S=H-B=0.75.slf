@@ -1,0 +1,19 @@
+[Lattice]
+5
+3
+[Objects]
+9GAG
+Gmail
+Skype
+SMS
+YouTube
+[Attributes]
+University
+Cinema
+Home
+[relation]
+0 0 1 
+1 1 1 
+0 0 1 
+1 0 1 
+1 0 0 

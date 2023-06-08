@@ -1,0 +1,59 @@
+[Lattice]
+21
+11
+[Objects]
+Candy Crush
+E-mail
+Facebook
+Firefox
+Flappy Bird
+Gestion de taches
+Gmail
+Google Now
+Google Play Store
+HFR4droid
+JeuxVideo.com
+Maps
+Mes fichiers
+Meteo
+My Boy Free
+Parametres
+SMS
+Telephone
+Waze
+WeChat
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+Smartphone Samsung
+[relation]
+1 1 0 1 0 0 0 1 0 0 0 
+1 0 1 0 1 0 0 0 1 0 0 
+1 0 1 0 1 0 0 0 1 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 1 0 1 0 
+0 0 0 0 0 0 0 0 0 1 0 
+1 0 1 0 1 0 0 0 1 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 1 0 0 0 1 0 0 
+0 0 0 0 0 0 0 1 1 0 0 
+1 0 0 0 1 0 0 1 0 0 0 
+1 1 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 1 0 
+1 1 0 0 0 0 1 0 1 0 1 
+0 1 0 0 0 0 0 0 0 0 1 
+1 0 1 0 0 0 1 1 1 1 0 
+0 0 0 0 0 0 0 0 1 0 0 
+0 1 0 1 0 0 0 1 0 1 1 
+0 0 1 0 1 0 0 1 1 0 0 
+0 0 0 0 0 0 0 0 1 0 0 

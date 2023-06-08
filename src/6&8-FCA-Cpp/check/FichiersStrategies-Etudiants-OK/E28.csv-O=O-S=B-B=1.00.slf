@@ -1,0 +1,32 @@
+[Lattice]
+10
+6
+[Objects]
+Angry Birds
+Drive
+E-mail
+Facebook
+Gmail
+Google
+Google Play Store
+Radio
+SMS
+Telephone
+[Attributes]
+University
+Train station
+Transportation
+Home Wifi
+Morning
+Lunch break
+[relation]
+0 0 1 0 0 0 
+1 0 0 0 0 0 
+0 0 0 0 1 0 
+0 0 1 0 0 0 
+0 0 0 0 0 1 
+0 0 1 0 0 0 
+0 0 0 1 0 0 
+0 0 0 0 0 1 
+0 1 0 0 0 0 
+0 0 1 0 0 0 

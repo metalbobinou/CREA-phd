@@ -1,0 +1,33 @@
+[Lattice]
+9
+9
+[Objects]
+9GAG
+Appareil photo
+E-mail
+Gmail
+Google Play Store
+Maps
+Parametres
+SMS
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Public Wifi
+Univ Wifi
+Tablet
+Memory 16G
+[relation]
+0 1 0 1 0 0 1 1 1 
+1 0 1 0 1 0 0 1 1 
+0 0 0 0 0 0 0 1 1 
+0 1 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 1 1 
+1 1 0 1 1 1 1 1 1 
+1 0 0 0 0 0 0 0 0 

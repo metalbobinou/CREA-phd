@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="TermsSelection-Java/TermsSelectionGUI.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/TermsSelection-Java/JARGeneration.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=TermsSelection-Java/src&lt;Main{Main.java[Main" manifestLocation="/TermsSelection-Java/Manifest.mf" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/TermsSelection-Java/JARGeneration.jardesc"/>
+        <javaElement handleIdentifier="=TermsSelection-Java/src"/>
+        <file path="/TermsSelection-Java/.project"/>
+        <file path="/TermsSelection-Java/.classpath"/>
+        <file path="/TermsSelection-Java/Manifest.mf"/>
+    </selectedElements>
+</jardesc>

@@ -1,0 +1,78 @@
+#! /bin/sh
+
+# Detecting OS commands (make/gmake, md5/md5sum, ...)
+OS=`uname`
+
+#  cygwin workout
+CYGWIN_PATTERN=${OS##CYGWIN}
+CYG_OS=${OS%%${CYGWIN_PATTERN}}
+
+if [ "$OS" = "FreeBSD" ]; then
+	echo "Configure for FreeBSD"
+	SED=sed
+	AWK=awk
+	SORT=sort
+	UNIQ=uniq
+elif [ "$OS" = "Debian" ]; then
+	echo "Configure for Debian"
+	SED=sed
+	AWK=awk
+	SORT=sort
+	UNIQ=uniq
+elif [ "$OS" = "Linux" ]; then
+	echo "Configure for Linux (generic)"
+	SED=sed
+	AWK=awk
+	SORT=sort
+	UNIQ=uniq
+elif [ "$OS" = "Darwin" ]; then
+	echo "Configure for MacOS"
+	SED=gsed
+	AWK=gawk
+	SORT=sort
+	UNIQ=uniq
+elif [ "$CYG_OS" = "CYGWIN" ]; then
+	echo "Configure for Cygwin"
+	SED=sed
+	AWK=awk
+	SORT=sort
+	UNIQ=uniq
+else
+	echo "Generic configure"
+	SED=sed
+	AWK=awk
+	SORT=sort
+	UNIQ=uniq
+fi
+
+# Get flags
+DEBUG=false
+if [ $# -eq 0 ]; then
+    DEBUG=false
+else
+    while [ $# -ne 0 ]; do
+	VAL=`echo $1 | tr '[:lower:]' '[:upper:]' | tr -d '\n'`
+        if [ "${VAL}" = "DEBUG" ]; then
+            DEBUG=true
+        fi
+        shift
+    done
+fi
+
+
+# Export useful vars
+echo "SED=${SED}" > Makefile.rules
+echo "AWK=${AWK}" >> Makefile.rules
+echo "SORT=${SORT}" >> Makefile.rules
+echo "UNIQ=${UNIQ}" >> Makefile.rules
+
+echo "SED=${SED}" > vars.sh
+echo "AWK=${AWK}" >> vars.sh
+echo "SORT=${SORT}" >> vars.sh
+echo "UNIQ=${UNIQ}" >> vars.sh
+
+
+echo "SED=${SED}"
+echo "AWK=${AWK}"
+echo "SORT=${SORT}"
+echo "UNIQ=${UNIQ}"

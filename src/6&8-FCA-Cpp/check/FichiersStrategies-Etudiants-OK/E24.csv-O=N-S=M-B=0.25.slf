@@ -1,0 +1,40 @@
+[Lattice]
+11
+12
+[Objects]
+Agenda
+Alarme
+AlloCine
+Angry Birds
+Appareil photo
+Lecteur video
+netBeans
+pgAdmin III
+SMS
+World
+YouTube
+[Attributes]
+University
+Cinema
+Home
+Transportation
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+Smartphone Iphone
+[relation]
+0 0 1 0 0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 1 1 
+0 1 0 1 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 1 0 
+1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 1 0 
+0 0 0 0 0 1 1 1 1 1 1 0 
+1 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 1 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 1 0 

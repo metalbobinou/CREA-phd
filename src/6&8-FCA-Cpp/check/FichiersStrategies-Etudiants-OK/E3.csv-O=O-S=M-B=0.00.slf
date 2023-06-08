@@ -1,0 +1,26 @@
+[Lattice]
+6
+8
+[Objects]
+Calculatrice
+Google
+E-mail
+Jelly Splash
+Keep
+YouTube
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+Morning
+Afternoon
+Weekend
+Smartphone Samsung
+[relation]
+1 0 0 0 1 0 0 1 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+1 0 0 0 0 0 0 0 
+1 1 1 1 1 0 0 0 
+1 0 0 1 0 1 0 1 

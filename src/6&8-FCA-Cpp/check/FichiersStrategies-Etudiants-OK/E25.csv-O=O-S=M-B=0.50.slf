@@ -1,0 +1,49 @@
+[Lattice]
+15
+13
+[Objects]
+20minute-android
+9GAG
+Alarme
+Echec
+Facebook
+Flappy Bird
+Google
+Mes fichiers
+Meteo
+Musique
+SMS
+SnapChat
+Sudoku
+Telephone
+Tinder
+[Attributes]
+University
+Train station
+Home
+Transportation
+Network 3G
+Early Morning
+Morning
+Lunch break
+Afternoon
+Evening
+Weekend
+Smartphone Samsung
+Memory 32G
+[relation]
+0 0 0 0 0 0 0 0 1 0 0 1 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 1 0 0 0 0 0 1 1 
+1 0 0 0 0 0 0 0 1 0 0 1 1 
+1 0 0 1 0 0 0 0 1 0 0 0 0 
+1 1 0 1 0 0 1 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 1 0 0 0 0 
+0 0 1 1 0 1 0 0 0 0 0 0 0 
+0 0 1 0 1 0 1 0 0 0 0 1 1 
+0 1 0 1 0 0 1 0 0 0 0 0 0 
+1 0 1 1 0 0 0 0 1 1 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 1 0 0 1 1 
+0 0 1 0 0 0 0 0 0 1 0 0 0 
+1 0 0 0 0 0 0 0 1 0 0 0 0 

@@ -1,0 +1,57 @@
+B
+
+19
+14
+
+Alarme
+AlloCine
+Appareil photo
+BBM
+BNP PARIBAS
+Calculatrice
+E-mail
+Facebook
+Flappy Bird
+Instagram
+Maps
+Parametres
+Photos
+SMS
+SnapChat
+Telephone
+Twitter
+WhatsApp
+YouTube
+University
+Cinema
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+XXXXXX.XXXXXXX
+...X..XXXXXXXX
+.X.XXXXXXXX.X.
+XX.X..XXXXX.XX
+XX.XXXXXXXXXXX
+.XXXXXXXXX.XXX
+.X......X..XX.
+XXXX.XXXXXX.XX
+.X.XXXX..X.XXX
+.X.X..XXXXX.XX
+XXX.X.XXXXXXXX
+XXXXXXXXXXXXX.
+.X..X.X.XXXXXX
+.X..X.X.X.....
+......X..X..X.
+XX.XXXXXXXX.X.
+.X.X..XXXXX.XX
+.X.XX.X..XX.XX
+XXXXXXXXXXXXXX

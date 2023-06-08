@@ -1,0 +1,163 @@
+#! /bin/sh
+
+# Supported options :
+# DEBUG : add debug flags for gdb
+
+# Logging error : make > make.log 2>&1
+
+# Required function for later
+myrealpath()
+{
+    echo $(cd $(dirname "$1") && pwd -P)/$(basename "$1")
+}
+
+# Detecting OS commands (make/gmake, md5/md5sum, ...)
+OS=`uname`
+
+#  cygwin workout
+CYGWIN_PATTERN=${OS##CYGWIN}
+CYG_OS=${OS%%${CYGWIN_PATTERN}}
+
+
+# make and md5 programs
+if [ "$OS" = "FreeBSD" ]; then
+	echo "Configure for FreeBSD"
+	MAKE="gmake"
+	MD5="md5"
+elif [ "$OS" = "Debian" ]; then
+	echo "Configure for Debian"
+	MAKE="make"
+	MD5="md5sum"
+elif [ "$OS" = "Linux" ]; then
+	echo "Configure for Linux (generic)"
+	MAKE="make"
+	MD5="md5sum"
+elif [ "$OS" = "Darwin" ]; then
+	echo "Configure for MacOS"
+	MAKE="make"
+	MD5="md5"
+elif [ "$CYG_OS" = "CYGWIN" ]; then
+	echo "Configure for Cygwin"
+	MAKE="make"
+	MD5="md5sum"
+else
+	echo "Generic configure"
+	MAKE="make"
+	MD5="md5"
+fi
+
+# C/C++ Compiler declaration
+if [ "$OS" = "FreeBSD" ]; then
+    CC="gcc"
+    CXX="g++"
+elif [ "$OS" = "Darwin" ]; then
+    CC="gcc"
+    CXX="g++"
+elif [ "$CYG_OS" = "CYGWIN" ]; then
+    CC="gcc"
+    CXX="g++"
+else
+    CC="gcc"
+    CXX="g++"
+fi
+
+# CFLAGS declaration
+#CFLAGS="-W -Wall -Werror -ansi -pedantic"
+#CFLAGS="-W -Wall -Werror -std=c99 -pedantic"
+#CFLAGS="-W -Wall -ansi -pedantic"
+CFLAGS="-W -Wall -std=c99 -pedantic"
+
+# CXXFLAGS
+#CXXFLAGS="-Wall -Wextra -std=c++98 -pedantic"
+CXXFLAGS="-Wall -Wextra -std=c++11 -pedantic"
+#CXXFLAGS="-Wall -Wextra -std=c++14 -pedantic"
+#CXXFLAGS="-Wall -Wextra -std=c++17 -pedantic"
+#CXXFLAGS="-Wall -Wextra -std=c++20 -pedantic"
+#CXXFLAGS="-Wall -Wextra -std=c++98 -pedantic"
+
+# Linker flags
+LDFLAGS="-lsqlite3"
+
+# Optional/Supplements flags
+MOREFLAGS=""
+
+# LIBS ADDITIONS
+LIBXML_CFLAGS=`xml2-config --cflags`
+LIBXML_LDFLAGS=`xml2-config --libs`
+CFLAGS="${CFLAGS} ${LIBXML_CFLAGS}"
+CXXFLAGS="${CXXFLAGS} ${LIBXML_CFLAGS}"
+LDFLAGS="${LDFLAGS} ${LIBXML_LDFLAGS}"
+
+
+# Get args
+DEBUG=false
+OPTIMIZATION=false
+if [ $# -eq 0 ]; then
+    DEBUG=false
+    OPTIMIZATION=false
+else
+    while [ $# -ne 0 ]; do
+	VAL=`echo $1 | tr '[:lower:]' '[:upper:]' | tr -d '\n'`
+        if [ "${VAL}" = "DEBUG" ]; then
+            DEBUG=true
+        elif [ "${VAL}" = "OPTIMIZE" ]; then
+            OPTIMIZATION=true
+        fi
+        shift
+    done
+fi
+
+# Add DEBUG flags if required
+if [ "${DEBUG}" = "true" ]; then
+    # Add GDB
+    CFLAGS="${CFLAGS} -g -g3 -ggdb"
+    CXXFLAGS="${CXXFLAGS} -g -g3 -ggdb"
+    # Add customs things
+    CFLAGS="${CFLAGS} -DMYDEBUG=true"
+    CXXFLAGS="${CXXFLAGS} -DMYDEBUG=true"
+fi
+
+# Add OPTIMIZATION flags if required
+if [ "${OPTIMIZATION}" = "true" ]; then
+    # Add OPTIMIZATION in compiler
+    CFLAGS="${CFLAGS} -O2"
+    CXXFLAGS="${CXXFLAGS} -O2"
+    # Even in linker
+    LDFLAGS="${LDFLAGS} -O2"
+    # Add customs things
+    #CFLAGS="${CFLAGS} -DMYDEBUG=true"
+    #CXXFLAGS="${CXXFLAGS} -DMYDEBUG=true"
+fi
+
+
+# Include old Makefile
+CWD=`pwd`
+#cd ..
+#PREV_MAKEFILE_DIR=`pwd`
+#cd "${CWD}"
+#PREV_MAKEFILE_DIR=`echo ${PREV_MAKEFILE_DIR} | sed -e "s/ /\\\\\\\ /g"`
+#PREV_MAKEFILE="${PREV_MAKEFILE_DIR}/Makefile.rules"
+
+
+# Export useful vars
+echo "-include ${PREV_MAKEFILE_DIR}/Makefile.rules" > Makefile.rules
+
+echo "MAKE=${MAKE}" >> Makefile.rules
+echo "MD5=${MD5}" >> Makefile.rules
+echo "CC=${CC}" >> Makefile.rules
+echo "CXX=${CXX}" >> Makefile.rules
+echo "CFLAGS=${CFLAGS}" >> Makefile.rules
+echo "CXXFLAGS=${CXXFLAGS}" >> Makefile.rules
+echo "LDFLAGS=${LDFLAGS}" >> Makefile.rules
+echo "MOREFLAGS=${MOREFLAGS}" >> Makefile.rules
+
+
+echo "MAKE=${MAKE}"
+echo "MD5=${MD5}"
+echo "CC=${CC}"
+echo "CXX=${CXX}"
+echo "CFLAGS=${CFLAGS}"
+echo "CXXFLAGS=${CXXFLAGS}"
+echo "LDFLAGS=${LDFLAGS}"
+echo "MOREFLAGS=${MOREFLAGS}"
+echo "DEBUG MODE: ${DEBUG}"

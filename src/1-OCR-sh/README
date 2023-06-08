@@ -1,0 +1,27 @@
+List of OCR tools
+
+Cygwin :
+- tesseract
+- pdftotext
+
+macOS :
+- calibre
+
+debian :
+- (cf cygwin)
+- OCRmyPDF
+
+
+PDFtoText useful parameters :
+  -layout              : maintain original physical layout
+  -fixed <fp>          : assume fixed-pitch (or tabular) text
+  -raw                 : keep strings in content stream order
+  -nodiag              : discard diagonal text
+
+
+Tesseract tips :
+- doesn't accept PDF in input... needs to create images.
+- ImageMagick can help  : convert -quality 100 -density 300 in.pdf out.jpg
+- Call tesseract-ocr : tesseract image.jpg output.txt
+- If a language pack is installed (tesseract-ocr-fra or eng or spa) : -l fra
+  tesseract image.jpg output.txt -l spa

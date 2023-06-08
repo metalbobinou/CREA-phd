@@ -1,0 +1,30 @@
+[Lattice]
+8
+8
+[Objects]
+Facebook
+Google
+Google Play Store
+Ratp
+Shazam
+SnapChat
+Tinder
+YouTube
+[Attributes]
+Train station
+Home
+Transportation
+Morning
+Lunch break
+Evening
+Night
+Weekend
+[relation]
+0 0 0 1 0 0 0 1 
+0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 1 1 1 
+0 0 0 0 0 1 0 1 
+0 0 0 0 0 0 1 0 
+1 0 1 1 0 0 0 0 
+0 0 0 0 0 0 1 1 

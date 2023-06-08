@@ -1,0 +1,54 @@
+[Lattice]
+19
+10
+[Objects]
+Agenda
+Alarme
+App Store
+Appareil photo
+Calculatrice
+Emoji Art
+Facebook
+Gmail
+Mes fichiers
+Meteo
+Musique
+Parametres
+Quran
+Runtastic
+Safari
+SMS
+Viber
+WhatsApp
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Network 3G
+Early Morning
+Morning
+Afternoon
+Evening
+Weekend
+Smartphone Iphone
+[relation]
+0 1 0 0 0 1 0 1 1 0 
+0 1 0 0 0 0 0 1 0 1 
+1 0 0 1 0 1 0 0 0 1 
+0 1 0 0 0 0 0 0 1 1 
+1 0 0 0 0 1 1 0 0 1 
+0 1 0 0 0 0 0 1 0 1 
+1 0 0 0 0 1 1 0 0 0 
+1 0 0 0 0 1 1 0 0 0 
+1 0 1 0 0 1 1 0 0 0 
+1 1 0 0 0 1 1 0 0 0 
+0 0 1 0 0 0 0 0 1 1 
+1 0 0 0 0 0 1 0 0 1 
+0 1 0 1 1 0 0 0 0 1 
+0 0 0 0 0 1 0 0 0 1 
+1 0 0 0 0 1 1 0 0 0 
+1 0 1 0 0 1 1 0 0 0 
+0 1 0 1 0 0 0 1 0 1 
+1 1 0 0 0 0 1 1 0 0 
+1 0 0 1 0 0 1 0 0 1 

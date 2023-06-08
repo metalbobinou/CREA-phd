@@ -1,0 +1,38 @@
+[Lattice]
+9
+14
+[Objects]
+Alarme
+Angry Birds
+Appareil photo
+E-mail
+Facebook
+Gestion de taches
+Samsung Apps
+SMS
+Telephone
+[Attributes]
+University
+Train station
+Home
+Transportation
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+Smartphone Iphone
+Memory 16G
+[relation]
+0 0 1 0 1 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 1 1 1 0 1 0 0 
+1 1 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 1 1 0 1 1 1 1 1 1 1 0 0 
+1 1 1 1 0 1 1 1 1 1 1 1 0 0 
+1 0 1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 1 1 1 1 1 1 0 0 
+1 1 1 1 0 0 0 0 0 0 0 0 0 0 
+1 0 1 0 0 0 0 1 1 1 1 1 0 0 

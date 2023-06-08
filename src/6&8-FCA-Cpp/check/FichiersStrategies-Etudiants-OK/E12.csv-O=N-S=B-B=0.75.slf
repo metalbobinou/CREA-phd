@@ -1,0 +1,38 @@
+[Lattice]
+11
+10
+[Objects]
+Appareil photo
+BNP PARIBAS
+Google
+E-mail
+Facebook
+Skype
+SMS
+SnapChat
+Spotify
+Twitter
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+[relation]
+1 0 0 0 0 0 0 1 0 0 
+1 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 1 0 1 1 
+0 0 0 0 1 0 1 1 0 0 
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 1 0 0 0 0 
+0 0 0 0 1 0 0 1 0 0 
+0 0 1 0 1 0 1 0 0 1 
+0 1 0 1 1 0 1 0 1 0 
+0 0 0 0 0 0 0 1 0 1 

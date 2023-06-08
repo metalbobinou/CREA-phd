@@ -1,0 +1,52 @@
+TreeTagger filter :
+
+- Why : in order to reduce the noise created from useless words (= words with
+  none domain knowledge), we must filter them.
+- What : A lot of preposition and other grammatical classes do not embed any
+  knowledge and can be deleted. These are knwown as "Part of Speech" (POS).
+- How : We delete useless POS words, except those which are required in
+  certain languages. (e.g.: in french "de" is required in "base de données")
+
+
+Usage:
+
+0-run.sh C1.txt [out_C1.txt optional]
+
+or batch (dirs inside script) :
+BatchRun.sh
+
+Filter Class :
+0 - keep type of words
+1 - delete type of words
+
+SMALL EXCEPTIONS :
+base de données  (french : "de" - DET/PRP ?)
+a priori  (english : "a" - DT)
+finite state machine  (english : "finite" - JJ)
+real-time  (english : JJ)
+digital control units  (english : "units" - VVG)
+statecharts,  (english : RB)
+man-machine  (english : JJ)
+data-processing  (english : JJ)
+computer operating systems  (english : "operating" - VVZ)
+reactive  (english : JJ)
+modular  (english : JJ)
+
+
+BEWARE OF LANGUAGE :
+2-tag-words.sh  - choose right dictionnary (DICO=*.par)
+3-filter-words.sh  - choose right filters (filter-class.txt)
+4-choose-morph-words.sh  - list correct words to keep (choose-morph-rules.awk)
+
+
+For french :
+0-run-FR.sh
+2-tag-words-FR.sh  (DICO=french.par)
+3-filter-words-FR.sh (filter-class-FR.txt)
+4-choose-morph-words-FR.sh (choose-morph-rules-FR.awk)
+
+For english :
+0-run-EN.sh
+2-tag-words-EN.sh  (DICO=english.par)
+3-filter-words-EN.sh (filter-class-EN.txt)
+4-choose-morph-words-FR.sh (choose-morph-rules-EN.awk)

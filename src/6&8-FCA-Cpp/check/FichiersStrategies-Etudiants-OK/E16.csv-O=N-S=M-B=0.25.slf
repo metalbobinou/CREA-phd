@@ -1,0 +1,17 @@
+[Lattice]
+4
+3
+[Objects]
+Calculatrice
+Google
+SMS
+Telephone
+[Attributes]
+University
+Network 3G
+Smartphone Sony
+[relation]
+1 0 1 
+0 1 0 
+1 1 0 
+1 0 0 

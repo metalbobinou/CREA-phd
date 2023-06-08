@@ -1,0 +1,56 @@
+B
+
+18
+15
+
+AlloCine
+Appareil photo
+Calculatrice
+E-mail
+Facebook
+Gestion de taches
+Leboncoin
+Maps
+Mes fichiers
+Mise a jour logicielle
+netBeans
+nike
+pap.fr
+Skype
+SMS
+Telephone
+World
+YouTube
+University
+Train station
+Cinema
+Restaurant
+Home
+Transportation
+Library
+Univ Wifi
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+.............XX
+...XX....X.....
+XX.XX..........
+X.XX..X.XX..XXX
+X.XX..X.......X
+X...X..........
+..............X
+XX..........XXX
+............X..
+X..............
+.........XXX...
+..............X
+.............XX
+X.....X.....XXX
+.XXX.XX..X..X..
+X.....X.......X
+......X..X..X.X
+X.....XX....X.X

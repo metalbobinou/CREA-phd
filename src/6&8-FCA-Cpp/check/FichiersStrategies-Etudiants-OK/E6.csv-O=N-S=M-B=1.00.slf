@@ -1,0 +1,29 @@
+[Lattice]
+6
+11
+[Objects]
+Gmail
+SMS
+Telephone
+VDM
+Flappy Bird
+YouTube
+[Attributes]
+University
+Restaurant
+Parents home
+Home
+Transportation
+Network 3G
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+[relation]
+0 0 0 0 1 0 1 0 0 1 0 
+1 1 1 1 1 0 1 1 1 1 1 
+0 0 0 1 1 0 1 0 0 1 1 
+0 0 0 1 0 0 1 0 0 0 0 
+1 0 0 1 1 1 1 1 0 1 1 
+0 0 0 1 0 1 1 0 0 0 0 

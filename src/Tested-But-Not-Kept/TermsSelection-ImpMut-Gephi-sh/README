@@ -1,0 +1,37 @@
+Terms Selection :
+
+Highlights terms in order to help users choose the best terms
+
+
+Rename-CoursesXTerms.sh
+ - Rename documents and terms in a file containing matrices of the form :
+   	  X ; Doc 1 ; Doc 2 ; ...
+	  Term 1 ; 0 ; 1 ; ...
+	  Term 2 ; 1 ; 1 ; ...
+	  ...  ; ... ; ... ; ...
+
+Rename-TermsXCourses.sh
+ - Rename documents and terms in a file containing matrices of the form :
+          X ; Term 1 ; Term 2 ; ...
+          C1 ; 0 ; 1 ; ...
+          C2 ; 1 ; 1 ; ...
+          ...  ; ... ; ... ; ...
+
+
+Import Gephi de l'impact mutuel :
+- vérifier que "semi colon" est sélectionné
+- importer en tant que "matrix" (PAS ADJACENCY LIST)
+- "intervals"
+- "mixed"
+
+Couleur gephi :
+- "average degree"
+- taille noeud : 18~20
+- color : partition 1-10 ==> les termes ; 10 > ==> les cours
+  (quelques exceptions peuvent arriver)
+  Faire couleurs chaudes pour 10, vers couleurs froides pour 1
+  Mettre en blanc ou gris les cours
+- Ajouter texte
+- spatialisation : force atlas, force de répulsion : 200-2000 
+- Ne pas oublier : "preview settings", afficher les "node labels", et
+  ne pas recourber les "edges"

@@ -1,0 +1,33 @@
+OrderingClusters-sh :
+
+* OrderingClusters.sh
+
+- Why :
+  Add a temporal order on each cluster for ordering them
+  (Propose positions for each cluster)
+- What :
+  Fragments of past cases are organized temporarily with significative terms
+  in each parts
+- How :
+  Past cases knowledge has been transformed into documents which were
+  cut into N parts. The most significative words in these parts are highlighted
+  and used as ordered references.
+  Past cases knowledge has also been cut into fragments of words : clusters.
+  The fragments are ordered based on the words they contains and the ordering
+  proposed by the significative words and their parts.
+
+
+* OrderingClusters-plus-infos.sh
+Add informations around the bn:ID (which part it belongs to)
+
+
+Clusters input :
+Cluster ID ; Significance ; bn:ID1 ; bn:ID2 ; ...
+
+Ordering input :
+Name ; bn:ID ; Part ; Document1 ; Document2 ; ...
+
+
+1-OrderingClusters-union : makes a union of all the parts
+1bis-OrderingClusters-union-plus-infos : same + infos
+1bis-OrderingClusters-majority-plus-infos : keeps the parts that have the majority + infos

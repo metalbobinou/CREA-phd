@@ -1,0 +1,31 @@
+[Lattice]
+9
+7
+[Objects]
+Appareil photo
+Calculatrice
+Facebook
+Gmail
+Musique
+Safari
+SMS
+WhatsApp
+YouTube
+[Attributes]
+University
+Restaurant
+Home
+Transportation
+Morning
+Afternoon
+Evening
+[relation]
+0 0 1 0 0 0 1 
+0 0 0 0 1 1 0 
+0 1 1 1 0 0 0 
+0 1 1 1 0 0 0 
+0 0 0 0 1 0 0 
+0 0 0 1 0 0 0 
+0 0 1 0 0 0 0 
+0 0 0 1 1 0 0 
+1 0 0 0 0 0 0 

@@ -1,0 +1,14 @@
+[Lattice]
+2
+4
+[Objects]
+Calculatrice
+Calendrier
+[Attributes]
+University
+Home
+Evening
+Memory 16G
+[relation]
+1 0 0 1 
+1 1 1 1 

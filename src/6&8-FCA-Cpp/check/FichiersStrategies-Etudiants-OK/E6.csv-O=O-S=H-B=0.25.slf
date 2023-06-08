@@ -1,0 +1,21 @@
+[Lattice]
+5
+5
+[Objects]
+Gmail
+SMS
+Telephone
+VDM
+Flappy Bird
+[Attributes]
+University
+Home
+Network 3G
+Morning
+Afternoon
+[relation]
+1 0 1 0 0 
+1 0 1 0 1 
+0 1 1 0 0 
+0 1 1 1 0 
+0 0 1 0 0 

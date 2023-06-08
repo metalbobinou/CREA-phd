@@ -1,0 +1,21 @@
+B
+
+4
+8
+
+Gmail
+SMS
+Telephone
+VDM
+Restaurant
+Parents home
+Home
+Transportation
+Morning
+Coffe break
+Afternoon
+Evening
+...XX.X.
+XXX..X.X
+....X..X
+...X...X

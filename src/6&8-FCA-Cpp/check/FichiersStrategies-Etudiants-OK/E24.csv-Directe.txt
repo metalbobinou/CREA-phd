@@ -1,0 +1,68 @@
+B
+
+23
+17
+
+Agenda
+Alarme
+AlloCine
+Angry Birds
+Appareil photo
+Calculatrice
+E-mail
+Facebook
+Gestion de taches
+Leboncoin
+Lecteur video
+Maps
+Mes fichiers
+Mise a jour logicielle
+netBeans
+nike
+pap.fr
+pgAdmin III
+Skype
+SMS
+Telephone
+World
+YouTube
+University
+Train station
+Cinema
+Restaurant
+Home
+Transportation
+Library
+Home Wifi
+Univ Wifi
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+Smartphone Iphone
+....X...........X
+.........X.......
+..............XXX
+..X..X...........
+X..XX.....X....XX
+XX.XX.....X....XX
+X.XXX.XXXXX..XXXX
+XXXXXXXXX.X..XXXX
+X...X.........X..
+....X..X......XXX
+X................
+XX..X..XX....XXX.
+X............XX..
+X...X...X....X...
+..........XXXXXX.
+....X..X......XXX
+....X..X......XXX
+..........XXXXXX.
+X...X.XXX.X..XXX.
+XXXXXXX...X..XXXX
+XX..XXX.XXX...XX.
+X...X.X...X..XXX.
+X...X.XXX....XXXX

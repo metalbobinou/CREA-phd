@@ -1,0 +1,15 @@
+CounterWordsType :
+
+- Why : Detect if the generated matrix after a strategy contains useful words.
+- What : Groups of words are created by the user. Each group correspond to a
+  requirement (e.g.: group of words for beginners, experts, ...).
+- How : The words in the matrix are counted, and a proportion of words present
+  in the groups is calculated and presented.
+
+
+1) Put words to search for in a first file (like REF.txt), and separate them by
+ commas: word1, long word2, shortword3
+
+2) Put your text in another file (like TEXT.txt)
+
+3) Launch: sh CounterWordsType.sh REF.txt TEXT.txt

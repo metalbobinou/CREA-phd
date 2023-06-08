@@ -1,0 +1,58 @@
+[Lattice]
+21
+10
+[Objects]
+Alarme
+Appareil photo
+Candy Crush
+E-mail
+Facebook
+Firefox
+Flappy Bird
+Flipboard
+Gmail
+Google Play Store
+HFR4droid
+JeuxVideo.com
+Maps
+Meteo
+News Republic
+Parametres
+Skype
+SMS
+Telephone
+WeChat
+YouTube
+[Attributes]
+University
+Transportation
+Network 3G
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+Tablet
+[relation]
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 1 1 0 0 0 1 0 
+0 0 0 1 1 0 1 0 0 0 
+0 0 0 1 1 1 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 1 0 1 
+0 0 0 1 1 1 0 0 0 1 
+0 0 0 0 1 1 0 0 0 0 
+0 0 0 0 0 1 1 0 1 0 
+1 0 0 0 1 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 1 0 
+1 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 1 0 0 0 0 
+0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 0 0 0 
+1 0 0 0 0 1 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 1 

@@ -1,0 +1,25 @@
+[Lattice]
+6
+7
+[Objects]
+Google
+Gmail
+Mise a jour logicielle
+Notes
+Telephone
+SMS
+[Attributes]
+University
+Transportation
+Morning
+Coffe break
+Lunch break
+Afternoon
+Weekend
+[relation]
+0 0 0 0 1 0 1 
+0 0 0 1 0 0 0 
+0 0 1 0 0 1 1 
+0 0 0 0 0 0 1 
+1 0 0 0 1 0 0 
+0 1 0 0 0 0 0 

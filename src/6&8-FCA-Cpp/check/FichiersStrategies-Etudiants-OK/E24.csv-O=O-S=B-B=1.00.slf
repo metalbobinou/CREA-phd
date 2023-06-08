@@ -1,0 +1,38 @@
+[Lattice]
+12
+8
+[Objects]
+Appareil photo
+Gestion de taches
+Leboncoin
+Maps
+Mes fichiers
+Mise a jour logicielle
+netBeans
+nike
+pap.fr
+Skype
+World
+YouTube
+[Attributes]
+University
+Train station
+Restaurant
+Home
+Library
+Morning
+Afternoon
+Weekend
+[relation]
+0 0 1 1 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 1 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 1 0 

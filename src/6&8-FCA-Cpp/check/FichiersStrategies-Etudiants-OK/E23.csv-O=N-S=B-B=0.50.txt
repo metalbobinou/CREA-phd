@@ -1,0 +1,67 @@
+B
+
+26
+10
+
+Alarme
+Appareil photo
+Calculatrice
+Candy Crush
+E-mail
+Facebook
+Firefox
+Flappy Bird
+Flipboard
+Gestion de taches
+Gmail
+Google Now
+Google Play Store
+HFR4droid
+JeuxVideo.com
+Maps
+Meteo
+News Republic
+Parametres
+Safari
+Shazam
+Skype
+SMS
+Telephone
+WeChat
+YouTube
+University
+Transportation
+Network 3G
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+Tablet
+........X.
+........X.
+...X......
+...XX...X.
+...XXXX.X.
+...XXXX.X.
+.X....XXX.
+.....X.X.X
+...XXXXXXX
+...XXXXX..
+...XXXX.X.
+.X.X..XXX.
+.....XX.X.
+XX..X.X.X.
+.XX.....X.
+.......XX.
+X.........
+...XXXXXXX
+......XX..
+......XX..
+.....XX.X.
+......X.X.
+....X.....
+X....X....
+X..X....X.
+X.X...X.XX

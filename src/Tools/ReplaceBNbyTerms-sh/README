@@ -1,0 +1,22 @@
+ReplaceBNbyTerms-sh :
+
+
+1-GenerateBNTermsList-horizontal.sh :
+Generate a list of references from a matrix whose bn:ID and terms are in the
+first line (header).
+
+1-GenerateBNTermsList-vertical.sh :
+Generate a list of references from a matrix whose bn:ID and terms are in the
+first column.
+
+
+2-ReplaceTermsBNbyBN.sh :
+Replace the "Term bn:ID" by the bn:ID only
+
+2-ReplaceTermsBNbyTerms.sh :
+Replace the "Term bn:ID" by the term only
+
+
+3-ReplaceBNbyTerms.sh :
+Replace the bn:ID by the word equivalent in every document.
+(uses a reference file from 1-GenerateBNTermsList-*.sh)

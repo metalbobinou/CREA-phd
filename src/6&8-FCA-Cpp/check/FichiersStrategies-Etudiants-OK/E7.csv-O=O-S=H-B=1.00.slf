@@ -1,0 +1,19 @@
+[Lattice]
+5
+3
+[Objects]
+Appareil photo
+Candy Crush
+Flappy Bird
+Parametres
+SMS
+[Attributes]
+Home
+Network 3G
+Memory 16G
+[relation]
+0 0 1 
+0 0 1 
+0 0 1 
+1 0 1 
+0 1 1 

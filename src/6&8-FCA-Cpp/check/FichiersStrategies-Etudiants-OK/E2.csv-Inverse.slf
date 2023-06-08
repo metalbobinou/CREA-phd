@@ -1,0 +1,63 @@
+[Lattice]
+21
+15
+[Objects]
+Actualites
+AlloCine
+Appareil photo
+Calculatrice
+Calendrier
+Google
+Facebook
+Flappy Bird
+Freebox Mobile
+Google Play Store
+Instagram
+Lecteur video
+Mes fichiers
+Meteo
+Notes
+Parametres
+Ratp
+SMS
+SnapChat
+WeChat
+YouTube
+[Attributes]
+University
+Train station
+Restaurant
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+0 1 1 0 0 0 0 0 1 0 1 0 0 1 0 
+0 1 1 0 1 0 0 1 0 1 1 1 1 1 0 
+0 0 0 1 1 1 1 1 0 0 1 0 1 1 0 
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+0 1 1 0 1 1 1 1 1 1 1 1 0 1 1 
+0 0 1 0 0 0 0 1 0 1 1 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 
+0 1 1 0 0 0 0 1 0 0 1 1 0 1 0 
+0 1 1 0 1 0 0 1 1 1 1 1 1 1 0 
+0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 
+0 1 1 0 0 1 1 1 0 1 1 0 1 1 0 
+0 1 1 0 0 0 0 0 1 0 1 0 0 1 0 
+0 1 1 0 0 1 1 1 0 1 1 0 0 1 0 
+0 1 1 0 0 1 1 1 0 1 1 0 0 1 0 
+1 1 1 0 0 0 0 0 1 1 1 0 0 1 0 
+0 0 0 0 0 1 1 1 0 0 0 0 0 1 0 
+0 1 0 0 1 0 0 1 0 0 0 0 0 1 0 
+0 1 1 0 0 0 0 1 0 1 1 0 0 1 0 
+1 1 1 0 1 0 1 1 1 1 1 0 0 1 0 

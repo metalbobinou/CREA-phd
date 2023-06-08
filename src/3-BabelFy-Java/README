@@ -1,0 +1,12 @@
+BabelFy :
+
+- Why : Extracting knowledge from words requires multiple steps and a knowledge
+  base. Synonyms are different forms of words for the same knowledge.
+- What : Word Sense Disambiguation and Entity Linking resolve the ambiguity and
+  link the words with the concept stored in the knowledge base.
+- How : We send the text to BabelFy, and gets a list of entities from BabelNet
+  with their percentage of disambiguation confidence.
+
+
+Usage:
+java -jar BabelFyFiles.jar FR file.txt

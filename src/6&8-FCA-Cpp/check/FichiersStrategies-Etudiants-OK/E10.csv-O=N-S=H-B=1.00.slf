@@ -1,0 +1,31 @@
+[Lattice]
+11
+3
+[Objects]
+Dropbox
+Ebay
+Facebook
+Facebook messenger
+Gmail
+Instagram
+Google
+LizLisa
+Notes
+Tumblr
+YouTube
+[Attributes]
+Network 3G
+Evening
+Smartphone GalaxyS3
+[relation]
+0 0 1 
+0 0 1 
+0 0 1 
+0 1 1 
+1 0 1 
+0 0 1 
+1 0 1 
+0 0 1 
+0 0 1 
+0 0 1 
+0 0 1 

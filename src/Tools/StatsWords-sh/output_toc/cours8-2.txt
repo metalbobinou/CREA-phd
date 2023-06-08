@@ -1,0 +1,18 @@
+php 9
+base 4
+html 3
+web 2
+méthode 2
+utiliser 1
+type 1
+site 1
+session 1
+par 1
+mysql 1
+importation 1
+héritage 1
+foreach 1
+communication 1
+coder 1
+client 1
+"web communication" 1

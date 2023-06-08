@@ -1,0 +1,22 @@
+php 27
+html 8
+communication 8
+client 7
+apache 7
+transaction 4
+post 4
+http 4
+session 3
+logs 2
+dns 2
+base 2
+web 1
+version 1
+type 1
+site 1
+mysql 1
+installation 1
+foreach 1
+commander 1
+architecture 1
+"session cookies" 1

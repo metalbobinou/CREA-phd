@@ -1,0 +1,16 @@
+[Lattice]
+4
+2
+[Objects]
+Gmail
+SMS
+Telephone
+VDM
+[Attributes]
+University
+Network 3G
+[relation]
+1 1 
+0 1 
+0 1 
+0 1 

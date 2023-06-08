@@ -1,0 +1,54 @@
+[Lattice]
+20
+8
+[Objects]
+Actualites
+AlloCine
+Appareil photo
+Calendrier
+Google
+Facebook
+Flappy Bird
+Freebox Mobile
+Gmail
+Google Play Store
+Instagram
+Mes fichiers
+Meteo
+Notes
+Parametres
+Ratp
+SMS
+SnapChat
+WeChat
+YouTube
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+Morning
+Evening
+Weekend
+Memory 16G
+[relation]
+0 0 1 1 0 0 0 1 
+0 0 0 0 0 0 0 1 
+1 0 0 0 1 0 0 1 
+0 0 0 0 0 1 0 1 
+0 0 1 1 0 0 0 1 
+0 0 1 1 0 0 0 1 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 1 1 
+0 0 1 1 0 0 0 1 
+0 1 1 1 0 0 0 1 
+0 1 1 1 0 0 0 1 
+0 0 0 0 0 0 0 1 
+0 0 1 1 0 0 0 1 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 
+0 1 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 
+1 0 0 1 0 0 0 1 
+0 0 0 0 0 1 0 1 
+0 1 1 0 0 0 0 1 

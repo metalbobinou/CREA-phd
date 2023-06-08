@@ -1,0 +1,12 @@
+[Lattice]
+2
+2
+[Objects]
+Telephone
+YouTube
+[Attributes]
+Home
+Home Wifi
+[relation]
+1 0 
+1 1 

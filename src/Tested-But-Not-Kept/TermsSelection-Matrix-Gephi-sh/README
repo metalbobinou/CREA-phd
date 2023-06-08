@@ -1,0 +1,26 @@
+TermsSelection-Matrix-Gephi-sh
+
+Transforms the matrix description (from "Terms bn:XXXXXn" to N1, N2, ...
+then add the names to a GDF files)
+Requires : references from Extractors-sh
+
+
+Terms Selection :
+
+Highlights terms in order to help users choose the best terms
+
+
+1) RenameDocumentsInArrays.sh
+ - transforms the include_C8.csv names into C8
+
+
+2) TermsHighlighting.sh
+ - transforms multiple matrices (after strategies) into a list of terms and the documents they appear in
+
+
+3) FormalContextToGDF.sh
+ - transforms a matrix/formal context into a GDF file
+
+4) UpdateGDF/List.sh
+ - rewrite the file to change the names (replace the N1, N2, ... into the correct names)
+  (a reference MUST be included : new_lines_PHP-v-matrix.csv)

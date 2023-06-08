@@ -1,0 +1,45 @@
+B
+
+15
+10
+
+ABC Transport
+Alarme
+Bing Spoort
+E-mail
+Facebook
+Google
+Lequipe
+Meteo
+Musique
+Parametres
+Shazam
+SMS
+Telephone
+Twitter
+Windows store
+University
+Home
+Restaurant
+Transportation
+Morning
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+...X....X.
+.......XXX
+...X......
+....XX...X
+...XXX....
+.....X....
+X.........
+......XX.X
+.......X..
+....X.X...
+......X..X
+..X..X....
+...X......
+....X..X.X
+XX........

@@ -1,0 +1,62 @@
+[Lattice]
+21
+14
+[Objects]
+Agenda
+Alarme
+Angry Birds
+Appareil photo
+Calculatrice
+E-mail
+Facebook
+Gestion de taches
+Leboncoin
+Lecteur video
+Maps
+Mise a jour logicielle
+netBeans
+nike
+pap.fr
+pgAdmin III
+Skype
+SMS
+Telephone
+World
+YouTube
+[Attributes]
+University
+Train station
+Cinema
+Home
+Transportation
+Univ Wifi
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+Smartphone Iphone
+[relation]
+0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+0 0 1 0 1 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 1 0 0 0 0 1 0 
+1 0 0 1 0 0 0 1 0 0 0 0 0 0 
+1 0 0 0 0 1 1 1 0 0 1 1 0 0 
+0 1 0 1 1 1 0 1 0 0 1 1 0 0 
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 1 0 0 0 0 1 1 1 0 
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 1 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 1 1 1 1 1 1 0 
+1 0 0 0 0 0 0 1 0 0 1 1 0 0 
+1 1 0 1 0 0 0 0 0 0 1 0 1 0 
+0 1 0 1 1 0 1 1 0 0 0 1 0 0 
+1 0 0 0 0 0 0 1 0 0 1 1 0 0 
+1 0 0 1 0 0 0 0 0 0 0 1 1 0 

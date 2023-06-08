@@ -1,0 +1,44 @@
+B
+
+13
+13
+
+20minute-android
+E-mail
+Facebook
+Flappy Bird
+Google
+Google Play Store
+Mes fichiers
+Musique
+Ratp
+SMS
+SnapChat
+Telephone
+Tinder
+University
+Train station
+Home
+Transportation
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+.........X...
+X..X.X..X....
+X.....X...X.X
+..X......XX.X
+..XX......X..
+......X.X....
+X.......XX...
+........XXXXX
+....X.....XXX
+.....XXXX....
+......X..XXXX
+.X.X........X
+.X.X..X......

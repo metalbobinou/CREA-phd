@@ -1,0 +1,84 @@
+[Lattice]
+32
+14
+[Objects]
+Alarme
+AlloCine
+App Store
+Appareil photo
+Calculatrice
+Calendrier
+Dans ton chat
+Documents
+Eurosport
+Facebook
+Flappy Bird
+Gmail
+Google
+Instagram
+iTranslate
+JeuxVideo.com
+Lecteur video
+Mise a jour logicielle
+Musique
+NBA 2K14
+Notes
+Ratp
+SFR mon compte
+SMS
+SnapChat
+SNCF Direct
+So Foot
+Telephone
+Transdev IDF
+Tumblr
+Twitter
+YouTube
+[Attributes]
+University
+Train station
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+1 1 0 1 1 1 0 1 1 1 1 1 1 1 
+0 1 1 1 0 1 1 1 1 1 0 1 1 1 
+1 1 0 1 1 1 1 0 1 1 1 0 1 1 
+1 1 0 1 1 1 1 1 1 1 1 0 1 1 
+0 1 0 1 1 1 1 0 1 1 0 1 1 0 
+0 1 0 1 1 1 1 0 1 1 0 1 1 0 
+1 1 0 1 0 0 1 0 1 1 1 1 1 1 
+0 1 0 1 1 1 1 0 1 0 0 0 1 1 
+0 1 0 1 0 0 1 0 1 1 0 0 1 0 
+0 1 0 0 0 0 1 0 1 0 1 0 1 0 
+0 1 0 1 1 1 1 0 1 1 1 0 1 1 
+0 1 0 1 0 0 1 0 1 0 1 0 1 0 
+0 1 0 1 0 0 1 0 0 0 0 0 0 0 
+0 1 0 1 1 0 1 0 1 1 1 0 1 1 
+1 1 0 1 0 0 1 1 1 1 1 0 1 0 
+0 1 0 1 0 0 1 0 1 1 1 1 1 1 
+1 1 0 1 1 1 1 1 1 1 1 0 1 0 
+1 1 0 1 0 1 1 1 1 1 0 1 1 0 
+1 1 0 0 1 1 1 0 1 1 0 0 0 0 
+1 1 0 1 1 1 1 1 1 1 1 0 1 0 
+1 1 0 1 1 1 1 1 1 1 1 1 0 0 
+1 1 0 0 1 0 1 0 1 1 0 1 1 1 
+0 1 1 1 1 1 1 1 1 1 0 1 1 1 
+0 0 0 0 1 1 1 0 1 0 0 0 0 0 
+0 1 0 1 0 0 1 0 1 0 0 0 1 0 
+1 1 0 1 1 0 1 0 1 1 1 1 1 1 
+0 1 0 1 1 0 1 0 1 1 1 0 1 1 
+1 1 0 0 1 1 1 0 1 1 0 0 1 0 
+1 1 0 0 1 0 1 0 1 1 0 1 1 1 
+0 1 0 1 0 0 1 0 1 1 0 0 1 0 
+0 1 0 1 0 0 1 0 1 0 0 0 0 0 
+1 1 0 1 0 0 1 1 1 1 1 0 1 1 

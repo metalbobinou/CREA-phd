@@ -1,0 +1,35 @@
+[Lattice]
+10
+9
+[Objects]
+Alarme
+App Store
+Emoji Art
+Musique
+Parametres
+Quran
+Runtastic
+SMS
+Viber
+YouTube
+[Attributes]
+University
+Home
+Network 3G
+Early Morning
+Morning
+Afternoon
+Evening
+Weekend
+Smartphone Iphone
+[relation]
+0 1 0 0 0 0 1 0 1 
+1 0 1 0 1 0 0 0 1 
+0 1 0 0 0 0 1 0 1 
+0 0 0 0 0 0 0 1 0 
+1 0 0 0 0 1 0 0 1 
+0 1 1 1 0 0 0 0 1 
+0 0 0 0 1 0 0 0 1 
+1 0 0 0 0 0 0 0 0 
+0 1 1 0 0 0 1 0 1 
+1 0 1 0 0 1 0 0 1 

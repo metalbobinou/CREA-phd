@@ -1,0 +1,28 @@
+[Lattice]
+8
+6
+[Objects]
+Adobe Reader
+Appareil photo
+Calculatrice
+E-mail
+Flappy Bird
+Need For Speed
+Skype
+SMS
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Afternoon
+Evening
+[relation]
+0 1 0 0 0 0 
+1 1 0 0 0 0 
+1 0 0 0 1 0 
+0 1 0 0 0 0 
+0 0 0 0 1 0 
+0 0 1 0 0 0 
+0 1 0 0 0 0 
+0 0 0 1 0 1 

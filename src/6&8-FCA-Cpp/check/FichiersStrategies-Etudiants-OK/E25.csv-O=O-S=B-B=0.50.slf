@@ -1,0 +1,46 @@
+[Lattice]
+14
+12
+[Objects]
+E-mail
+Facebook
+Flappy Bird
+Google
+Google Play Store
+Mes fichiers
+Musique
+Ratp
+Shazam
+SMS
+SnapChat
+Telephone
+Tinder
+YouTube
+[Attributes]
+University
+Train station
+Home
+Transportation
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+1 0 0 1 1 0 0 1 0 0 0 0 
+0 0 0 0 0 1 0 0 0 1 0 1 
+0 0 1 0 0 0 0 0 1 1 0 1 
+0 0 1 1 0 0 0 0 0 1 0 0 
+0 0 0 0 0 1 0 1 0 0 0 0 
+1 0 0 0 0 0 0 1 1 1 0 0 
+0 0 0 0 0 0 0 1 1 1 1 1 
+0 0 0 0 0 0 0 0 0 1 1 1 
+0 0 0 0 0 0 0 0 0 1 0 1 
+0 0 0 0 1 1 1 1 0 0 0 0 
+0 0 0 0 0 1 0 0 1 1 1 1 
+0 1 0 1 0 0 0 0 1 0 0 1 
+0 1 0 1 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 1 1 

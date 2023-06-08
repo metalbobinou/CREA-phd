@@ -1,0 +1,73 @@
+[Lattice]
+25
+17
+[Objects]
+Angry Birds
+Appareil photo
+Calculatrice
+Calendrier
+Earth
+E-mail
+Facebook
+Gestion de taches
+Gmail
+Google Play Store
+Jeux Android avec connexion
+Jeux Android sans connexion
+Lecteur video
+Maps
+Meteo
+Mise a jour logicielle
+Parametres
+Polaris Office
+Quran
+Samsung Apps
+Skype
+SMS
+Telephone
+World
+YouTube
+[Attributes]
+University
+Train station
+Restaurant
+Home
+Transportation
+Company
+Library
+Home Wifi
+Network 3G
+Public Wifi
+Univ Wifi
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+[relation]
+1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 
+1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 
+1 1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 
+0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 
+1 1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 
+0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 
+1 1 0 1 1 0 0 1 0 1 1 0 0 0 0 0 0 
+1 0 0 1 0 1 1 1 0 1 1 0 0 0 0 0 0 
+1 1 0 1 1 0 1 0 0 0 0 1 1 1 1 1 0 
+1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 
+1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 
+1 1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 
+1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 0 
+1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 
+1 1 0 1 1 0 0 1 0 1 1 0 0 0 0 0 0 
+1 0 0 1 0 0 1 1 0 1 1 0 0 0 0 0 0 
+1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 1 
+1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 
+1 0 0 1 0 1 1 0 0 0 0 1 1 1 1 1 1 
+1 0 0 1 0 1 1 1 1 1 1 0 0 0 0 0 0 

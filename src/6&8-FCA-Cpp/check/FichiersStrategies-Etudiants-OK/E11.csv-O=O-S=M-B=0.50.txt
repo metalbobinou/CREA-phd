@@ -1,0 +1,72 @@
+B
+
+25
+17
+
+Angry Birds
+Appareil photo
+Calculatrice
+Calendrier
+Earth
+E-mail
+Facebook
+Gestion de taches
+Gmail
+Google Play Store
+Jeux Android avec connexion
+Jeux Android sans connexion
+Lecteur video
+Maps
+Meteo
+Mise a jour logicielle
+Parametres
+Polaris Office
+Quran
+Samsung Apps
+Skype
+SMS
+Telephone
+World
+YouTube
+University
+Train station
+Restaurant
+Home
+Transportation
+Company
+Library
+Home Wifi
+Network 3G
+Public Wifi
+Univ Wifi
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+XX.XX............
+XX.X.X...........
+X..XXXX..........
+XX.XXXX....XXXXXX
+.......XXXX......
+.......XXXXXXXXXX
+.......XXXXXXXXXX
+XX.XXXX....XXXXXX
+.......XXXX......
+XX.XX..X.XX......
+X..X.XXX.XX......
+XX.XX.X....XXXXX.
+XX.XX..XXXX......
+.......XXXX......
+.......XXXXXXXXXX
+X..X.XX..........
+XX.XXXX....XXXXXX
+XX.XXXXX.XXXXXXX.
+XX.XX............
+XX.XX..X.XX......
+X..X..XX.XX......
+XXXXXXX....XXXXXX
+XXXXXX.....XXXXXX
+X..X.XX....XXXXXX
+X..X.XXXXXX......

@@ -1,0 +1,29 @@
+[Lattice]
+9
+5
+[Objects]
+9GAG
+Appareil photo
+E-mail
+Gmail
+Google Play Store
+Maps
+Parametres
+SMS
+YouTube
+[Attributes]
+University
+Home
+Network 3G
+Tablet
+Memory 16G
+[relation]
+0 1 0 1 1 
+0 0 1 1 1 
+0 0 0 1 1 
+0 0 0 1 1 
+0 0 0 1 1 
+0 0 0 1 1 
+0 0 0 1 1 
+0 0 0 1 1 
+1 0 0 0 0 

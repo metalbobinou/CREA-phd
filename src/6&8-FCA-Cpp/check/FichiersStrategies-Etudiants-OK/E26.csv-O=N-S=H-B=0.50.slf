@@ -1,0 +1,34 @@
+[Lattice]
+10
+8
+[Objects]
+Agenda
+Alarme
+Appareil photo
+Facebook
+Gestion de taches
+Gmail
+Google
+Mes fichiers
+SMS
+Telephone
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+Evening
+Weekend
+Memory 16G
+Smartphone Samsung
+[relation]
+0 0 0 0 0 0 1 1 
+0 1 0 0 0 0 1 1 
+0 0 0 0 0 0 1 1 
+1 0 0 1 0 1 1 1 
+1 0 0 1 0 0 1 1 
+1 0 0 1 0 1 1 1 
+1 0 1 0 1 0 1 1 
+0 1 1 0 0 0 1 1 
+0 0 0 0 0 1 1 1 
+0 1 1 0 0 0 1 1 

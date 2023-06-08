@@ -1,0 +1,52 @@
+[Lattice]
+19
+8
+[Objects]
+Agenda
+Alarme
+Appareil photo
+Calculatrice
+Drive
+E-mail
+Facebook
+Freebox Mobile
+Gmail
+Google
+Google Play Store
+Maps
+Mes fichiers
+Mise a jour logicielle
+Skype
+Telephone
+Viber
+World
+YouTube
+[Attributes]
+University
+Train station
+Morning
+Coffe break
+Lunch break
+Evening
+Night
+Weekend
+[relation]
+0 0 0 1 1 0 0 0 
+0 0 1 1 0 0 1 1 
+0 0 0 1 0 0 0 0 
+0 0 0 1 0 0 0 0 
+1 0 0 1 0 1 0 1 
+0 0 0 1 0 1 0 1 
+0 0 0 0 0 1 0 1 
+0 0 0 1 0 0 1 1 
+0 0 0 1 0 1 0 0 
+0 1 0 1 0 1 0 1 
+0 0 0 1 0 1 0 1 
+0 0 0 0 0 0 0 1 
+0 0 0 1 0 1 0 1 
+0 0 0 1 0 1 0 1 
+0 0 0 0 0 1 0 0 
+0 0 0 1 0 1 0 1 
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 1 0 0 

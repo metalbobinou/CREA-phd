@@ -1,0 +1,35 @@
+[Lattice]
+10
+9
+[Objects]
+Appareil photo
+Calculatrice
+Calendrier
+Google
+Facebook
+Gmail
+Google Play Store
+Notes
+SMS
+SnapChat
+[Attributes]
+University
+Home
+Home Wifi
+Early Morning
+Morning
+Coffe break
+Afternoon
+Evening
+Memory 16G
+[relation]
+0 0 0 0 0 0 1 0 0 
+1 0 0 0 0 0 0 0 1 
+1 1 0 0 0 0 0 1 1 
+1 0 0 0 0 0 1 0 0 
+1 0 0 0 1 0 0 0 0 
+1 0 0 1 1 1 0 0 0 
+0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 1 0 
+0 1 1 0 0 0 0 1 0 

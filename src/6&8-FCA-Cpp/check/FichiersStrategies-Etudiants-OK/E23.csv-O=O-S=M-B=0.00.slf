@@ -1,0 +1,26 @@
+[Lattice]
+7
+6
+[Objects]
+Calculatrice
+Candy Crush
+Flappy Bird
+Maps
+Meteo
+Parametres
+SMS
+[Attributes]
+University
+Home
+Transportation
+Morning
+Afternoon
+Evening
+[relation]
+1 0 0 1 0 0 
+0 0 0 0 1 0 
+1 0 1 0 0 0 
+0 0 0 0 1 0 
+0 1 0 0 0 0 
+0 0 0 0 1 1 
+1 0 0 0 0 0 

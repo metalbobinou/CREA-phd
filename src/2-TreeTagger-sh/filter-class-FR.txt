@@ -1,0 +1,33 @@
+ABR	0	abreviation (etc, ...)
+ADJ	0	adjectif (petit, grand, ...) ======> "donnee" (BDD)
+ADV	1	adverbe (bien, plus, moins, ...)
+DET:ART	1	article (le, la, un, une, ...)
+DET:POS	1	pronom possessif (ma, ta, son, sa...)
+INT	0	interjection
+KON	1	conjonction (et, ...)
+NAM	0	nom propre (+ unknown)
+NOM	0	nom commun
+NUM	0	numeros
+PRO	1	pronom
+PRO:DEM	1	pronom demonstratif (ce, cette, ...)
+PRO:IND	1	pronom indefini
+PRO:PER	1	pronom personel (je, tu, il, ...)
+PRO:POS	1	pronom possessif (mien, tien, ...)
+PRO:REL	1	pronom relatif (où, qui, que, ...)
+PRP	0	preposition (de, en, pour) ======> a conserver pour "BDD"
+PRP:det	1	preposition plus article (à, au, du, aux, des)
+PUN	0	ponctuation (, ; : ...)
+PUN:cit	0	ponctuation citation
+SENT	0	sentence tag (.)
+SYM	0	symbole (+ - ...)
+VER:cond	0	verbe - conditionel
+VER:futu	0	verbe - futur
+VER:impe	0	verbe - imperatif
+VER:impf	0	verbe - imperfait
+VER:infi	0	verbe - infinitif
+VER:pper	0	verbe - participe passe
+VER:ppre	0	verbe - participe present
+VER:pres	0	verbe - present
+VER:simp	0	verbe - passe simple
+VER:subi	0	verbe - imparfait du subjonctif
+VER:subp	0	verbe - present subjonctif

@@ -1,0 +1,37 @@
+[Lattice]
+13
+5
+[Objects]
+AlloCine
+Appareil photo
+Calculatrice
+E-mail
+Facebook
+Gestion de taches
+Maps
+netBeans
+Skype
+SMS
+Telephone
+World
+YouTube
+[Attributes]
+Home
+Home Wifi
+Univ Wifi
+Evening
+Smartphone Iphone
+[relation]
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 1 0 0 1 
+0 1 0 0 1 
+0 0 0 1 0 
+0 1 0 0 0 
+0 0 0 1 0 
+1 0 0 0 0 
+0 0 0 1 1 
+0 0 1 0 0 
+1 0 0 0 0 
+0 1 0 0 1 

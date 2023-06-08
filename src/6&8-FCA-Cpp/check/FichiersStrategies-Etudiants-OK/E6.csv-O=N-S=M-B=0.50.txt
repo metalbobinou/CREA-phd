@@ -1,0 +1,24 @@
+B
+
+5
+9
+
+SMS
+Telephone
+VDM
+Flappy Bird
+YouTube
+University
+Home
+Transportation
+Network 3G
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+.XX.X.XX.
+.XX....X.
+.X..X....
+XXXXXX.XX
+.X.XX....

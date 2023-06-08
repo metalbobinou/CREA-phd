@@ -1,0 +1,26 @@
+1) 1-Fork-Terms-in-Clusters.sh :
+
+Sépare les termes conservés des termes non conservés dans les clusters.
+
+- List-of-Terms : prendre séance N-1 [ou N-2+N-1, ...]
+- Clusters : prendre séance N et N+...
+
+* [INITIALISATION] Termes-Seance-1 && Clusters-Seance-1 :
+kept_ : termes restants non-utilisés en séance 1
+removed_ : termes présentés dans la séance 1      <= REMOVED*-all à utiliser
+
+* [LOOP] Termes-Seance-1 && Clusters-Seance-2 :
+kept_ : termes conservés parce que la séance 1 ne les a pas consommés
+        (utiles pour la séance 2)                 <= KEPT*-themes à utiliser
+removed_ : termes supprimés parce que la séance 1 les a déjà consommés
+           (inutiles)
+
+
+
+2) 2-Extract-again-Terms-from-Clusters.sh :
+
+Extrait les termes uniques de plusieurs clusters
+
+* [INITIALISATION] Clusters-seance-1.csv
+
+* [LOOP] kept_Clusters-Seance-2_Termes-Seance-1-themes-only.csv

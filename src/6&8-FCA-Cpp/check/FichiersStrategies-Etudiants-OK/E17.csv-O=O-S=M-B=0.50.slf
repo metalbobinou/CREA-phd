@@ -1,0 +1,41 @@
+[Lattice]
+13
+9
+[Objects]
+ABC Transport
+AlloCine
+Appareil photo
+Bing Spoort
+E-mail
+Facebook
+Google
+Meteo
+Musique
+SMS
+SnapChat
+Telephone
+Twitter
+[Attributes]
+University
+Home
+Restaurant
+Network 3G
+Morning
+Afternoon
+Evening
+Weekend
+Smartphone NokiaLumia
+[relation]
+0 0 0 0 1 0 0 0 0 
+1 0 0 1 0 1 0 0 1 
+0 1 0 1 0 0 1 0 1 
+1 0 0 0 0 0 0 0 0 
+1 0 0 0 0 1 1 0 0 
+1 1 0 0 0 1 1 0 0 
+0 0 0 0 0 1 0 0 0 
+1 1 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 1 0 
+1 0 0 0 0 1 0 1 0 
+1 0 0 1 0 1 0 0 1 
+0 0 1 0 0 1 1 1 0 
+1 0 0 0 0 1 0 0 0 

@@ -1,0 +1,62 @@
+[Lattice]
+21
+14
+[Objects]
+Agenda
+Alarme
+Candy Crush
+Dropbox
+Ebay
+Facebook
+Facebook messenger
+Gestion de taches
+Gmail
+Google Play Store
+Instagram
+Google
+LaBanquePostale
+Lecteur video
+LizLisa
+Mise a jour logicielle
+Notes
+PagesJaunes
+Tumblr
+Wordpress
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+Smartphone GalaxyS3
+[relation]
+1 0 0 0 1 0 0 0 0 0 0 0 0 0 
+0 1 0 1 0 1 0 0 0 0 0 0 0 1 
+1 0 0 0 1 0 0 0 0 0 0 0 0 1 
+1 0 0 1 1 0 1 0 0 1 1 0 1 0 
+0 1 1 1 1 1 0 0 0 0 1 0 0 0 
+1 1 0 1 1 0 1 0 0 0 1 0 0 0 
+1 1 1 1 1 0 0 0 0 0 1 0 1 0 
+0 1 0 1 0 0 0 0 0 0 1 0 0 1 
+1 0 1 0 0 1 1 1 1 1 1 0 0 0 
+0 1 0 1 0 0 0 0 1 0 0 0 0 1 
+0 1 0 1 0 0 0 0 0 0 1 0 0 0 
+1 1 1 1 0 1 1 0 0 1 1 1 0 0 
+0 0 1 0 1 1 0 0 0 0 0 0 0 1 
+0 0 1 0 1 0 0 0 0 0 1 0 0 1 
+1 1 0 1 1 0 1 1 0 0 1 0 0 0 
+0 1 0 1 0 0 0 0 0 0 1 0 0 1 
+1 1 0 1 1 0 1 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 0 0 1 0 0 0 1 
+1 0 1 0 1 0 1 0 1 0 1 1 0 0 
+0 1 0 1 0 0 0 0 0 0 0 0 0 1 
+0 1 1 1 1 0 0 0 0 1 0 1 1 0 

@@ -1,0 +1,9 @@
+FilterWordsList :
+
+- Why : Entities which are not linked with the domain of interest should be
+  removed from the list.
+- What : WSD and EL put a disambiguation confidence score on each terms.
+- How : We delete the disambiguation score that are too low (below 0.05).
+
+Usage:
+php main.php file1.csv [file2.csv ...]

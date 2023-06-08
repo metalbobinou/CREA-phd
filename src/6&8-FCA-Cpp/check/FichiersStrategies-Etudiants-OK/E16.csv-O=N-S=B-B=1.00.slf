@@ -1,0 +1,35 @@
+[Lattice]
+12
+5
+[Objects]
+Agenda
+Appareil photo
+Calculatrice
+Freebox Mobile
+Gmail
+Google
+Google Play Store
+Maps
+Skype
+Viber
+World
+YouTube
+[Attributes]
+Coffe break
+Lunch break
+Evening
+Night
+Weekend
+[relation]
+1 1 0 0 0 
+1 0 0 0 0 
+1 0 0 0 0 
+1 0 0 1 1 
+1 0 1 0 0 
+1 0 1 0 1 
+1 0 1 0 1 
+0 0 0 0 1 
+0 0 1 0 0 
+0 0 1 0 0 
+0 0 1 0 0 
+0 0 1 0 0 

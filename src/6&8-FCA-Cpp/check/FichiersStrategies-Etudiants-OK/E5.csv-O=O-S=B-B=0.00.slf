@@ -1,0 +1,36 @@
+[Lattice]
+11
+8
+[Objects]
+Agenda
+Appareil photo
+Calculatrice
+Facebook
+Gmail
+Mes fichiers
+Meteo
+Musique
+Safari
+SMS
+WhatsApp
+[Attributes]
+University
+Restaurant
+Home
+Transportation
+Morning
+Afternoon
+Evening
+Weekend
+[relation]
+1 0 0 1 1 0 1 1 
+0 0 0 0 0 0 1 0 
+0 0 0 0 1 1 0 0 
+0 1 1 1 0 1 0 0 
+0 1 1 1 0 1 0 0 
+1 0 0 1 1 1 0 0 
+1 0 1 0 1 1 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 1 1 1 0 0 
+0 0 1 1 1 0 0 0 
+1 0 1 1 1 1 1 0 

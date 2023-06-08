@@ -1,0 +1,23 @@
+[Lattice]
+6
+5
+[Objects]
+Agenda
+Alarme
+Appareil photo
+Mes fichiers
+SMS
+Telephone
+[Attributes]
+Transportation
+Morning
+Coffe break
+Lunch break
+Evening
+[relation]
+0 1 0 1 1 
+0 0 0 0 1 
+0 0 0 1 0 
+0 0 0 0 1 
+0 1 1 0 0 
+1 1 0 0 0 

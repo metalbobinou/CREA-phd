@@ -1,0 +1,31 @@
+[Lattice]
+7
+11
+[Objects]
+Alarme
+Angry Birds
+E-mail
+Facebook
+Gestion de taches
+Samsung Apps
+Telephone
+[Attributes]
+University
+Train station
+Home
+Transportation
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+[relation]
+0 0 0 0 1 0 0 0 0 1 0 
+0 0 0 0 0 0 1 1 1 0 1 
+1 0 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 
+1 0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 1 1 1 1 1 
+1 0 1 0 0 0 1 1 1 1 1 

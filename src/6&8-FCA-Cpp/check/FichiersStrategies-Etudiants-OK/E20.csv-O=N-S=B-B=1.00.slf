@@ -1,0 +1,20 @@
+[Lattice]
+5
+4
+[Objects]
+Flappy Bird
+Instagram
+Photos
+Telephone
+WhatsApp
+[Attributes]
+Home
+Network 3G
+Coffe break
+Weekend
+[relation]
+0 0 1 0 
+0 1 0 0 
+1 1 0 0 
+0 0 0 1 
+0 0 1 0 

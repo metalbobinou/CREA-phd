@@ -1,0 +1,32 @@
+[Lattice]
+7
+12
+[Objects]
+Alarme
+App Store
+Candy Crush
+Musique
+partage de connexion
+WeChat
+WhatsApp
+[Attributes]
+University
+Home
+Transportation
+Network 3G
+Early Morning
+Coffe break
+Afternoon
+Evening
+Night
+Weekend
+Smartphone Iphone
+Memory 16G
+[relation]
+0 1 0 0 1 0 0 0 0 0 1 1 
+1 0 0 0 0 1 0 0 0 0 1 1 
+1 0 0 0 0 1 0 0 0 0 1 1 
+0 0 1 0 0 0 0 0 0 0 1 1 
+1 0 0 1 0 0 1 0 0 0 1 1 
+0 1 0 0 0 0 0 1 0 0 0 0 
+1 1 1 0 0 0 1 1 1 1 0 0 

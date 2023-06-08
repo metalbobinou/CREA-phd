@@ -1,0 +1,112 @@
+php 46
+type 20
+html 10
+par 9
+base 9
+"php 5" 8
+code 7
+"php 4" 7
+web 6
+utiliser 6
+mysql 6
+date 6
+apache 6
+session 5
+perl 5
+windows 4
+exception 4
+publication 3
+programme 3
+php/fi 3
+méthode 3
+hypertext 3
+client 3
+structure 2
+sql 2
+site 2
+server 2
+rasmus 2
+preprocessor 2
+linux 2
+language 2
+format 2
+entiers 2
+engine 2
+cours 2
+cas 2
+application 2
+"zend engine" 2
+"rasmus lerdorf" 2
+"hypertext preprocessor" 2
+year 1
+xml 1
+vers 1
+vbscript 1
+upload 1
+timestamp 1
+sun 1
+strftime 1
+sites 1
+set 1
+sessions 1
+rpc 1
+rewind 1
+return 1
+post 1
+phpmyadmin 1
+people 1
+parc 1
+nouveau 1
+n'y 1
+myisam 1
+module 1
+markup 1
+localtime 1
+locales 1
+locale 1
+lecture 1
+lamp 1
+jscript 1
+javascript 1
+java 1
+interpreter 1
+innodb 1
+identification 1
+http 1
+home 1
+gutmans 1
+fulltext 1
+ftell 1
+fseek 1
+fscanf 1
+fread 1
+forum 1
+foreach 1
+fin 1
+fgetc 1
+extensible 1
+expression 1
+enum 1
+ellipse 1
+classes 1
+break 1
+bit 1
+autoload 1
+activex 1
+accessibles 1
+"zeev suraski" 1
+"type hinting" 1
+"sun one" 1
+"structured query language" 1
+"session cookies" 1
+"server side" 1
+"query language" 1
+"php : hypertext preprocessor" 1
+"php 3" 1
+"php 1" 1
+"markup language" 1
+"hypertext markup" 1
+"hypertext markup language" 1
+"asp apache" 1
+"andi gutmans" 1
+"active server page" 1

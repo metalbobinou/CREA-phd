@@ -1,0 +1,30 @@
+[Lattice]
+10
+4
+[Objects]
+Agenda
+Calculatrice
+Facebook
+Gmail
+Mes fichiers
+Meteo
+Musique
+Safari
+SMS
+WhatsApp
+[Attributes]
+University
+Transportation
+Network 3G
+Smartphone Iphone
+[relation]
+0 0 1 1 
+1 0 0 1 
+1 0 1 1 
+1 0 1 1 
+0 0 0 1 
+0 0 1 1 
+0 1 0 1 
+0 0 1 1 
+0 0 0 1 
+0 0 1 1 

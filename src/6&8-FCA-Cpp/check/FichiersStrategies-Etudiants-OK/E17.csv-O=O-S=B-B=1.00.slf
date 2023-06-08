@@ -1,0 +1,34 @@
+[Lattice]
+10
+8
+[Objects]
+Alarme
+Bing Spoort
+E-mail
+Google
+Lequipe
+Musique
+Parametres
+Shazam
+Telephone
+Windows store
+[Attributes]
+University
+Home
+Transportation
+Morning
+Lunch break
+Afternoon
+Evening
+Weekend
+[relation]
+0 0 0 0 0 0 0 1 
+0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 1 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 1 0 1 0 0 
+0 0 0 0 0 1 0 1 
+0 0 1 0 0 0 0 0 
+1 1 0 0 0 0 0 0 

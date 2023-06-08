@@ -1,0 +1,46 @@
+[Lattice]
+12
+16
+[Objects]
+Agenda
+Alarme
+Appareil photo
+Drive
+Facebook
+Gestion de taches
+Gmail
+Google
+Maps
+Mes fichiers
+SMS
+Telephone
+[Attributes]
+University
+Restaurant
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+Memory 16G
+Smartphone Samsung
+[relation]
+1 0 1 0 1 1 0 1 0 1 1 1 0 1 1 1 
+0 0 1 0 1 1 1 0 0 0 0 1 0 1 1 1 
+1 0 1 0 1 1 0 0 0 1 1 0 0 1 1 1 
+0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 
+1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 0 1 0 1 0 1 1 1 1 1 
+0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 1 
+1 0 1 0 1 1 0 1 0 1 0 1 0 0 1 1 
+1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 
+1 0 1 1 1 1 0 1 0 0 1 1 0 1 1 1 

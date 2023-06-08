@@ -1,0 +1,14 @@
+CounterDotX :
+
+- Why : Find the most dense matrix (but not too much) after the strategy
+  calculus.
+- What : The 0 and 1 should be well proportionned (neither too few nor too
+  much)
+- How : The generated matrix from the Formal Concept Analysis are read and the
+  0 and 1 are counted in the resulted matrix. A proportion of 0/1 is
+  calculated.
+
+
+1) Put a matrix of X and . in a file (like FILE.txt)
+
+2) Launch: sh CounterDotX.sh FILE.txt

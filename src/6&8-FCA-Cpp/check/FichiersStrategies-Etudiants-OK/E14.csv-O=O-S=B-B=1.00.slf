@@ -1,0 +1,53 @@
+[Lattice]
+19
+9
+[Objects]
+4 images 1 mot
+Alarme
+Appareil photo
+Gmail
+Google Play Store
+Lecteur video
+LINE
+Maps
+Meteo
+Mise a jour logicielle
+Musique
+Parametres
+Shazam
+Telephone
+Translate
+Twitter
+WhatsApp
+Wifi Analyzer
+YouTube
+[Attributes]
+University
+Cinema
+Restaurant
+Street
+Home Wifi
+Morning
+Lunch break
+Afternoon
+Weekend
+[relation]
+1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 
+0 0 0 1 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 
+1 0 0 0 0 0 0 1 1 
+0 0 0 0 1 0 0 0 0 
+0 0 0 0 0 1 1 0 0 
+1 0 0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 0 0 
+1 0 0 0 1 0 0 0 0 
+0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 1 0 
+0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 1 0 

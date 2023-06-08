@@ -1,0 +1,26 @@
+[Lattice]
+6
+8
+[Objects]
+Alarme
+AlloCine
+Appareil photo
+Facebook
+SFR mon compte
+SNCF Direct
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Afternoon
+Evening
+[relation]
+0 1 0 0 1 0 0 0 
+1 0 1 0 0 0 1 0 
+0 1 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+1 0 0 0 0 0 1 0 
+0 1 0 1 0 1 0 0 

@@ -1,0 +1,33 @@
+[Lattice]
+10
+7
+[Objects]
+Alarme
+AlloCine
+Calculatrice
+Gmail
+Notes
+Photoshop
+Skype
+SMS
+Word
+YouTube
+[Attributes]
+University
+Train station
+Home
+Transportation
+Home Wifi
+Early Morning
+Evening
+[relation]
+0 0 0 0 0 1 0 
+0 0 1 0 0 0 0 
+1 0 0 0 0 0 0 
+0 0 1 0 1 0 0 
+0 0 0 1 0 0 0 
+0 0 1 0 0 0 1 
+0 0 1 0 1 0 0 
+0 1 0 0 0 0 0 
+0 0 1 0 0 0 1 
+0 0 0 0 0 0 1 

@@ -1,0 +1,23 @@
+[Lattice]
+4
+9
+[Objects]
+Gmail
+SMS
+Telephone
+VDM
+[Attributes]
+Restaurant
+Parents home
+Home
+Transportation
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+[relation]
+0 0 0 1 1 0 0 1 0 
+1 1 1 0 1 1 1 0 1 
+0 0 0 1 1 0 0 1 1 
+0 0 0 1 0 0 0 0 1 

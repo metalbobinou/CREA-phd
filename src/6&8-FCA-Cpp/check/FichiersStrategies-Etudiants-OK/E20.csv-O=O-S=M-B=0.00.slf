@@ -1,0 +1,27 @@
+[Lattice]
+6
+9
+[Objects]
+Alarme
+BNP PARIBAS
+Calculatrice
+Facebook
+Maps
+Parametres
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Afternoon
+Evening
+Weekend
+[relation]
+0 0 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 0 0 
+1 0 0 0 0 0 1 0 0 
+0 0 0 1 0 0 0 1 0 
+0 0 1 0 1 0 0 0 0 
+0 0 0 0 0 0 0 0 1 

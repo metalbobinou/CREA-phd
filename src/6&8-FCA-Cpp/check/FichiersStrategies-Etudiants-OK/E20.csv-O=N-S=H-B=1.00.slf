@@ -1,0 +1,34 @@
+[Lattice]
+11
+6
+[Objects]
+AlloCine
+Appareil photo
+BBM
+E-mail
+Flappy Bird
+Instagram
+Photos
+SMS
+SnapChat
+Twitter
+WhatsApp
+[Attributes]
+University
+Cinema
+Home
+Morning
+Evening
+Weekend
+[relation]
+0 1 0 0 0 0 
+0 0 0 0 0 1 
+0 0 0 0 1 0 
+0 0 0 0 0 1 
+1 0 0 1 0 0 
+0 0 0 0 1 0 
+1 0 0 0 0 0 
+0 0 0 0 1 1 
+1 0 0 0 0 0 
+0 0 0 0 1 0 
+0 0 1 0 1 0 

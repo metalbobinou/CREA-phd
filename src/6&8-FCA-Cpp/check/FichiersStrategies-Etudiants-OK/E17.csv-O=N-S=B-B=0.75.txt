@@ -1,0 +1,42 @@
+B
+
+13
+11
+
+ABC Transport
+Alarme
+AlloCine
+Bing Spoort
+E-mail
+Facebook
+Google
+Lequipe
+Musique
+Parametres
+SMS
+Telephone
+Windows store
+University
+Home
+Restaurant
+Transportation
+Morning
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+Smartphone NokiaLumia
+...X....X..
+.........X.
+..........X
+...X.......
+....XX...X.
+...XXX.....
+.....X.....
+X..........
+.......X...
+....X.X....
+..X..X.....
+...X.......
+XX.........

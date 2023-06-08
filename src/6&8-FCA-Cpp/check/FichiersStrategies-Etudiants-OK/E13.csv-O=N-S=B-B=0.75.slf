@@ -1,0 +1,42 @@
+[Lattice]
+14
+8
+[Objects]
+Adobe Reader
+Alarme
+Appareil photo
+Astro
+Google
+E-mail
+Flappy Bird
+Instagram
+Maps
+Parametres
+Subway Surfer
+Twitter
+Viber
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Library
+Network 3G
+Morning
+Afternoon
+Weekend
+[relation]
+1 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 1 0 0 1 0 
+0 0 1 1 0 0 0 0 
+0 1 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 
+1 0 1 0 0 0 0 0 
+1 0 0 0 1 0 0 0 
+0 0 0 0 1 0 0 0 
+1 0 0 1 0 0 0 0 

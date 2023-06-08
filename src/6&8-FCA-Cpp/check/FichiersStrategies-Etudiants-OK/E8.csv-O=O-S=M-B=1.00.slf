@@ -1,0 +1,51 @@
+[Lattice]
+17
+11
+[Objects]
+Agenda
+Appareil photo
+Calculatrice
+Calendrier
+Google
+E-mail
+Facebook
+Gmail
+Google Play Store
+Lecteur video
+Mes fichiers
+Mise a jour logicielle
+Notes
+Parametres
+Telephone
+SMS
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Univ Wifi
+Early Morning
+Morning
+Lunch break
+Afternoon
+Evening
+Weekend
+[relation]
+1 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 1 1 1 
+1 0 0 0 0 0 0 0 1 0 0 
+1 0 0 0 0 0 0 0 1 0 0 
+0 1 0 1 0 0 1 0 1 1 0 
+0 1 0 1 0 0 1 1 1 1 0 
+0 1 0 1 0 0 1 1 1 1 0 
+0 0 0 1 1 1 0 1 0 0 0 
+1 0 0 0 1 0 0 0 0 1 0 
+1 1 1 0 0 0 1 1 0 1 0 
+1 0 0 0 0 0 0 0 0 1 0 
+1 0 0 0 1 0 0 0 0 1 0 
+0 1 0 1 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 1 1 1 0 
+1 0 0 0 0 0 0 0 0 1 1 
+0 1 0 0 0 1 1 1 1 1 1 
+1 0 0 0 1 0 0 1 0 0 0 

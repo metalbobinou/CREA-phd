@@ -1,0 +1,47 @@
+* Order of projects :
+- 1 - (C++) FCA-1-StrategyPreProcessing
+- 2 - (Python) ConstructionDesTreillis.py
+- 3 - (C++) FCA-3-LatticeAnalysisMeasures
+
+
+* FCA-1-StrategyPreProcessing
+- Why : Formal Concept Analysis with Lattices works on a binary matrix. We use
+  an occurrences matrix with positive values, not only 0 or 1.
+- What : We must binarize the matrix using multiple strategies based on user
+  requirements.
+- How : Each strategy keeps the words based on their proportions in documents.
+  Low strategy keeps the words which are rare, High strategy keeps the frequent
+  words, and Middle strategy keeps the words which are neither rare nor
+  frequents. A Beta is also use to create two thresholds that distinguish
+  clearly which words are rare, frequent, or neither rare nor frequent.
+
+Input : input-matrix.csv
+
+
+* FCA-3-LatticeAnalysisMeasures
+- Why : Clarify the Lattice by offering multiple views on the data it contains.
+- What : Multiple measures of relatedness are proposed and used based on the
+  Formal Concepts generated. Metrics are built with Conceptual Weight, Mutual
+  Impact, ...
+- How : Common terms, documents, and Concepts are counted within the whole
+  lattice. Also, a list of Concepts and its terms & documents is created.
+
+Input : treillis.xml
+
+
+* FCA Strategy :
+- Strategies calculating average do not take into account columns full of 0
+- NEVER FORGET TO ADD A LINE RETURN AT THE END OF THE LAST LINE
+
+Usage :
+1) Calculate multiple strategies
+./FCA-1-StrategyPreProcessing Matrix.csv
+=> calculates and writes multiple strategies in "FichiersStrategies"
+
+2) Generates XML lattices from TXT files
+python FCA-FormalContext2Lattice/ConstructionDesTreillis
+=> read the "FichiersStrategies" folder and its TXT files in order to generate the XML
+
+3) Calculate multiple metrics about the XML lattice
+./FCA-3-LatticeAnalysis File.xml
+=> Generates in "MesureLattices" the metrics

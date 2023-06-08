@@ -1,0 +1,18 @@
+[Lattice]
+3
+6
+[Objects]
+Musique
+WeChat
+WhatsApp
+[Attributes]
+University
+Transportation
+Morning
+Afternoon
+Night
+Weekend
+[relation]
+0 0 1 1 0 0 
+1 0 1 0 0 0 
+0 1 1 0 1 1 

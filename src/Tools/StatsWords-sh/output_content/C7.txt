@@ -1,0 +1,45 @@
+php 33
+web 28
+session 24
+"session cookies" 13
+html 8
+utiliser 6
+structure 6
+site 4
+france 4
+code 4
+url 3
+true 3
+par 3
+"php variables" 3
+timestamp 2
+post 2
+foreach 2
+client 2
+base 2
+z. 1
+uniques 1
+typer 1
+strlen 1
+sort 1
+script 1
+return 1
+ranger 1
+processor 1
+place 1
+passage 1
+objectif 1
+méthode 1
+method 1
+locales 1
+hypertext 1
+http 1
+header 1
+exit 1
+entiers 1
+default 1
+couple 1
+conception 1
+break 1
+a. 1
+"web client" 1

@@ -1,0 +1,59 @@
+[Lattice]
+24
+5
+[Objects]
+8tracks
+Alarme
+AlloCine
+Boost eclair
+Google
+Eurosport
+Facebook
+Gestion de taches
+Gestionnaire de depenses
+Gmail
+Google Play Store
+HorairesMey
+IMDb
+Instagram
+LCL Mobile
+Maps
+Notes
+PagesJaunes
+Parametres
+SMS
+So Foot
+Spotify
+Telephone
+Twitter
+[Attributes]
+Cinema
+Restaurant
+Transportation
+Public Wifi
+Smartphone Samsung
+[relation]
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 1 1 0 1 
+0 0 0 0 1 
+1 1 0 1 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+1 0 0 1 1 
+0 1 0 1 1 
+1 1 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+0 0 0 0 1 
+1 1 0 1 1 

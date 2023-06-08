@@ -1,0 +1,14 @@
+[Lattice]
+2
+4
+[Objects]
+Appareil photo
+SMS
+[Attributes]
+University
+Train station
+Home
+Transportation
+[relation]
+1 1 0 0 
+1 1 1 1 

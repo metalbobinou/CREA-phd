@@ -1,0 +1,18 @@
+[Lattice]
+2
+8
+[Objects]
+Flappy Bird
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Network 3G
+Morning
+Coffe break
+Afternoon
+Evening
+[relation]
+1 1 1 1 1 1 1 1 
+0 1 0 1 1 0 0 0 

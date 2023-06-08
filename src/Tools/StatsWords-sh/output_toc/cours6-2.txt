@@ -1,0 +1,21 @@
+php 9
+qu 4
+programme 2
+javascript 2
+html 2
+document 2
+été 1
+web 1
+type 1
+session 1
+require 1
+page 1
+leader 1
+guillemet 1
+faq 1
+expression 1
+compiler 1
+base 1
+application 1
+apostrophe 1
+"web programmer" 1

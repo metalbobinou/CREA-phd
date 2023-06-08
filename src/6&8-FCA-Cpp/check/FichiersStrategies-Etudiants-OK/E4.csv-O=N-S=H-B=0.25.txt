@@ -1,0 +1,80 @@
+B
+
+31
+13
+
+8tracks
+Alarme
+AlloCine
+Appareil photo
+AppyGeek
+Boost eclair
+Google
+Eurosport
+Facebook
+Flappy Bird
+Gestion de taches
+Gestionnaire de depenses
+Gmail
+Google Play Store
+HorairesMey
+IMDb
+Instagram
+LCL Mobile
+Maps
+Mes fichiers
+Notes
+PagesJaunes
+Parametres
+Runtastic
+SMS
+SnapChat
+So Foot
+Spotify
+Telephone
+Twitter
+YouTube
+University
+Train station
+Home
+Transportation
+Home Wifi
+Network 3G
+Univ Wifi
+Morning
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+.....X.X..X..
+..X........X.
+..X.X.....X..
+..X.......X..
+X.....XX.....
+..X.X........
+..X.X..X..X..
+X.X.X.X......
+X.X.XXX...X..
+..X.......X..
+..X.......X..
+..X.X.....X..
+..X.X.....X..
+X.....X...X..
+.....X.......
+X.X.X.XX..X..
+X.X.X.XX..X..
+X.....X.X.X..
+...X.X......X
+X............
+X.X..........
+..X.X........
+..X..........
+..X..X....X..
+..X..X.......
+..X.X....XX..
+.X...X.X.....
+..X.XX....X..
+..X..X....X..
+.XX.XX.X.XX..
+..X.X.....X..

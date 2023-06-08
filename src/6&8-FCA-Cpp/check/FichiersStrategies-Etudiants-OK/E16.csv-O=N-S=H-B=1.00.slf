@@ -1,0 +1,33 @@
+[Lattice]
+11
+5
+[Objects]
+Agenda
+Alarme
+Appareil photo
+Calculatrice
+Drive
+Facebook
+Freebox Mobile
+Google
+Google Play Store
+SMS
+Telephone
+[Attributes]
+Restaurant
+Home
+Home Wifi
+Smartphone Sony
+Computer
+[relation]
+0 0 0 1 0 
+0 1 0 1 1 
+0 0 0 1 0 
+0 0 0 0 1 
+0 0 0 0 1 
+0 1 0 0 1 
+0 1 1 0 1 
+0 0 1 0 1 
+1 0 1 0 1 
+0 1 1 1 0 
+0 0 0 1 0 

@@ -1,0 +1,22 @@
+B
+
+5
+7
+
+Gmail
+SMS
+Telephone
+VDM
+Flappy Bird
+Restaurant
+Parents home
+Transportation
+Morning
+Coffe break
+Afternoon
+Evening
+..X....
+XX..X.X
+...X..X
+..X...X
+...XXXX

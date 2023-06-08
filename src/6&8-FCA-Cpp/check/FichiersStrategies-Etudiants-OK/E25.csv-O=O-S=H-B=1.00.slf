@@ -1,0 +1,29 @@
+[Lattice]
+10
+3
+[Objects]
+E-mail
+Facebook
+Flappy Bird
+Google
+Mes fichiers
+Musique
+SMS
+SnapChat
+Telephone
+Tinder
+[Attributes]
+Network 3G
+Smartphone Samsung
+Memory 32G
+[relation]
+1 1 1 
+1 1 1 
+0 1 1 
+1 1 1 
+0 1 1 
+0 1 1 
+0 1 1 
+0 1 1 
+0 1 1 
+1 1 1 

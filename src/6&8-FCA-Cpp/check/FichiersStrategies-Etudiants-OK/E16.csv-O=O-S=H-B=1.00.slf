@@ -1,0 +1,42 @@
+[Lattice]
+13
+10
+[Objects]
+Agenda
+Alarme
+Appareil photo
+Drive
+E-mail
+Facebook
+Freebox Mobile
+Google
+Google Play Store
+Mes fichiers
+SMS
+Telephone
+Viber
+[Attributes]
+University
+Restaurant
+Home
+Home Wifi
+Network 3G
+Coffe break
+Evening
+Night
+Smartphone Sony
+Computer
+[relation]
+0 0 1 0 1 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 
+0 0 1 0 0 0 0 1 0 0 
+1 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 1 
+0 0 1 1 0 0 0 0 0 1 
+0 0 1 1 0 0 0 0 0 1 
+0 1 0 1 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 1 0 
+0 0 1 1 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 1 0 0 1 0 0 0 

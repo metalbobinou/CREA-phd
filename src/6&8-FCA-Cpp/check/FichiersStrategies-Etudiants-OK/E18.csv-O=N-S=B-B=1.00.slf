@@ -1,0 +1,18 @@
+[Lattice]
+4
+4
+[Objects]
+Eurosport
+Google
+LINE
+Sotchi 2014
+[Attributes]
+Early Morning
+Coffe break
+Evening
+Night
+[relation]
+1 0 0 0 
+0 0 0 1 
+0 0 0 1 
+0 1 1 0 

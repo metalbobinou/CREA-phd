@@ -1,0 +1,39 @@
+B
+
+12
+10
+
+Alarme
+AlloCine
+Calculatrice
+Gmail
+Musique
+Notes
+Photoshop
+Skype
+SMS
+Telephone
+Word
+YouTube
+University
+Train station
+Home
+Transportation
+Home Wifi
+Early Morning
+Morning
+Lunch break
+Afternoon
+Evening
+.....X....
+..X.......
+X.........
+..X.X.....
+........X.
+...X......
+..X......X
+..X.X.....
+.X........
+X.....XX..
+..X......X
+.........X

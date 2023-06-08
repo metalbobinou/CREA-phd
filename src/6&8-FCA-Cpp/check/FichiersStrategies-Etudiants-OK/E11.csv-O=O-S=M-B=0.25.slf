@@ -1,0 +1,38 @@
+[Lattice]
+11
+10
+[Objects]
+Appareil photo
+Earth
+Google Play Store
+Jeux Android avec connexion
+Lecteur video
+Mise a jour logicielle
+Quran
+Samsung Apps
+Skype
+World
+YouTube
+[Attributes]
+University
+Train station
+Home
+Transportation
+Company
+Library
+Home Wifi
+Network 3G
+Public Wifi
+Univ Wifi
+[relation]
+1 1 1 0 1 0 0 0 0 0 
+0 0 0 0 0 0 1 1 1 1 
+1 1 1 1 0 0 1 0 1 1 
+0 0 0 0 0 0 1 0 1 1 
+1 1 1 1 0 0 1 1 1 1 
+1 0 1 0 1 1 0 0 0 0 
+1 1 1 1 0 0 0 0 0 0 
+1 1 1 1 0 0 1 0 1 1 
+1 0 1 0 0 1 1 0 1 1 
+1 0 1 0 1 1 0 0 0 0 
+1 0 1 0 1 1 1 1 1 1 

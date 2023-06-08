@@ -1,0 +1,80 @@
+[Lattice]
+30
+14
+[Objects]
+Agenda
+Alarme
+Angry Birds
+Appareil photo
+Calculatrice
+Calendrier
+Earth
+E-mail
+Facebook
+Gestion de taches
+Gmail
+Google
+Google Play Store
+IMDb
+Jeux Android avec connexion
+Jeux Android sans connexion
+Lecteur video
+Maps
+Mes fichiers
+Meteo
+Mise a jour logicielle
+Parametres
+Polaris Office
+Quran
+Samsung Apps
+Skype
+SMS
+Telephone
+World
+YouTube
+[Attributes]
+University
+Train station
+Restaurant
+Home
+Transportation
+Company
+Library
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+[relation]
+1 1 0 1 1 1 1 0 1 1 1 1 1 1 
+0 0 0 0 0 0 0 1 1 0 0 0 0 1 
+1 1 0 1 1 0 0 0 1 1 1 1 1 1 
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 
+1 0 0 1 1 1 1 0 1 1 1 1 1 1 
+1 1 0 1 1 1 1 0 1 1 1 1 1 1 
+1 1 0 1 1 1 0 0 0 0 0 0 0 0 
+1 1 1 1 1 1 1 0 1 1 1 1 1 1 
+1 1 1 1 1 1 1 0 1 1 1 1 1 1 
+1 1 0 1 1 1 1 0 1 1 1 1 1 1 
+1 1 0 1 1 1 1 0 1 1 1 1 1 1 
+1 1 0 1 1 1 1 0 1 1 1 1 1 1 
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 
+1 1 0 1 1 1 1 0 1 1 1 1 1 1 
+1 0 0 1 0 1 1 0 1 1 1 1 1 0 
+1 1 0 1 1 0 1 0 1 1 1 1 1 0 
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 
+1 1 0 1 1 1 1 0 1 1 1 1 1 1 
+1 1 0 1 1 1 1 0 1 1 1 1 1 1 
+1 1 1 1 1 1 1 0 1 1 1 1 1 1 
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 
+1 1 0 1 1 1 1 0 1 1 1 1 1 1 
+1 1 0 1 1 1 1 0 1 1 1 1 1 0 
+0 0 0 0 0 0 0 0 1 1 1 1 1 0 
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 
+1 1 1 1 1 1 1 0 1 1 1 1 1 1 
+1 1 1 1 1 1 0 0 1 1 1 1 1 1 
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 
+0 0 0 0 0 0 0 0 1 1 1 1 1 1 

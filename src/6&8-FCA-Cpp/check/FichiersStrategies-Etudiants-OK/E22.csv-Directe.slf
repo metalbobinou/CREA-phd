@@ -1,0 +1,58 @@
+[Lattice]
+18
+16
+[Objects]
+9GAG
+Alarme
+Appareil photo
+Calculatrice
+E-mail
+Facebook
+Gmail
+Google Play Store
+Instagram
+Lecteur video
+Mes fichiers
+Mise a jour logicielle
+Notes
+Parametres
+SMS
+Telephone
+Tumblr
+YouTube
+[Attributes]
+University
+Restaurant
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+Tablet
+Memory 16G
+[relation]
+1 0 0 0 0 1 0 1 0 0 1 1 0 0 1 1 
+0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 
+1 1 1 0 0 0 0 1 0 0 1 1 0 1 0 1 
+1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+1 0 0 1 0 1 0 1 1 1 1 0 0 1 1 1 
+1 0 1 1 0 1 0 1 0 0 1 1 0 1 0 1 
+0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 
+1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 
+1 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 
+0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 
+0 0 1 0 0 1 0 0 0 0 0 1 0 1 0 1 
+1 0 1 1 0 1 0 1 1 1 1 1 1 1 0 1 
+1 0 1 1 0 1 0 1 0 0 1 1 0 1 0 1 
+1 0 0 1 0 1 0 1 1 1 1 0 0 0 0 1 
+1 0 1 0 1 1 0 1 0 0 1 1 0 0 1 1 

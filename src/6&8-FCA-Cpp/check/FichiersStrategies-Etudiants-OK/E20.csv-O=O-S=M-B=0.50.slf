@@ -1,0 +1,46 @@
+[Lattice]
+15
+10
+[Objects]
+Alarme
+BNP PARIBAS
+Calculatrice
+E-mail
+Facebook
+Flappy Bird
+Instagram
+Maps
+Parametres
+Photos
+SMS
+SnapChat
+Telephone
+Twitter
+WhatsApp
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Afternoon
+Evening
+Weekend
+[relation]
+0 0 0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 0 0 
+1 1 0 1 0 0 0 0 0 0 
+0 0 1 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 1 0 1 1 
+0 0 0 0 0 0 0 0 1 0 
+1 0 0 1 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 1 0 

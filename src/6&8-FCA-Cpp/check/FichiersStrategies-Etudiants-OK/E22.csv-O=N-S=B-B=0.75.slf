@@ -1,0 +1,35 @@
+[Lattice]
+10
+9
+[Objects]
+9GAG
+Appareil photo
+Facebook
+Gmail
+Mes fichiers
+Parametres
+SMS
+Telephone
+Tumblr
+YouTube
+[Attributes]
+Restaurant
+Transportation
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+Tablet
+[relation]
+0 0 0 0 0 0 1 0 1 
+1 0 0 0 0 0 0 1 0 
+0 0 0 1 0 0 0 1 1 
+0 1 0 0 0 0 1 1 0 
+0 0 1 1 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 
+0 0 1 1 1 0 0 0 0 
+0 0 1 0 0 1 0 0 0 
+0 1 0 1 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 

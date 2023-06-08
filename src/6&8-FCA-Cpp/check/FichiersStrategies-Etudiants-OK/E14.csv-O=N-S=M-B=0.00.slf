@@ -1,0 +1,26 @@
+[Lattice]
+6
+8
+[Objects]
+Calculatrice
+Earth
+Google
+Mise a jour logicielle
+Navigation
+WeChat
+[Attributes]
+University
+Home
+Transportation
+Network 3G
+Afternoon
+Evening
+Weekend
+Smartphone Samsung
+[relation]
+1 0 0 0 1 0 0 0 
+1 0 0 1 1 0 0 1 
+1 0 0 0 0 1 1 0 
+0 1 0 1 0 0 0 0 
+0 0 1 1 0 1 0 1 
+1 1 0 0 1 0 0 0 

@@ -1,0 +1,64 @@
+[Lattice]
+23
+12
+[Objects]
+Calculatrice
+Earth
+Facebook
+Flappy Bird
+Gmail
+Google
+Google Play Store
+Instagram
+Lecteur video
+Maps
+Mes fichiers
+Meteo
+Mise a jour logicielle
+Musique
+Navigation
+Parametres
+Photos
+Ratp
+SMS
+SnapChat
+Telephone
+WeChat
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Street
+Network 3G
+Early Morning
+Morning
+Lunch break
+Afternoon
+Evening
+Weekend
+Smartphone Samsung
+[relation]
+1 0 0 0 0 0 0 0 1 0 0 0 
+1 0 0 0 1 0 0 0 1 0 0 1 
+0 0 0 0 0 0 0 0 1 0 0 0 
+1 1 1 0 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 1 1 0 
+0 1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 1 1 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 1 0 1 0 0 
+0 0 0 0 0 1 0 1 0 0 0 0 
+0 1 0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 
+0 0 1 0 1 0 0 0 0 1 0 1 
+0 0 0 0 0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 1 1 1 0 0 0 
+0 1 1 0 0 0 1 0 0 0 0 0 
+0 1 0 0 0 0 0 0 1 0 1 0 
+0 0 0 1 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 1 0 
+1 1 0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 1 0 0 0 0 0 0 0 

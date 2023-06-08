@@ -1,0 +1,11 @@
+php 12
+session 3
+html 2
+"session cookies" 2
+web 1
+type 1
+site 1
+postgress 1
+hypertext 1
+css 1
+"php variables" 1

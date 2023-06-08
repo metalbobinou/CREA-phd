@@ -1,0 +1,48 @@
+[Lattice]
+14
+14
+[Objects]
+Alarme
+Appareil photo
+Candy Crush
+Google
+Facebook
+Flappy Bird
+Gmail
+Google Play Store
+livescore
+Maps
+Navigation
+Parametres
+RunKeeper
+SMS
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+Memory 16G
+Street
+Computer
+[relation]
+0 0 0 0 1 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+1 1 1 0 0 0 1 1 0 1 1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+1 1 1 0 0 0 1 1 0 1 1 0 0 0 
+0 1 0 1 1 0 0 0 0 1 0 1 0 0 
+0 1 0 1 0 0 0 0 0 1 0 1 0 0 
+0 1 0 1 0 0 0 0 0 0 1 1 0 0 
+0 1 0 1 0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 1 0 1 0 
+0 0 0 0 1 0 0 0 1 1 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 1 0 1 0 
+1 1 0 0 1 1 1 1 1 1 1 0 0 0 

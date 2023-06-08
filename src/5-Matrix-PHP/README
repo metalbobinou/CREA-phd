@@ -1,0 +1,32 @@
+Matrix :
+
+- Why : List of disambiguated terms from multiple source documents must be
+  put in a matrix for the Formal Concept Analysis steps. FCA works with matrix.
+- What : We create an occurrences matrix of terms from source documents.
+- How : All the different terms are counted and an array is created with them.
+  Each terms list of documents are read, and a column is added with their
+  occurrences.
+
+Usage :
+php main.php input-directory/*
+(multiple files)
+
+Format of CSV files in "input-directory" :
+Word ; Score 1 ; Score 2 ; Score 3 ; Position ; bn:ID
+
+
+
+Pour lancer (au premier usage) :
+
+php main.php --bn
+
+Pour seulement générer la matrice de sortie (à partir des extractions
+précédentes de babelfy) :
+
+php main.php
+
+
+
+Ou encore pour enregistrer un journal :
+php main.php --bn > logs.log
+php main.php > logs.log

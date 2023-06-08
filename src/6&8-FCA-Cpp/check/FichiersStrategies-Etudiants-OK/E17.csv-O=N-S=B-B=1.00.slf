@@ -1,0 +1,41 @@
+[Lattice]
+12
+11
+[Objects]
+ABC Transport
+Alarme
+AlloCine
+Bing Spoort
+E-mail
+Google
+Lequipe
+Musique
+Parametres
+SMS
+Telephone
+Windows store
+[Attributes]
+University
+Home
+Restaurant
+Transportation
+Morning
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+Smartphone NokiaLumia
+[relation]
+0 0 0 1 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 1 0 1 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 0 

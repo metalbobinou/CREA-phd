@@ -1,0 +1,37 @@
+[Lattice]
+11
+9
+[Objects]
+Agenda
+Appareil photo
+Drive
+E-mail
+Facebook
+Maps
+Mes fichiers
+Skype
+Viber
+World
+YouTube
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+Morning
+Evening
+Weekend
+Smartphone Sony
+Computer
+[relation]
+0 0 0 0 1 0 0 0 1 
+1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 1 1 0 0 
+1 0 0 1 0 0 1 1 0 
+1 1 0 0 0 0 0 0 0 
+0 1 1 0 0 1 0 0 1 
+0 1 0 0 0 0 0 1 0 
+0 1 0 0 0 1 0 0 1 
+0 1 1 0 0 1 0 0 1 

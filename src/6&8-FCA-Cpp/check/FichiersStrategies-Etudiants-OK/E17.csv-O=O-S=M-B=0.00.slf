@@ -1,0 +1,21 @@
+[Lattice]
+4
+7
+[Objects]
+AlloCine
+Appareil photo
+SnapChat
+Telephone
+[Attributes]
+University
+Home
+Restaurant
+Network 3G
+Afternoon
+Evening
+Smartphone NokiaLumia
+[relation]
+1 0 0 1 1 0 1 
+0 1 0 1 0 1 1 
+1 0 0 1 1 0 1 
+0 0 1 0 0 0 0 

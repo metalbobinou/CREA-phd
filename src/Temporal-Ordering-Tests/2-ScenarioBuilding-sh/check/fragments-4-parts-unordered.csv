@@ -1,0 +1,253 @@
+Concept ID;Level;Type Obj/Att/Part;Nb Obj;Nb Att;Nb Part;Objects/Attributes/Parts;
+2;4;Objects;1;5;0;"client bn:00019764n" , bn:00019764n
+2;4;Attributes;1;5;0;C1;C10;C3;C5;C7;
+2;4;Parts;1;5;0
+60;2;Objects;4;2;1;"web bn:00080772n" , bn:00080772n;"javascript bn:00055423n" , bn:00055423n;"apache bn:01932513n" , bn:01932513n;"application bn:00005095n" , bn:00005095n
+60;2;Attributes;4;2;1;C3;C4;
+60;2;Parts;4;2;1;3
+3;4;Objects;1;4;0;"programme bn:00021492n" , bn:00021492n
+3;4;Attributes;1;4;0;C10;C3;C8;C9;
+3;4;Parts;1;4;0
+4;3;Objects;1;3;0;"coder bn:00020358n" , bn:00020358n
+4;3;Attributes;1;3;0;C1;C2;C5;
+4;3;Parts;1;3;0
+8;4;Objects;1;5;0;"javascript bn:00055423n" , bn:00055423n
+8;4;Attributes;1;5;0;C1;C10;C3;C4;C6;
+8;4;Parts;1;5;0
+9;4;Objects;1;4;0;"code bn:00020354n" , bn:00020354n
+9;4;Attributes;1;4;0;C1;C10;C5;C6;
+9;4;Parts;1;4;0
+10;5;Objects;1;5;0;"http bn:00045088n" , bn:00045088n
+10;5;Attributes;1;5;0;C1;C10;C2;C3;C7;
+10;5;Parts;1;5;0
+11;4;Objects;1;4;2;"size bn:00016413n" , bn:00016413n
+11;4;Attributes;1;4;2;C1;C10;C5;C8;
+11;4;Parts;1;4;2;1;3
+12;4;Objects;1;4;0;"entier bn:03340872n" , bn:03340872n
+12;4;Attributes;1;4;0;C1;C3;C7;C8;
+12;4;Parts;1;4;0
+13;5;Objects;1;6;2;"base bn:15449583n" , bn:15449583n
+13;5;Attributes;1;6;2;C10;C2;C4;C5;C7;C9;
+13;5;Parts;1;6;2;0;1
+14;3;Objects;2;3;0;"cours bn:00076429n" , bn:00076429n;"javascript bn:00055423n" , bn:00055423n
+14;3;Attributes;2;3;0;C1;C3;C6;
+14;3;Parts;2;3;0
+15;5;Objects;2;6;4;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n
+15;5;Attributes;2;6;4;C2;C3;C5;C6;C8;C9;
+15;5;Parts;2;6;4;0;1;2;3
+16;3;Objects;2;3;1;"web bn:00080772n" , bn:00080772n;"php bn:01753580n" , bn:01753580n
+16;3;Attributes;2;3;1;C4;C6;C9;
+16;3;Parts;2;3;1;0
+17;4;Objects;2;4;1;"web bn:00080772n" , bn:00080772n;"base bn:15449583n" , bn:15449583n
+17;4;Attributes;2;4;1;C2;C4;C5;C9;
+17;4;Parts;2;4;1;0
+19;4;Objects;2;4;0;"client bn:00019764n" , bn:00019764n;"http bn:00045088n" , bn:00045088n
+19;4;Attributes;2;4;0;C1;C10;C3;C7;
+19;4;Parts;2;4;0
+20;3;Objects;2;3;0;"client bn:00019764n" , bn:00019764n;"base bn:15449583n" , bn:15449583n
+20;3;Attributes;2;3;0;C10;C5;C7;
+20;3;Parts;2;3;0
+21;2;Objects;2;2;2;"programme bn:00021492n" , bn:00021492n;"size bn:00016413n" , bn:00016413n
+21;2;Attributes;2;2;2;C10;C8;
+21;2;Parts;2;2;2;1;3
+84;2;Objects;8;2;1;"client bn:00019764n" , bn:00019764n;"php bn:01753580n" , bn:01753580n;"css bn:01642119n" , bn:01642119n;"javascript bn:00055423n" , bn:00055423n;"sql bn:02266432n" , bn:02266432n;"code bn:00020354n" , bn:00020354n;"http bn:00045088n" , bn:00045088n;"size bn:00016413n" , bn:00016413n
+84;2;Attributes;8;2;1;C1;C10;
+84;2;Parts;8;2;1;3
+22;3;Objects;2;3;2;"html bn:00045087n" , bn:00045087n;"http bn:00045088n" , bn:00045088n
+22;3;Attributes;2;3;2;C2;C3;C7;
+22;3;Parts;2;3;2;0;3
+23;5;Objects;2;5;1;"html bn:00045087n" , bn:00045087n;"site bn:00047172n" , bn:00047172n
+23;5;Attributes;2;5;1;C3;C5;C6;C7;C8;
+23;5;Parts;2;5;1;2
+24;4;Objects;2;4;2;"html bn:00045087n" , bn:00045087n;"base bn:15449583n" , bn:15449583n
+24;4;Attributes;2;4;2;C2;C5;C7;C9;
+24;4;Parts;2;4;2;0;1
+25;3;Objects;2;3;3;"html bn:00045087n" , bn:00045087n;"return bn:03828774n" , bn:03828774n
+25;3;Attributes;2;3;3;C3;C7;C9;
+25;3;Parts;2;3;3;0;1;3
+26;3;Objects;2;3;3;"html bn:00045087n" , bn:00045087n;"méthode bn:17307407n" , bn:17307407n
+26;3;Attributes;2;3;3;C2;C7;C8;
+26;3;Parts;2;3;3;0;1;3
+27;3;Objects;2;3;1;"php bn:01753580n" , bn:01753580n;"css bn:01642119n" , bn:01642119n
+27;3;Attributes;2;3;1;C1;C10;C9;
+27;3;Parts;2;3;1;3
+28;4;Objects;2;4;2;"php bn:01753580n" , bn:01753580n;"javascript bn:00055423n" , bn:00055423n
+28;4;Attributes;2;4;2;C1;C10;C4;C6;
+28;4;Parts;2;4;2;0;3
+1;6;Objects;1;7;4;"web bn:00080772n" , bn:00080772n
+1;6;Attributes;1;7;4;C2;C3;C4;C5;C6;C8;C9;
+1;6;Parts;1;7;4;0;1;2;3
+29;3;Objects;2;3;1;"php bn:01753580n" , bn:01753580n;"base bn:15449583n" , bn:15449583n
+29;3;Attributes;2;3;1;C10;C4;C9;
+29;3;Parts;2;3;1;0
+30;3;Objects;2;3;1;"css bn:01642119n" , bn:01642119n;"http bn:00045088n" , bn:00045088n
+30;3;Attributes;2;3;1;C1;C10;C2;
+30;3;Parts;2;3;1;3
+31;3;Objects;2;3;0;"css bn:01642119n" , bn:01642119n;"base bn:15449583n" , bn:15449583n
+31;3;Attributes;2;3;0;C10;C2;C9;
+31;3;Parts;2;3;0
+32;3;Objects;2;3;0;"document bn:00028018n" , bn:00028018n;"perl bn:01723165n" , bn:01723165n
+32;3;Attributes;2;3;0;C1;C5;C9;
+32;3;Parts;2;3;0
+33;3;Objects;2;3;0;"http bn:00045088n" , bn:00045088n;"base bn:15449583n" , bn:15449583n
+33;3;Attributes;2;3;0;C10;C2;C7;
+33;3;Parts;2;3;0
+34;3;Objects;2;3;2;"size bn:00016413n" , bn:00016413n;"option bn:03088982n" , bn:03088982n
+34;3;Attributes;2;3;2;C1;C5;C8;
+34;3;Parts;2;3;2;1;3
+35;3;Objects;3;3;2;"web bn:00080772n" , bn:00080772n;"programme bn:00021492n" , bn:00021492n;"html bn:00045087n" , bn:00045087n
+35;3;Attributes;3;3;2;C3;C8;C9;
+35;3;Parts;3;3;2;0;3
+36;4;Objects;3;4;1;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"site bn:00047172n" , bn:00047172n
+36;4;Attributes;3;4;1;C3;C5;C6;C8;
+36;4;Parts;3;4;1;2
+37;3;Objects;3;3;1;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"base bn:15449583n" , bn:15449583n
+37;3;Attributes;3;3;1;C2;C5;C9;
+37;3;Parts;3;3;1;0
+38;3;Objects;3;3;0;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"session bn:03751534n" , bn:03751534n
+38;3;Attributes;3;3;0;C2;C3;C6;
+38;3;Parts;3;3;0
+39;2;Objects;3;2;1;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"méthode bn:17307407n" , bn:17307407n
+39;2;Attributes;3;2;1;C2;C8;
+39;2;Parts;3;2;1;0
+40;3;Objects;3;3;1;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"structure bn:00025330n" , bn:00025330n
+40;3;Attributes;3;3;1;C3;C5;C9;
+40;3;Parts;3;3;1;0
+41;3;Objects;3;3;3;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"linux bn:00051427n" , bn:00051427n
+41;3;Attributes;3;3;3;C3;C6;C9;
+41;3;Parts;3;3;3;0;1;2
+42;2;Objects;3;2;1;"web bn:00080772n" , bn:00080772n;"php bn:01753580n" , bn:01753580n;"base bn:15449583n" , bn:15449583n
+42;2;Attributes;3;2;1;C4;C9;
+42;2;Parts;3;2;1;0
+43;3;Objects;3;3;4;"web bn:00080772n" , bn:00080772n;"javascript bn:00055423n" , bn:00055423n;"application bn:00005095n" , bn:00005095n
+43;3;Attributes;3;3;4;C3;C4;C6;
+43;3;Parts;3;3;4;0;1;2;3
+44;3;Objects;3;3;2;"web bn:00080772n" , bn:00080772n;"apache bn:01932513n" , bn:01932513n;"application bn:00005095n" , bn:00005095n
+44;3;Attributes;3;3;2;C3;C4;C5;
+44;3;Parts;3;3;2;2;3
+5;6;Objects;1;7;4;"html bn:00045087n" , bn:00045087n
+5;6;Attributes;1;7;4;C2;C3;C5;C6;C7;C8;C9;
+5;6;Parts;1;7;4;0;1;2;3
+45;3;Objects;3;3;0;"client bn:00019764n" , bn:00019764n;"html bn:00045087n" , bn:00045087n;"site bn:00047172n" , bn:00047172n
+45;3;Attributes;3;3;0;C3;C5;C7;
+45;3;Parts;3;3;0
+46;3;Objects;3;3;0;"client bn:00019764n" , bn:00019764n;"javascript bn:00055423n" , bn:00055423n;"http bn:00045088n" , bn:00045088n
+46;3;Attributes;3;3;0;C1;C10;C3;
+46;3;Parts;3;3;0
+47;3;Objects;3;3;0;"client bn:00019764n" , bn:00019764n;"code bn:00020354n" , bn:00020354n;"size bn:00016413n" , bn:00016413n
+47;3;Attributes;3;3;0;C1;C10;C5;
+47;3;Parts;3;3;0
+48;3;Objects;3;3;0;"client bn:00019764n" , bn:00019764n;"http bn:00045088n" , bn:00045088n;"entier bn:03340872n" , bn:03340872n
+48;3;Attributes;3;3;0;C1;C3;C7;
+48;3;Parts;3;3;0
+49;2;Objects;3;2;0;"coder bn:00020358n" , bn:00020358n;"css bn:01642119n" , bn:01642119n;"http bn:00045088n" , bn:00045088n
+49;2;Attributes;3;2;0;C1;C2;
+49;2;Parts;3;2;0
+50;3;Objects;3;3;3;"html bn:00045087n" , bn:00045087n;"entier bn:03340872n" , bn:03340872n;"site bn:00047172n" , bn:00047172n
+50;3;Attributes;3;3;3;C3;C7;C8;
+50;3;Parts;3;3;3;0;1;3
+51;3;Objects;3;3;2;"php bn:01753580n" , bn:01753580n;"javascript bn:00055423n" , bn:00055423n;"code bn:00020354n" , bn:00020354n
+51;3;Attributes;3;3;2;C1;C10;C6;
+51;3;Parts;3;3;2;0;3
+52;2;Objects;3;2;2;"php bn:01753580n" , bn:01753580n;"javascript bn:00055423n" , bn:00055423n;"base bn:15449583n" , bn:15449583n
+52;2;Attributes;3;2;2;C10;C4;
+52;2;Parts;3;2;2;0;3
+53;2;Objects;3;2;1;"css bn:01642119n" , bn:01642119n;"http bn:00045088n" , bn:00045088n;"base bn:15449583n" , bn:15449583n
+53;2;Attributes;3;2;1;C10;C2;
+53;2;Parts;3;2;1;3
+54;2;Objects;3;2;2;"size bn:00016413n" , bn:00016413n;"option bn:03088982n" , bn:03088982n;"entier bn:03340872n" , bn:03340872n
+54;2;Attributes;3;2;2;C1;C8;
+54;2;Parts;3;2;2;1;3
+55;2;Objects;4;2;2;"cours bn:00076429n" , bn:00076429n;"php bn:01753580n" , bn:01753580n;"javascript bn:00055423n" , bn:00055423n;"code bn:00020354n" , bn:00020354n
+55;2;Attributes;4;2;2;C1;C6;
+55;2;Parts;4;2;2;0;3
+56;2;Objects;4;2;1;"web bn:00080772n" , bn:00080772n;"coder bn:00020358n" , bn:00020358n;"html bn:00045087n" , bn:00045087n;"base bn:15449583n" , bn:15449583n
+56;2;Attributes;4;2;1;C2;C5;
+56;2;Parts;4;2;1;0
+57;2;Objects;4;2;1;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"php bn:01753580n" , bn:01753580n;"linux bn:00051427n" , bn:00051427n
+57;2;Attributes;4;2;1;C6;C9;
+57;2;Parts;4;2;1;0
+58;2;Objects;4;2;0;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"css bn:01642119n" , bn:01642119n;"base bn:15449583n" , bn:15449583n
+58;2;Attributes;4;2;0;C2;C9;
+58;2;Parts;4;2;0
+6;5;Objects;1;5;2;"php bn:01753580n" , bn:01753580n
+6;5;Attributes;1;5;2;C1;C10;C4;C6;C9;
+6;5;Parts;1;5;2;0;3
+59;3;Objects;4;3;1;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"site bn:00047172n" , bn:00047172n;"application bn:00005095n" , bn:00005095n
+59;3;Attributes;4;3;1;C3;C5;C6;
+59;3;Parts;4;3;1;2
+61;2;Objects;4;2;1;"web bn:00080772n" , bn:00080772n;"base bn:15449583n" , bn:15449583n;"apache bn:01932513n" , bn:01932513n;"application bn:00005095n" , bn:00005095n
+61;2;Attributes;4;2;1;C4;C5;
+61;2;Parts;4;2;1;2
+62;2;Objects;4;2;0;"client bn:00019764n" , bn:00019764n;"programme bn:00021492n" , bn:00021492n;"javascript bn:00055423n" , bn:00055423n;"http bn:00045088n" , bn:00045088n
+62;2;Attributes;4;2;0;C10;C3;
+62;2;Parts;4;2;0
+63;2;Objects;4;2;0;"client bn:00019764n" , bn:00019764n;"html bn:00045087n" , bn:00045087n;"site bn:00047172n" , bn:00047172n;"base bn:15449583n" , bn:15449583n
+63;2;Attributes;4;2;0;C5;C7;
+63;2;Parts;4;2;0
+64;2;Objects;4;2;0;"client bn:00019764n" , bn:00019764n;"par bn:03318531n" , bn:03318531n;"http bn:00045088n" , bn:00045088n;"base bn:15449583n" , bn:15449583n
+64;2;Attributes;4;2;0;C10;C7;
+64;2;Parts;4;2;0
+65;2;Objects;4;2;0;"client bn:00019764n" , bn:00019764n;"http bn:00045088n" , bn:00045088n;"objectifs bn:02631373n" , bn:02631373n;"entier bn:03340872n" , bn:03340872n
+65;2;Attributes;4;2;0;C1;C7;
+65;2;Parts;4;2;0
+66;2;Objects;4;2;0;"programme bn:00021492n" , bn:00021492n;"php bn:01753580n" , bn:01753580n;"css bn:01642119n" , bn:01642119n;"base bn:15449583n" , bn:15449583n
+66;2;Attributes;4;2;0;C10;C9;
+66;2;Parts;4;2;0
+67;2;Objects;4;2;2;"html bn:00045087n" , bn:00045087n;"http bn:00045088n" , bn:00045088n;"base bn:15449583n" , bn:15449583n;"méthode bn:17307407n" , bn:17307407n
+67;2;Attributes;4;2;2;C2;C7;
+67;2;Parts;4;2;2;0;3
+68;2;Objects;4;2;3;"html bn:00045087n" , bn:00045087n;"entier bn:03340872n" , bn:03340872n;"site bn:00047172n" , bn:00047172n;"méthode bn:17307407n" , bn:17307407n
+68;2;Attributes;4;2;3;C7;C8;
+68;2;Parts;4;2;3;0;1;3
+69;2;Objects;4;2;2;"html bn:00045087n" , bn:00045087n;"base bn:15449583n" , bn:15449583n;"return bn:03828774n" , bn:03828774n;"hypertext bn:00545957n" , bn:00545957n
+69;2;Attributes;4;2;2;C7;C9;
+69;2;Parts;4;2;2;0;1
+70;2;Objects;4;2;1;"php bn:01753580n" , bn:01753580n;"css bn:01642119n" , bn:01642119n;"document bn:00028018n" , bn:00028018n;"perl bn:01723165n" , bn:01723165n
+70;2;Attributes;4;2;1;C1;C9;
+70;2;Parts;4;2;1;3
+71;2;Objects;5;2;2;"web bn:00080772n" , bn:00080772n;"programme bn:00021492n" , bn:00021492n;"html bn:00045087n" , bn:00045087n;"entier bn:03340872n" , bn:03340872n;"site bn:00047172n" , bn:00047172n
+71;2;Attributes;5;2;2;C3;C8;
+71;2;Parts;5;2;2;0;3
+72;2;Objects;5;2;1;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"code bn:00020354n" , bn:00020354n;"site bn:00047172n" , bn:00047172n;"application bn:00005095n" , bn:00005095n
+72;2;Attributes;5;2;1;C5;C6;
+72;2;Parts;5;2;1;2
+73;2;Objects;5;2;0;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"http bn:00045088n" , bn:00045088n;"session bn:03751534n" , bn:03751534n;"post bn:01500184n" , bn:01500184n
+73;2;Attributes;5;2;0;C2;C3;
+73;2;Parts;5;2;0
+18;4;Objects;2;4;4;"web bn:00080772n" , bn:00080772n;"application bn:00005095n" , bn:00005095n
+18;4;Attributes;2;4;4;C3;C4;C5;C6;
+18;4;Parts;2;4;4;0;1;2;3
+74;2;Objects;5;2;0;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"size bn:00016413n" , bn:00016413n;"option bn:03088982n" , bn:03088982n;"site bn:00047172n" , bn:00047172n
+74;2;Attributes;5;2;0;C5;C8;
+74;2;Parts;5;2;0
+75;2;Objects;5;2;1;"web bn:00080772n" , bn:00080772n;"php bn:01753580n" , bn:01753580n;"javascript bn:00055423n" , bn:00055423n;"version bn:00047114n" , bn:00047114n;"application bn:00005095n" , bn:00005095n
+75;2;Attributes;5;2;1;C4;C6;
+75;2;Parts;5;2;1;0
+76;2;Objects;5;2;2;"client bn:00019764n" , bn:00019764n;"utiliser bn:00079395n" , bn:00079395n;"code bn:00020354n" , bn:00020354n;"size bn:00016413n" , bn:00016413n;"base bn:15449583n" , bn:15449583n
+76;2;Attributes;5;2;2;C10;C5;
+76;2;Parts;5;2;2;2;3
+7;4;Objects;1;4;1;"css bn:01642119n" , bn:01642119n
+7;4;Attributes;1;4;1;C1;C10;C2;C9;
+7;4;Parts;1;4;1;3
+77;2;Objects;6;2;0;"cours bn:00076429n" , bn:00076429n;"client bn:00019764n" , bn:00019764n;"javascript bn:00055423n" , bn:00055423n;"vers bn:00946787n" , bn:00946787n;"http bn:00045088n" , bn:00045088n;"entier bn:03340872n" , bn:03340872n
+77;2;Attributes;6;2;0;C1;C3;
+77;2;Parts;6;2;0
+78;2;Objects;6;2;1;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"document bn:00028018n" , bn:00028018n;"perl bn:01723165n" , bn:01723165n;"base bn:15449583n" , bn:15449583n;"structure bn:00025330n" , bn:00025330n
+78;2;Attributes;6;2;1;C5;C9;
+78;2;Parts;6;2;1;0
+79;2;Objects;7;2;0;"web bn:00080772n" , bn:00080772n;"client bn:00019764n" , bn:00019764n;"html bn:00045087n" , bn:00045087n;"site bn:00047172n" , bn:00047172n;"apache bn:01932513n" , bn:01932513n;"structure bn:00025330n" , bn:00025330n;"application bn:00005095n" , bn:00005095n
+79;2;Attributes;7;2;0;C3;C5;
+79;2;Parts;7;2;0
+80;2;Objects;7;2;0;"web bn:00080772n" , bn:00080772n;"programme bn:00021492n" , bn:00021492n;"html bn:00045087n" , bn:00045087n;"return bn:03828774n" , bn:03828774n;"structure bn:00025330n" , bn:00025330n;"lamp bn:01708928n" , bn:01708928n;"linux bn:00051427n" , bn:00051427n
+80;2;Attributes;7;2;0;C3;C9;
+80;2;Parts;7;2;0
+81;2;Objects;7;2;0;"client bn:00019764n" , bn:00019764n;"coder bn:00020358n" , bn:00020358n;"document bn:00028018n" , bn:00028018n;"perl bn:01723165n" , bn:01723165n;"code bn:00020354n" , bn:00020354n;"size bn:00016413n" , bn:00016413n;"option bn:03088982n" , bn:03088982n
+81;2;Attributes;7;2;0;C1;C5;
+81;2;Parts;7;2;0
+82;2;Objects;7;2;2;"client bn:00019764n" , bn:00019764n;"html bn:00045087n" , bn:00045087n;"http bn:00045088n" , bn:00045088n;"entier bn:03340872n" , bn:03340872n;"site bn:00047172n" , bn:00047172n;"break bn:00047734n" , bn:00047734n;"return bn:03828774n" , bn:03828774n
+82;2;Attributes;7;2;2;C3;C7;
+82;2;Parts;7;2;2;0;3
+83;2;Objects;8;2;0;"cours bn:00076429n" , bn:00076429n;"web bn:00080772n" , bn:00080772n;"html bn:00045087n" , bn:00045087n;"javascript bn:00055423n" , bn:00055423n;"site bn:00047172n" , bn:00047172n;"session bn:03751534n" , bn:03751534n;"application bn:00005095n" , bn:00005095n;"linux bn:00051427n" , bn:00051427n
+83;2;Attributes;8;2;0;C3;C6;
+83;2;Parts;8;2;0

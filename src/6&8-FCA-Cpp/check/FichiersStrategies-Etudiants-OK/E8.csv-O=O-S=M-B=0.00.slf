@@ -1,0 +1,29 @@
+[Lattice]
+7
+9
+[Objects]
+Agenda
+Calculatrice
+Gmail
+Lecteur video
+Mes fichiers
+Notes
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Univ Wifi
+Morning
+Lunch break
+Afternoon
+Evening
+[relation]
+1 0 0 0 0 0 0 1 0 
+1 0 0 0 0 0 0 1 0 
+0 0 0 1 1 0 1 0 0 
+1 1 1 0 0 1 1 0 1 
+1 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 1 
+1 0 0 0 1 0 1 0 0 

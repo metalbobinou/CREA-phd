@@ -1,0 +1,18 @@
+[Lattice]
+2
+8
+[Objects]
+Appareil photo
+YouTube
+[Attributes]
+Transportation
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+[relation]
+0 1 1 1 1 1 1 1 
+1 0 0 0 0 0 0 0 

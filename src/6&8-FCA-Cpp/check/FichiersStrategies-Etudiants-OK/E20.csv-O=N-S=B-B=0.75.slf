@@ -1,0 +1,36 @@
+[Lattice]
+10
+10
+[Objects]
+Appareil photo
+Facebook
+Flappy Bird
+Instagram
+Photos
+SMS
+SnapChat
+Telephone
+Twitter
+WhatsApp
+[Attributes]
+University
+Cinema
+Home
+Transportation
+Network 3G
+Morning
+Coffe break
+Afternoon
+Evening
+Weekend
+[relation]
+1 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 1 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 1 0 1 0 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 
+0 1 0 1 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 1 
+0 0 1 0 1 0 0 0 0 0 
+0 0 0 0 0 1 1 0 0 0 

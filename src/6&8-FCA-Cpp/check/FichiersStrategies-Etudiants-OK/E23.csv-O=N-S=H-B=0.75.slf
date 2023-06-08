@@ -1,0 +1,59 @@
+[Lattice]
+23
+7
+[Objects]
+Calculatrice
+Candy Crush
+E-mail
+Facebook
+Firefox
+Flappy Bird
+Flipboard
+Gestion de taches
+Gmail
+Google Now
+Google Play Store
+HFR4droid
+JeuxVideo.com
+Maps
+Meteo
+News Republic
+Parametres
+Safari
+Shazam
+SMS
+Telephone
+WeChat
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Smartphone Samsung
+Tablet
+[relation]
+1 0 0 0 0 0 0 
+0 0 1 0 1 1 0 
+0 1 0 1 0 1 0 
+0 1 0 1 0 1 0 
+0 1 0 1 0 1 0 
+0 1 0 0 0 1 0 
+0 1 0 1 0 1 0 
+1 1 1 0 0 1 0 
+0 1 0 1 0 1 0 
+0 1 0 1 0 1 0 
+1 1 0 0 0 1 0 
+0 1 0 1 0 1 0 
+0 1 0 1 0 1 0 
+0 1 0 1 0 1 0 
+0 1 0 0 0 1 0 
+0 1 0 1 0 1 0 
+1 0 0 0 0 0 1 
+0 1 0 0 0 0 1 
+0 1 0 1 0 1 0 
+0 1 0 0 0 1 0 
+0 1 0 0 0 1 0 
+0 1 0 1 0 1 0 
+0 1 0 1 0 1 0 

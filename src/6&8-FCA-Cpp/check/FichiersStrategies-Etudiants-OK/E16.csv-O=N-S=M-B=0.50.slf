@@ -1,0 +1,32 @@
+[Lattice]
+9
+8
+[Objects]
+Agenda
+Appareil photo
+Calculatrice
+Drive
+Freebox Mobile
+Google
+Google Play Store
+SMS
+Telephone
+[Attributes]
+University
+Train station
+Home
+Network 3G
+Morning
+Night
+Smartphone Sony
+Computer
+[relation]
+0 0 0 0 1 0 0 0 
+1 0 1 0 0 0 0 1 
+1 0 0 0 0 0 1 0 
+0 0 0 0 0 1 1 0 
+1 0 0 1 0 0 1 0 
+1 0 0 1 0 0 1 0 
+1 0 0 1 0 0 1 0 
+1 0 0 1 0 0 0 0 
+1 1 0 0 0 0 0 0 

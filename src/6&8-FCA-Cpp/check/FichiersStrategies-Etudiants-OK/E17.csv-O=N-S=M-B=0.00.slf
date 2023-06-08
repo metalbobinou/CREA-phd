@@ -1,0 +1,23 @@
+[Lattice]
+5
+7
+[Objects]
+Appareil photo
+E-mail
+Shazam
+SnapChat
+YouTube
+[Attributes]
+University
+Home
+Network 3G
+Afternoon
+Evening
+Weekend
+Smartphone NokiaLumia
+[relation]
+0 1 1 0 1 0 1 
+0 0 0 1 0 0 0 
+0 1 1 1 0 1 1 
+1 0 1 1 0 0 1 
+0 0 1 0 1 1 0 

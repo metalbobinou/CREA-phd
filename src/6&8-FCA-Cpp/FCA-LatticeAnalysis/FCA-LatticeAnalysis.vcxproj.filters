@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FlatFileParseXML.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="FCAAttribute.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="FCAConcept.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="FCALattice.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="FCALatticeComponent.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="FCALatticeStatistics.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="FCAObject.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="main.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="MyDebug.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="ParseXML.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="Printers.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="TreeParseXML.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="XMLLatticeATTSReading.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="XMLLatticeLATReading.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="XMLLatticeNODSReading.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="XMLLatticeOBJSReading.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="XMLLatticeReading.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="Args.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="MyAnsi.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="ProcessingFiles.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="Dirs.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+    <None Include="Files.hh">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FlatFileParseXML.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FCAAttribute.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FCAConcept.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FCALattice.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FCALatticeComponent.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FCALatticeStatistics.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FCAObject.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MyDebug.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ParseXML.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Printers.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeParseXML.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="XMLLatticeATTSReading.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="XMLLatticeLATReading.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="XMLLatticeNODSReading.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="XMLLatticeOBJSReading.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="XMLLatticeReading.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Args.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MyAnsi.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcessingFiles.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Dirs.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Files.cc">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

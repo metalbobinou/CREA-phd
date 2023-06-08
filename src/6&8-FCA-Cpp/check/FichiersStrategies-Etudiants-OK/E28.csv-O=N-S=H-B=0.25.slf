@@ -1,0 +1,41 @@
+[Lattice]
+13
+9
+[Objects]
+Alarme
+Angry Birds
+Drive
+E-mail
+Facebook
+Gestion de taches
+Gmail
+Google
+Google Play Store
+Mise a jour logicielle
+Radio
+SMS
+Telephone
+[Attributes]
+University
+Train station
+Home
+Transportation
+Home Wifi
+Network 3G
+Morning
+Lunch break
+Afternoon
+[relation]
+0 0 0 0 1 0 0 0 0 
+0 1 0 0 0 1 0 0 0 
+0 0 0 1 0 1 0 0 0 
+0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 1 0 0 0 
+1 0 0 0 0 0 0 0 0 
+1 0 0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 0 0 
+1 0 0 0 0 1 0 1 0 
+0 0 0 0 0 0 1 0 0 
+0 0 0 1 0 0 0 0 0 
+1 0 1 0 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 

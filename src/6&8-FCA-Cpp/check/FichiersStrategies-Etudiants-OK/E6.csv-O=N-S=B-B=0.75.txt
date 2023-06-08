@@ -1,0 +1,19 @@
+B
+
+4
+6
+
+Gmail
+SMS
+Telephone
+VDM
+Restaurant
+Parents home
+Transportation
+Morning
+Afternoon
+Evening
+..XXX.
+XX...X
+...X.X
+..X..X

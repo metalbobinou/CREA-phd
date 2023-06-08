@@ -1,0 +1,48 @@
+[Lattice]
+15
+12
+[Objects]
+Appareil photo
+Google
+Drive
+Facebook
+Flipboard
+Gmail
+Google Play Store
+Instagram
+Jelly Splash
+Keep
+NBA GM
+Parametres
+SMS
+SnapChat
+WeChat
+[Attributes]
+University
+Restaurant
+Home
+Transportation
+Home Wifi
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+0 0 0 0 0 0 0 0 1 0 0 1 
+0 0 0 1 0 0 0 0 0 0 0 0 
+0 0 1 1 1 0 0 0 0 1 0 0 
+0 0 0 0 0 1 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 1 0 0 1 
+0 0 1 1 0 1 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 0 1 1 0 
+0 1 0 0 0 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 0 1 1 0 0 1 
+0 0 0 0 0 0 0 0 1 0 0 1 
+0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 1 1 0 0 0 
+1 0 0 0 0 0 0 1 0 0 1 1 

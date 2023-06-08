@@ -1,0 +1,37 @@
+[Lattice]
+11
+9
+[Objects]
+Agenda
+Calculatrice
+Eurosport
+Facebook
+Flappy Bird
+Gmail
+Google
+LINE
+Puzzle&Dragons
+Sotchi 2014
+Twitter
+[Attributes]
+University
+Home
+Transportation
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+[relation]
+0 1 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 1 0 
+0 1 0 1 1 1 0 1 0 
+0 0 1 1 1 1 1 0 0 
+1 0 0 0 0 1 0 0 0 
+0 0 0 1 0 1 1 1 0 
+0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 1 
+0 0 1 1 0 0 1 0 0 
+1 0 0 1 1 1 1 1 1 

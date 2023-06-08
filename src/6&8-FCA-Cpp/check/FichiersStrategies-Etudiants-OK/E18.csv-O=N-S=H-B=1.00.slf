@@ -1,0 +1,26 @@
+[Lattice]
+8
+4
+[Objects]
+Eurosport
+Facebook
+Flappy Bird
+Google
+LINE
+Puzzle&Dragons
+Sotchi 2014
+Twitter
+[Attributes]
+University
+Home
+Coffe break
+Afternoon
+[relation]
+1 0 1 0 
+1 0 0 0 
+1 0 0 0 
+1 1 0 0 
+1 0 0 1 
+0 1 0 0 
+1 0 0 0 
+0 1 0 0 

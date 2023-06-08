@@ -1,0 +1,33 @@
+[Lattice]
+10
+7
+[Objects]
+Adobe Reader
+Appareil photo
+Calculatrice
+E-mail
+Google Play Store
+Need For Speed
+Skype
+SMS
+Twitter
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Afternoon
+Evening
+Weekend
+[relation]
+0 1 0 0 0 0 0 
+1 1 0 0 0 0 0 
+1 0 0 0 1 0 0 
+1 1 0 0 0 0 0 
+0 1 0 0 0 0 0 
+0 0 1 0 0 0 0 
+0 1 0 0 0 0 0 
+0 0 0 1 0 1 0 
+0 1 0 1 0 0 0 
+0 0 0 0 0 1 1 

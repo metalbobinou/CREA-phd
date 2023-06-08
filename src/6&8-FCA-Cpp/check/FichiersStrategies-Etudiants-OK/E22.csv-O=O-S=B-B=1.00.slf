@@ -1,0 +1,27 @@
+[Lattice]
+7
+7
+[Objects]
+9GAG
+Appareil photo
+Facebook
+Mes fichiers
+Parametres
+Tumblr
+YouTube
+[Attributes]
+Restaurant
+Transportation
+Morning
+Coffe break
+Afternoon
+Evening
+Weekend
+[relation]
+0 0 0 0 1 1 0 
+1 0 0 0 0 0 0 
+0 0 0 0 0 0 1 
+0 0 1 1 0 0 0 
+0 0 0 0 0 0 1 
+0 1 0 1 0 0 0 
+0 0 1 0 0 0 0 

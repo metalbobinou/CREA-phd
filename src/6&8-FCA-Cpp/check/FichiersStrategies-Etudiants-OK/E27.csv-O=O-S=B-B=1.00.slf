@@ -1,0 +1,10 @@
+[Lattice]
+1
+2
+[Objects]
+Alarme
+[Attributes]
+Early Morning
+Evening
+[relation]
+1 1 

@@ -1,0 +1,35 @@
+[Lattice]
+12
+5
+[Objects]
+Appareil photo
+Calendrier
+Google
+E-mail
+Facebook
+Gmail
+Google Play Store
+Mise a jour logicielle
+Notes
+Parametres
+Telephone
+SMS
+[Attributes]
+University
+Home
+Home Wifi
+Univ Wifi
+Afternoon
+[relation]
+0 1 0 0 0 
+1 0 0 0 1 
+1 0 0 1 0 
+1 0 0 1 0 
+1 0 0 1 0 
+1 0 0 0 0 
+0 1 1 0 0 
+0 1 1 0 0 
+0 1 1 0 0 
+1 0 0 0 0 
+0 1 0 0 0 
+1 1 0 0 0 

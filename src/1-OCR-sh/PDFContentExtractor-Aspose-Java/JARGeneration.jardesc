@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="PDFContentExtractor-Java/PDFContentExtractor.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/PDFContentExtractor-Java/JARGeneration.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=PDFContentExtractor-Java/src&lt;Main{Main.java[Main" manifestLocation="/PDFContentExtractor-Java/Manifest.mf" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/PDFContentExtractor-Java/JARGeneration.jardesc"/>
+        <javaElement handleIdentifier="=PDFContentExtractor-Java/src"/>
+        <file path="/PDFContentExtractor-Java/.project"/>
+        <file path="/PDFContentExtractor-Java/.classpath"/>
+        <file path="/PDFContentExtractor-Java/Manifest.mf"/>
+    </selectedElements>
+</jardesc>

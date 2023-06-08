@@ -1,0 +1,148 @@
+Create clusters of words, and optionnally the graphical output.
+
+For each "[.csv]", use only Directe, S=B, S=H, or S=M at a time !!!
+ONE FILE AT A TIME ! NOT THE WHOLE !
+
+1 - Calculate dissimilarities/distances from similarity :
+1-convert-similarity-to-dissimilarity.sh		input-data/PHP-no-java/[.csv]
+(eventually the complex version)
+
+2 - Generates clusters (check the parameters below for the specificities of each techniques)
+python3 src/Similar.py						intermediate-data/PHP-no-java/1-SimObj-SIMPLE+NO-BN/[.csv]
+python3 src/MDS+DBSCAN.py					intermediate-data/PHP-no-java/1-SimObj-SIMPLE+NO-BN/[.csv]
+python3 src/MDS+OPTICS.py					intermediate-data/PHP-no-java/1-SimObj-SIMPLE+NO-BN/[.csv]
+python3 src/MDS+K-Means-Dissimiliarities.py	intermediate-data/PHP-no-java/1-SimObj-SIMPLE+NO-BN/[.csv]
+python3 src/CAH-Dendrogramme-distance.py	intermediate-data/PHP-no-java/1-SimObj-SIMPLE+NO-BN/[.csv]
+python3 src/CAH-Dendrogramme-maxclust.py	intermediate-data/PHP-no-java/1-SimObj-SIMPLE+NO-BN/[.csv]
+(eventually the BN version : 2-SimObj-SIMPLE+BN/ )
+
+[[ eventually 3bis-Generate-DB-Clusters-NO-BN.sh instead of 3 and 4]]
+3 - Merge all the clusters together and add a priority criterion (99 = similars in the Similarity Matrix)
+3-DB-add-clusters.sh	DB-Clusters.csv		output-data/PHP-no-java/MDS+DBSCAN-NO-BN/[.csv]
+
+4 - Order by priority (99 = similars)
+4-DB-clean-clusters.sh	output-data/PHP-no-java-no-code/Clusters-DB/NO-BN/DB-clusters-*.csv
+
+
+
+[Requirements] :
+- SimObj : similarité des objets entre eux (matrice d'entrée doit être carrée)
+- ImpMut : Impact Mutuel des objets et carcatéristiques (graphe bi-parti)
+
+SimObj : Si besoin de passer de "matrice de similarité" à "matrice de dissimilarité",
+il y a 2 méthodes.
+[modifier 1-convert-similarity-to-dissimilarity.sh au besoin ]
+- similarity-to-dissimilarity-simple.awk : méthode simple (1 - cellule)
+- similarity-to-dissimilarity-complex.awk : méthode complexe
+Usage :
+awk -F ";" -v OFS=";" -f similarity-to-dissimilarity-complex.awk input.csv > output.csv
+Ou données toutes prêtes :
+intermediata-data/1-SimObj-COMPLEX+NO-BN
+intermediata-data/1-SimObj-SIMPLE+NO-BN
+intermediata-data/4-SimObj-COMPLEX+BN
+intermediata-data/4-SimObj-SIMPLE+BN
+
+
+Similarity :
+- Input : SimObj
+- Output : Clusters-Similar-*.csv
+- Parameters : *none*
+- If similar crashes with a float bug : check if a "bn:id" is not missing his "term"
+- Usage :
+python3 src/Similarity.py SimObj.csv
+
+
+CAH/Dendrogram :
+- Input : SimObj
+- Output : Clusters-CAH-*.csv
+- Parameters : dépend de l'algorithm... on regarde les graphiques, puis on fixe t=
+- Algos dispos :
+  - distance : (manuel : fixer distance max) coupe en clusters à partir de la hauteur max sans
+	liens dans le dendrogramme (depuis la racine)... est équivalent à la distance max entre les
+	clusters. Fixer t= à partir du CAH dessiné.
+  - inconsistent : (semi-manuel : fixer depth et threshold) calcule une matrice d'inconsistance,
+	et crée des clusters selon le résultat par noeud et ses feuilles. La valeur t=inconsistent_threshold
+	est l'écart max toléré dans l'inconsistence d'un noeud face à ses feuilles pour qu'ils soient
+	dans le même cluster. Depth (descente maximale pour les noeuds analysés ? ou pour les feuilles ?).
+	Voir la log en output pour décider.
+  - maxclust : (automatique : t=nb_cluster détecté avec Elbow... maix fixable à la main si on
+	veut une valeur précise) Recherche du coefficient de correlation cophenetique qui permet de
+	déduire la distance minimale cophenetique entre 2 observations d'un même cluster... cela en
+	déduit le nombre de clusters à chercher.
+- Usage :
+python3 stc/CAH-Dendrogramme-distance.py SimObj.csv
+python3 src/CAH-Dendrogramme-inconsistent.py SimObj.csv
+python3 src/CAH-Dendrogramme-maxclust.py SimObj.csv
+
+
+
+MDS + K-Means :
+- Input : SimObj (dissimilarity)
+- Output : Clusters-MDS+K-Means-*.csv + Coeff-Silhouette-MDS+K-Means-*.png + Barycentres-MDS+K-Means-*.png + Liens-Amis-MDS+K-Means-*.png
+- Parameters : automatique
+- 2 versions :
+  - MDS+K-Means-Dissimiliarities.py : génère des graphiques + le CSV des clustes
+  - MDS+K-Means-Dissimiliarities-machine-readable.py : génère le CSV uniquement
+- MDS python prend une matrice de dissimilarité en entrée... 2 algos existent pour
+  transformer une matrice de similarités en matrice de dissimilarités.
+  - intermediate-data/1-SimObj-SIMPLE+NO-BN  &  2-SimObj-SIMPLE+COMMA+NO-BN : (1 - X)
+  - intermediate-data/1-SimObj-COMPLEX+NO-BN  &  2-SimObj-COMPLEX+COMMA+NO-BN : (2 - 2 * ...)
+- K-Means pareil.
+- Usage :
+python3 src/MDS+K-Means-Dissimiliarities.py SimObj-COMPLEX.csv
+python3 src/MDS+K-Means-Dissimiliarities-machine-readable.py SimObj-COMPLEX.csv
+
+
+K-Means :
+- Input : SimObj (dissimilarity)
+- Output : Clusters-K-Means-*.csv + Coeff-Silhouette-K-Means-*.png + Barycentres-K-Means-*.png + Liens-Amis-MDS+K-Means-*.png
+- Parameters : semi-automatique (on doit lui donner le nombre de clusters voulus... mais une métrique peut aider à le déduire)
+- Usage :
+python3 src/K-Means.py SimObj.csv
+
+
+DBSCAN :
+- Input : SimObj (dissimilarity ?)
+- Output : NearestNeighbors-DBSCAN-*.png + Clusters-DBSCAN-*.csv + DBSCAN-*.png
+- Parameters : Fixer EPS (epsilon) en lisant "NearestNeighbors" : choisir le point au niveau de courbature maximum ;
+	Optionnellement, fixer "min_samples" (mais 4 est correct)
+- Usage :
+python3 src/DBSCAN.py SimObj.csv
+
+
+OPTICS :
+- Input : SimObj (dissimilarity ?) => (S=H avec dissimilarite complexe = bons clusters !!!)
+- Output : NearestNeighbors-OPTICS-*.png + Clusters-OPTICS-*.csv + OPTICS-*.png + OPTICS-demo-*.png
+- Parameters : (semi-automatique) au moins "min_samples" : nombre de points voisins minimum pour former
+	considérer le point en cours comme un "core point"... Mais en option : "max_eps" (distance max
+	entre 2 échantillons pour former un cluster), "min_cluster_size" : nombre de points minimum pour
+	former un cluster, "xi" : Determines the minimum steepness on the reachability plot that constitutes
+	a cluster boundary.
+- Usage :
+python3 src/OPTICS.py SimObj.csv
+
+
+
+
+
+Pour XLSTAT :
+- format "excel" impose que les valeurs flottantes soient avec une virgule
+  (et pas au format américain avec des points : 10,5 et pas 10.5 !)
+
+
+
+############################
+
+DB-clusters :
+Gère les clusters et les fusionne en un fichier CSV (comme une DB), et évite les doublons.
+Script awk gère les cas où la 1ère ligne doit être ignoré (si bruit).
+Script sh ajoute chaque fichier...
+Fichier CSV de sortie (équivalent d'une base de données fonctionnellement parlant) :
+Nb Cluster ; Qty Occurrence Clusters ; Terme 1 ; Terme 2
+...
+
+Usage awk (AVOID_FIRST_LINE à 1 => on saute la pmeière ligne) :
+awk -F ";" -v OFS=";" -v AVOID_FIRST_LINE="1" -f DB-add-clusters.awk DB.csv clusters1.csv
+
+Usage script sh :
+sh DB-add-clusters.sh DB.csv clusters1.csv clusters2.csv clusters3.csv

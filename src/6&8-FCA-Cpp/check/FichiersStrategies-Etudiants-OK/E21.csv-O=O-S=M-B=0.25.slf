@@ -1,0 +1,51 @@
+[Lattice]
+18
+9
+[Objects]
+Alarme
+AlloCine
+Appareil photo
+Calendrier
+Dans ton chat
+Documents
+Eurosport
+Facebook
+Gmail
+Google
+iTranslate
+Ratp
+SFR mon compte
+SMS
+SnapChat
+SNCF Direct
+Tumblr
+Twitter
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Afternoon
+Evening
+Weekend
+[relation]
+0 1 0 0 1 0 0 0 0 
+1 0 1 0 0 0 1 0 0 
+0 1 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 
+1 0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 1 0 
+1 0 0 1 0 0 0 0 1 
+0 0 0 1 0 0 0 0 0 
+0 1 0 0 0 1 0 0 0 
+1 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 1 0 0 0 
+0 1 0 1 0 1 0 0 0 
+0 0 0 0 0 0 0 0 1 
+0 0 1 0 0 0 0 0 0 

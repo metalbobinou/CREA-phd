@@ -1,0 +1,58 @@
+B
+
+20
+13
+
+Actualites
+AlloCine
+Appareil photo
+Calendrier
+Google
+Facebook
+Flappy Bird
+Freebox Mobile
+Gmail
+Google Play Store
+Instagram
+Mes fichiers
+Meteo
+Notes
+Parametres
+Ratp
+SMS
+SnapChat
+WeChat
+YouTube
+University
+Restaurant
+Home
+Transportation
+Home Wifi
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+.....X.X.....
+X...........X
+.......X....X
+X.X..........
+...........XX
+.X...X.....XX
+...X..XX....X
+..X.X........
+.X......X..XX
+.X...X..X...X
+.X.X.X..X..XX
+............X
+.....X.X.....
+...X..X..X..X
+.........XX.X
+...X.....XX.X
+.X.....XX....
+.X.....XX...X
+...X..X.....X
+............X

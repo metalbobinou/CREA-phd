@@ -1,0 +1,39 @@
+B
+
+11
+12
+
+Appareil photo
+Calendrier
+Google
+Facebook
+Gmail
+Google Play Store
+Mise a jour logicielle
+Notes
+Parametres
+Telephone
+SMS
+University
+Home
+Transportation
+Home Wifi
+Univ Wifi
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+.........X.X
+.X........X.
+......X.X..X
+.X.X....X.X.
+.....X.X....
+X...X...X..X
+......X..X.X
+...........X
+........X...
+X.......X...
+..X..X......

@@ -1,0 +1,52 @@
+[Lattice]
+18
+10
+[Objects]
+AlloCine
+Appareil photo
+Calculatrice
+E-mail
+Facebook
+Gestion de taches
+Leboncoin
+Maps
+Mes fichiers
+Mise a jour logicielle
+netBeans
+nike
+pap.fr
+Skype
+SMS
+Telephone
+World
+YouTube
+[Attributes]
+University
+Home
+Home Wifi
+Univ Wifi
+Early Morning
+Morning
+Afternoon
+Evening
+Weekend
+Smartphone Iphone
+[relation]
+0 0 0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 1 1 
+0 1 1 1 0 0 0 0 0 1 
+0 0 1 1 0 1 1 1 0 1 
+0 0 0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 0 1 
+0 1 1 1 0 0 0 0 0 0 
+1 0 0 0 0 0 0 1 0 0 
+0 0 0 1 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 0 0 1 
+0 1 1 0 0 0 0 0 0 1 
+0 1 1 1 0 0 0 0 0 0 
+0 1 0 0 0 0 0 1 0 1 
+0 0 0 1 1 1 0 1 0 0 
+0 1 0 0 0 0 0 1 0 0 
+0 1 1 0 0 0 0 1 0 1 

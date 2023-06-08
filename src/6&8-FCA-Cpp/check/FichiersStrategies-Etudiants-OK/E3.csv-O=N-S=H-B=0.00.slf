@@ -1,0 +1,42 @@
+[Lattice]
+13
+10
+[Objects]
+Google
+Drive
+Facebook
+Flipboard
+Gmail
+Google Play Store
+Instagram
+Jelly Splash
+Keep
+NBA GM
+SMS
+SnapChat
+WeChat
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Public Wifi
+Lunch break
+Afternoon
+Evening
+Smartphone Samsung
+[relation]
+0 0 0 0 1 0 0 0 0 1 
+1 0 0 0 1 0 1 1 0 0 
+1 0 1 0 1 1 0 0 0 1 
+0 1 1 1 1 0 0 0 0 1 
+1 0 0 0 1 0 1 1 0 1 
+0 1 0 1 0 0 0 0 0 1 
+0 0 0 0 1 0 0 0 1 1 
+0 1 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 1 
+0 1 0 0 1 0 0 0 1 1 
+1 1 0 0 0 0 0 1 0 1 
+1 1 0 1 1 0 0 0 0 1 
+0 0 1 0 1 0 0 0 1 1 

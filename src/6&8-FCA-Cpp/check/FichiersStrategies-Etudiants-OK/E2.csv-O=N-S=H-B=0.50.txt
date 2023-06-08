@@ -1,0 +1,54 @@
+B
+
+20
+9
+
+Actualites
+AlloCine
+Appareil photo
+Google
+Facebook
+Flappy Bird
+Freebox Mobile
+Gmail
+Google Play Store
+Instagram
+Lecteur video
+Mes fichiers
+Meteo
+Notes
+Parametres
+Ratp
+SMS
+SnapChat
+WeChat
+YouTube
+University
+Train station
+Home
+Transportation
+Home Wifi
+Network 3G
+Morning
+Afternoon
+Evening
+..XXXX...
+..X...X..
+X.....X..
+.XXXXXX.X
+..XXXX.XX
+X.X.XX..X
+X....X...
+.XXXXX.XX
+..X.XX..X
+..X.XX.XX
+..X......
+X.XX.....
+..XXXX...
+X.X......
+..XX.....
+..X.XX...
+XXX...XX.
+X....XXX.
+..X.XX..X
+..X.X..XX

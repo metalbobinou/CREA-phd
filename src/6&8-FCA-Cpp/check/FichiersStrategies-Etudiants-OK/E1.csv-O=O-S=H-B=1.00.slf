@@ -1,0 +1,23 @@
+[Lattice]
+6
+5
+[Objects]
+Agenda
+E-mail
+Musique
+SMS
+Telephone
+YouTube
+[Attributes]
+Home
+Transportation
+Home Wifi
+Morning
+Lunch break
+[relation]
+1 0 0 0 0 
+0 0 1 0 0 
+0 0 0 1 0 
+1 1 0 0 0 
+0 0 0 1 1 
+1 0 1 0 0 

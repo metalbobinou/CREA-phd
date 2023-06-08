@@ -1,0 +1,25 @@
+[Lattice]
+7
+5
+[Objects]
+Facebook
+Gmail
+Musique
+Safari
+SMS
+WhatsApp
+YouTube
+[Attributes]
+University
+Restaurant
+Home
+Transportation
+Morning
+[relation]
+0 1 1 1 0 
+0 1 1 1 0 
+0 0 0 0 1 
+0 0 0 1 0 
+0 0 1 0 0 
+0 0 0 1 1 
+1 0 0 0 0 

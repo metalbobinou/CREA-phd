@@ -1,0 +1,77 @@
+[Lattice]
+29
+13
+[Objects]
+4 images 1 mot
+Alarme
+Appareil photo
+Calculatrice
+Earth
+Facebook
+Flappy Bird
+Gmail
+Google
+Google Play Store
+Instagram
+Lecteur video
+LINE
+Maps
+Mes fichiers
+Meteo
+Mise a jour logicielle
+Musique
+Navigation
+Parametres
+Photos
+Ratp
+SMS
+SnapChat
+Telephone
+Translate
+Twitter
+WeChat
+YouTube
+[Attributes]
+University
+Train station
+Home
+Transportation
+Street
+Network 3G
+Early Morning
+Morning
+Lunch break
+Afternoon
+Evening
+Weekend
+Smartphone Samsung
+[relation]
+0 0 1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 1 0 0 0 
+1 0 0 0 0 1 0 0 0 1 0 0 1 
+1 1 0 0 0 0 0 1 0 1 1 1 0 
+1 0 1 1 0 0 0 0 0 1 0 0 0 
+1 0 1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 1 0 1 1 0 
+0 0 1 0 0 0 0 0 0 0 1 0 0 
+1 0 0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 1 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 1 0 0 0 0 1 0 0 
+0 0 0 1 0 0 0 1 1 0 1 0 0 
+0 0 0 0 0 0 1 0 1 0 0 0 0 
+0 0 1 0 0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 1 0 0 
+0 0 0 1 0 1 0 0 0 0 1 0 1 
+0 0 0 0 0 0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 1 1 1 1 1 0 
+0 0 1 1 0 0 0 1 0 0 0 0 0 
+1 0 1 0 0 0 0 1 0 1 0 1 0 
+1 0 0 0 1 0 0 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 0 1 0 1 0 
+0 0 0 0 0 0 0 0 0 1 0 0 0 
+0 0 1 0 0 0 0 0 0 0 1 0 0 
+1 0 1 0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 0 0 0 1 0 0 

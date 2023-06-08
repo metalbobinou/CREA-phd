@@ -1,0 +1,37 @@
+[Lattice]
+12
+7
+[Objects]
+Adobe Reader
+Appareil photo
+Calculatrice
+E-mail
+Flappy Bird
+Maps
+Need For Speed
+Parametres
+Skype
+SMS
+Viber
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Morning
+Afternoon
+Evening
+[relation]
+0 1 0 0 0 0 0 
+1 1 0 0 0 0 0 
+1 0 0 0 0 1 0 
+0 1 0 0 0 0 0 
+0 0 1 0 1 1 0 
+0 0 1 0 0 0 0 
+0 0 1 0 0 0 0 
+1 0 0 0 0 0 0 
+0 1 0 0 0 0 0 
+0 0 0 1 0 0 1 
+0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 

@@ -1,0 +1,19 @@
+[Lattice]
+4
+5
+[Objects]
+Maps
+Notes
+SMS
+Telephone
+[Attributes]
+University
+Home
+Transportation
+Network 3G
+Evening
+[relation]
+0 0 1 1 0 
+1 0 0 1 0 
+1 0 0 0 0 
+0 1 0 0 1 

@@ -1,0 +1,27 @@
+[Lattice]
+8
+5
+[Objects]
+Appareil photo
+Google
+E-mail
+Facebook
+Google Play Store
+Mise a jour logicielle
+Parametres
+SMS
+[Attributes]
+University
+Home
+Home Wifi
+Univ Wifi
+Evening
+[relation]
+0 1 0 0 0 
+1 0 0 1 0 
+1 0 0 1 0 
+1 0 0 1 0 
+0 1 1 0 1 
+0 1 1 0 1 
+1 0 0 0 0 
+1 0 0 0 0 

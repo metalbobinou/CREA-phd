@@ -1,0 +1,27 @@
+[Lattice]
+7
+7
+[Objects]
+Appareil photo
+Candy Crush
+Flappy Bird
+Gmail
+livescore
+Parametres
+SMS
+[Attributes]
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+[relation]
+0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 
+0 0 0 0 0 0 1 
+1 0 0 0 0 1 1 
+0 0 0 0 0 1 1 
+0 0 0 0 1 1 1 
+1 1 1 1 1 1 1 

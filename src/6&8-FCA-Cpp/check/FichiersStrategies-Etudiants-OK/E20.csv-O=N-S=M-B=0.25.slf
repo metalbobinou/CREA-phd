@@ -1,0 +1,34 @@
+[Lattice]
+10
+8
+[Objects]
+Alarme
+BNP PARIBAS
+Calculatrice
+Instagram
+Maps
+Parametres
+SMS
+SnapChat
+Twitter
+WhatsApp
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Afternoon
+Weekend
+[relation]
+0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+1 0 0 0 0 0 1 0 
+1 1 0 1 0 0 0 0 
+0 0 1 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 
+0 1 0 1 0 0 0 1 
+1 0 0 1 0 0 0 0 
+0 0 0 0 1 0 0 0 

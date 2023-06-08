@@ -1,0 +1,5 @@
+	 ;Obj-A ; Obj-B ; Obj-C ; Obj-D
+Obj-A;0;1;1;1
+Obj-B;1;0;1;1
+Obj-C;1;1;0;1
+Obj-D;1;1;1;0

@@ -1,0 +1,24 @@
+[Lattice]
+7
+4
+[Objects]
+Alarme
+Angry Birds
+E-mail
+Facebook
+Gestion de taches
+Samsung Apps
+Telephone
+[Attributes]
+Home
+Network 3G
+Smartphone Iphone
+Memory 16G
+[relation]
+1 1 1 1 
+0 1 1 1 
+0 1 1 1 
+0 1 1 1 
+0 1 0 0 
+0 1 1 1 
+0 1 1 1 

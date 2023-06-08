@@ -1,0 +1,33 @@
+[Lattice]
+9
+9
+[Objects]
+Calculatrice
+Earth
+Google Play Store
+Maps
+Mise a jour logicielle
+Navigation
+Shazam
+WeChat
+Wifi Analyzer
+[Attributes]
+University
+Home
+Transportation
+Street
+Network 3G
+Afternoon
+Evening
+Weekend
+Smartphone Samsung
+[relation]
+1 0 0 0 0 1 0 0 0 
+1 0 0 0 1 1 0 0 1 
+0 0 0 0 0 0 1 0 0 
+0 0 0 1 0 0 1 0 0 
+0 1 0 0 1 0 0 0 0 
+0 0 1 0 1 0 1 0 1 
+0 0 0 0 0 0 1 0 0 
+1 1 0 0 0 1 0 0 0 
+0 0 0 0 0 0 1 1 0 

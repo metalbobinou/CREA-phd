@@ -1,0 +1,26 @@
+[Lattice]
+8
+4
+[Objects]
+Appareil photo
+Facebook
+Gmail
+Mes fichiers
+SMS
+Telephone
+Tumblr
+YouTube
+[Attributes]
+University
+Network 3G
+Tablet
+Memory 16G
+[relation]
+0 0 0 1 
+0 1 1 1 
+0 1 0 1 
+0 1 0 1 
+0 1 0 1 
+0 1 0 1 
+1 1 0 1 
+0 0 1 1 

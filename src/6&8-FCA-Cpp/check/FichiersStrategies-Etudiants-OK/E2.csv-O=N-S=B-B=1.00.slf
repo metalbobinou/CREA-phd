@@ -1,0 +1,42 @@
+[Lattice]
+14
+8
+[Objects]
+Actualites
+Google
+Facebook
+Flappy Bird
+Gmail
+Google Play Store
+Instagram
+Mes fichiers
+Meteo
+Parametres
+SMS
+SnapChat
+WeChat
+YouTube
+[Attributes]
+Restaurant
+Transportation
+Early Morning
+Coffe break
+Lunch break
+Night
+Weekend
+Memory 16G
+[relation]
+0 0 1 1 0 0 0 1 
+0 0 0 0 0 1 1 1 
+1 0 1 0 0 1 0 1 
+0 1 0 0 0 0 0 1 
+1 0 0 0 1 1 1 1 
+1 0 1 0 1 0 0 1 
+1 1 0 0 1 1 0 1 
+0 0 0 0 0 0 1 1 
+0 0 1 1 0 0 0 1 
+0 0 0 0 0 0 0 1 
+1 0 0 1 1 0 0 1 
+1 0 0 0 1 0 1 1 
+0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 1 1 

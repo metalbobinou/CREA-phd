@@ -1,0 +1,28 @@
+[Lattice]
+8
+6
+[Objects]
+Agenda
+AlloCine
+Calculatrice
+Gmail
+Notes
+Photoshop
+Skype
+Word
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Morning
+Evening
+[relation]
+0 0 0 0 1 1 
+0 1 0 0 0 0 
+1 0 0 0 0 0 
+0 1 0 1 0 0 
+0 0 1 0 0 0 
+0 1 0 0 0 1 
+0 1 0 1 0 0 
+0 1 0 0 0 1 

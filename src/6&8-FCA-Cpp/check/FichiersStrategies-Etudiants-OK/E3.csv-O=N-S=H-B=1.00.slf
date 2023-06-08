@@ -1,0 +1,34 @@
+[Lattice]
+12
+4
+[Objects]
+Google
+Drive
+Facebook
+Flipboard
+Gmail
+Instagram
+Jelly Splash
+Keep
+NBA GM
+SMS
+SnapChat
+WeChat
+[Attributes]
+University
+Network 3G
+Evening
+Smartphone Samsung
+[relation]
+0 0 0 1 
+1 1 0 0 
+0 0 0 1 
+0 0 0 1 
+1 0 0 1 
+0 1 0 1 
+0 0 0 1 
+0 0 0 1 
+0 0 0 1 
+0 0 0 1 
+0 1 0 1 
+0 0 1 1 

@@ -1,0 +1,105 @@
+#! /bin/sh
+
+# Detecting OS commands (make/gmake, md5/md5sum, ...)
+OS=`uname`
+
+#  cygwin workout
+CYGWIN_PATTERN=${OS##CYGWIN}
+CYG_OS=${OS%%${CYGWIN_PATTERN}}
+
+SED=sed
+AWK=awk
+GREP=grep
+PYTHON=python3
+
+CAT=cat
+CUT=cut
+FIND=find
+HEAD=head
+JOIN=join
+PASTE=paste
+SORT=sort
+TAIL=tail
+TR=tr
+UNIQ=uniq
+WC=wc
+
+if [ "$OS" = "FreeBSD" ]; then
+	echo "Configure for FreeBSD"
+elif [ "$OS" = "Debian" ]; then
+	echo "Configure for Debian"
+elif [ "$OS" = "Linux" ]; then
+	echo "Configure for Linux (generic)"
+elif [ "$OS" = "Darwin" ]; then
+	echo "Configure for MacOS"
+	SED=gsed
+	AWK=gawk
+elif [ "$CYG_OS" = "CYGWIN" ]; then
+	echo "Configure for Cygwin"
+else
+	echo "Generic configure"
+fi
+
+# Get flags
+DEBUG=false
+if [ $# -eq 0 ]; then
+    DEBUG=false
+else
+    while [ $# -ne 0 ]; do
+	VAL=`echo $1 | tr '[:lower:]' '[:upper:]' | tr -d '\n'`
+        if [ "${VAL}" = "DEBUG" ]; then
+            DEBUG=true
+        fi
+        shift
+    done
+fi
+
+
+# Export useful vars
+echo "SED=${SED}" > Makefile.rules
+echo "AWK=${AWK}" >> Makefile.rules
+echo "GREP=${GREP}" >> Makefile.rules
+echo "PYTHON=${PYTHON}" >> Makefile.rules
+echo "CAT=${CAT}" >> Makefile.rules
+echo "CUT=${CUT}" >> Makefile.rules
+echo "FIND=${FIND}" >> Makefile.rules
+echo "HEAD=${HEAD}" >> Makefile.rules
+echo "JOIN=${JOIN}" >> Makefile.rules
+echo "PASTE=${PASTE}" >> Makefile.rules
+echo "SORT=${SORT}" >> Makefile.rules
+echo "TAIL=${TAIL}" >> Makefile.rules
+echo "TR=${TR}" >> Makefile.rules
+echo "UNIQ=${UNIQ}" >> Makefile.rules
+echo "WC=${WC}" >> Makefile.rules
+
+echo "SED=${SED}" > vars.sh
+echo "AWK=${AWK}" >> vars.sh
+echo "GREP=${GREP}" >> vars.sh
+echo "PYTHON=${PYTHON}" >> vars.sh
+echo "CAT=${CAT}" >> vars.sh
+echo "CUT=${CUT}" >> vars.sh
+echo "FIND=${FIND}" >> vars.sh
+echo "HEAD=${HEAD}" >> vars.sh
+echo "JOIN=${JOIN}" >> vars.sh
+echo "PASTE=${PASTE}" >> vars.sh
+echo "SORT=${SORT}" >> vars.sh
+echo "TAIL=${TAIL}" >> vars.sh
+echo "TR=${TR}" >> vars.sh
+echo "UNIQ=${UNIQ}" >> vars.sh
+echo "WC=${WC}" >> vars.sh
+
+echo "SED=${SED}"
+echo "AWK=${AWK}"
+echo "GREP=${GREP}"
+echo "PYTHON=${PYTHON}"
+echo "CAT=${CAT}"
+echo "CUT=${CUT}"
+echo "FIND=${FIND}"
+echo "HEAD=${HEAD}"
+echo "JOIN=${JOIN}"
+echo "PASTE=${PASTE}"
+echo "SORT=${SORT}"
+echo "TAIL=${TAIL}"
+echo "TR=${TR}"
+echo "UNIQ=${UNIQ}"
+echo "WC=${WC}"

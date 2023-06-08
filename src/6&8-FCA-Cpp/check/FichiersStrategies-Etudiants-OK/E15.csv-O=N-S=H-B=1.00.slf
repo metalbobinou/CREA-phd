@@ -1,0 +1,34 @@
+[Lattice]
+12
+4
+[Objects]
+Agenda
+Banque
+E-mail
+Facebook
+Facebook Messenger
+Google
+Maps
+seriesaddict
+SMS
+SnapChat
+Twitter
+WhatsApp
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+[relation]
+1 0 0 0 
+0 0 0 1 
+1 0 0 1 
+1 0 0 1 
+1 0 0 1 
+1 0 0 1 
+0 0 0 1 
+0 1 1 0 
+1 1 1 1 
+1 1 1 1 
+0 1 1 0 
+1 1 1 1 

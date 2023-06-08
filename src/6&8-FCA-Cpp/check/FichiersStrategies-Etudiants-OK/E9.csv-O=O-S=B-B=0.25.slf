@@ -1,0 +1,38 @@
+[Lattice]
+9
+14
+[Objects]
+9GAG
+Appareil photo
+E-mail
+Gmail
+Google Play Store
+Maps
+Parametres
+SMS
+YouTube
+[Attributes]
+University
+Train station
+Cinema
+Restaurant
+Transportation
+Library
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+1 0 0 0 0 0 1 1 1 1 1 1 1 1 
+0 0 0 0 0 0 1 1 1 1 1 1 1 0 
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 
+0 1 1 0 1 1 1 1 1 1 1 1 1 1 
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 
+0 0 0 0 0 0 1 1 1 1 1 1 1 1 
+0 1 1 1 1 1 1 1 1 1 1 1 1 1 
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 

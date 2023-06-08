@@ -1,0 +1,38 @@
+[Lattice]
+10
+12
+[Objects]
+Eurosport
+Facebook
+Flappy Bird
+Google
+Google Play Store
+LINE
+Puzzle&Dragons
+SMS
+Sotchi 2014
+Twitter
+[Attributes]
+University
+Train station
+Home
+Transportation
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+0 0 0 0 1 0 0 0 1 1 0 0 
+0 0 0 1 0 1 1 0 1 1 0 1 
+0 0 1 1 0 1 1 0 1 1 1 0 
+0 0 0 1 0 0 1 1 0 0 1 1 
+1 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 1 0 0 0 1 0 1 1 0 
+0 0 0 1 0 1 1 1 1 0 1 0 
+0 1 0 0 0 0 0 1 0 0 0 0 
+0 0 0 1 0 1 1 0 1 1 0 0 
+0 0 0 1 1 1 1 1 1 1 1 0 

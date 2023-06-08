@@ -1,0 +1,45 @@
+[Lattice]
+15
+9
+[Objects]
+Actualites
+AlloCine
+Appareil photo
+Facebook
+Freebox Mobile
+Google Play Store
+Instagram
+Mes fichiers
+Meteo
+Notes
+Parametres
+Ratp
+SMS
+SnapChat
+WeChat
+[Attributes]
+University
+Train station
+Home
+Transportation
+Home Wifi
+Network 3G
+Morning
+Afternoon
+Evening
+[relation]
+0 0 1 1 1 1 0 0 0 
+0 0 1 0 0 0 1 0 0 
+1 0 0 0 0 0 1 0 0 
+0 0 1 1 1 1 0 1 1 
+1 0 0 0 0 1 0 0 0 
+0 0 1 0 1 1 0 0 1 
+0 0 1 0 1 1 0 1 1 
+0 0 1 1 0 0 0 0 0 
+0 0 1 1 1 1 0 0 0 
+1 0 1 0 0 0 0 0 0 
+0 0 1 1 0 0 0 0 0 
+0 0 1 0 1 1 0 0 0 
+0 1 1 0 0 0 0 1 0 
+1 0 0 0 0 1 0 1 0 
+0 0 1 0 1 1 0 0 1 

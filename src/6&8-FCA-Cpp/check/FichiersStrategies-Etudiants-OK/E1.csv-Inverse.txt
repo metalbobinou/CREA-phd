@@ -1,0 +1,56 @@
+B
+
+18
+15
+
+Agenda
+Alarme
+AlloCine
+Calculatrice
+Google
+Drive
+E-mail
+Facebook
+Gmail
+Mes fichiers
+Musique
+Notes
+Photoshop
+Skype
+SMS
+Telephone
+Word
+YouTube
+University
+Train station
+Restaurant
+Home
+Transportation
+Home Wifi
+Network 3G
+Univ Wifi
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+.XX.XXXXX.XXX.X
+XXX.X.XX..XXXXX
+XXX.XXXXXXXXXXX
+.XXXXXXXXXXXXXX
+.XX.X.X.XXXXXXX
+.XX.XXXXXXXXXXX
+.XX.X.XXXXXXXXX
+XXX.X..XXXXXXXX
+XXX.X.XXXXXXXXX
+.XX.XXXXXXXXXXX
+X.X..XXXX.X..XX
+XXXX.XXXXXXXXXX
+XXX.XXXXXXXXX.X
+XXX.X.XXXXXXXXX
+..X..XXX.......
+.....XXXX...XX.
+XXX.XXXXXXXXX.X
+XXX.X.XXXXXX...

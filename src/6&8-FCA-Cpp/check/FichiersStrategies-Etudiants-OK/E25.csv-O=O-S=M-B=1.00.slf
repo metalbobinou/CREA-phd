@@ -1,0 +1,64 @@
+[Lattice]
+20
+18
+[Objects]
+20minute-android
+9GAG
+Alarme
+Echec
+E-mail
+Facebook
+Flappy Bird
+Google
+Google Play Store
+Mes fichiers
+Meteo
+Musique
+Ratp
+Shazam
+SMS
+SnapChat
+Sudoku
+Telephone
+Tinder
+YouTube
+[Attributes]
+University
+Train station
+Restaurant
+Street
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+Smartphone Samsung
+Memory 32G
+[relation]
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 
+1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 
+1 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 
+1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 
+1 1 0 0 1 1 0 0 0 1 0 1 1 1 0 1 0 0 
+1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 
+1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 
+1 0 0 0 1 1 0 0 1 0 0 1 1 1 0 0 0 0 
+0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 1 
+0 1 0 0 0 1 0 0 0 1 0 1 1 1 1 1 0 0 
+0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 
+0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 
+1 0 0 0 1 1 0 0 1 1 1 1 1 1 0 1 0 0 
+1 0 0 0 0 1 0 0 0 1 0 0 1 1 0 1 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 
+0 1 0 0 1 1 0 0 0 0 0 0 1 1 0 1 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 

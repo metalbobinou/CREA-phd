@@ -1,0 +1,21 @@
+[Lattice]
+4
+7
+[Objects]
+Alarme
+Lecteur video
+Mise a jour logicielle
+YouTube
+[Attributes]
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+[relation]
+1 1 0 0 0 0 1 
+0 1 1 1 1 1 1 
+0 1 1 1 1 1 1 
+0 1 1 1 1 1 1 

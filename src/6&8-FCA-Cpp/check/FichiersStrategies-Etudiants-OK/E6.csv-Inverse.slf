@@ -1,0 +1,25 @@
+[Lattice]
+5
+9
+[Objects]
+Gmail
+Telephone
+VDM
+Flappy Bird
+YouTube
+[Attributes]
+University
+Restaurant
+Parents home
+Home
+Transportation
+Coffe break
+Lunch break
+Afternoon
+Evening
+[relation]
+0 1 1 1 0 1 1 0 1 
+1 1 1 0 0 1 1 0 0 
+1 1 1 0 0 1 1 1 0 
+0 1 1 0 0 0 1 0 0 
+1 1 1 0 1 1 1 1 1 

@@ -1,0 +1,51 @@
+B
+
+17
+12
+
+Alarme
+AlloCine
+Appareil photo
+BBM
+BNP PARIBAS
+Calculatrice
+E-mail
+Flappy Bird
+Instagram
+Maps
+Parametres
+Photos
+SMS
+SnapChat
+Telephone
+Twitter
+WhatsApp
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+.....X......
+XX.XX.......
+.X..........
+.X.XX.......
+.X..........
+X.......X...
+XXXXXXXXX...
+.X..........
+XX.X........
+..X.X.......
+...........X
+..X...X.....
+XX..X.XXX.X.
+.X.XX.X.XX.X
+.X.......X..
+X..X........
+X...X.......

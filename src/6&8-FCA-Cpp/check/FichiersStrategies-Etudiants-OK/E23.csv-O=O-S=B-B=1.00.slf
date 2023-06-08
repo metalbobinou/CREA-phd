@@ -1,0 +1,47 @@
+[Lattice]
+15
+11
+[Objects]
+Alarme
+Appareil photo
+Firefox
+Google Now
+HFR4droid
+JeuxVideo.com
+Maps
+Meteo
+News Republic
+Parametres
+Skype
+Telephone
+Waze
+WeChat
+YouTube
+[Attributes]
+University
+Transportation
+Network 3G
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Weekend
+Smartphone Samsung
+Tablet
+[relation]
+0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 0 0 0 
+1 0 0 0 1 0 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 1 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 1 1 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 1 0 0 
+1 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 1 0 1 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 1 

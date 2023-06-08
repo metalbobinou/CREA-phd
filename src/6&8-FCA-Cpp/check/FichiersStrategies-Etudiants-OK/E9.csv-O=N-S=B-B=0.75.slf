@@ -1,0 +1,12 @@
+[Lattice]
+2
+2
+[Objects]
+Skype
+YouTube
+[Attributes]
+Transportation
+Home Wifi
+[relation]
+0 1 
+1 0 

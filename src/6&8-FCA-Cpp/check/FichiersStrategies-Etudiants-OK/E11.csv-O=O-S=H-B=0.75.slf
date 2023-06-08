@@ -1,0 +1,75 @@
+[Lattice]
+30
+9
+[Objects]
+Agenda
+Alarme
+Angry Birds
+Appareil photo
+Calculatrice
+Calendrier
+Earth
+E-mail
+Facebook
+Gestion de taches
+Gmail
+Google
+Google Play Store
+IMDb
+Jeux Android avec connexion
+Jeux Android sans connexion
+Lecteur video
+Maps
+Mes fichiers
+Meteo
+Mise a jour logicielle
+Parametres
+Polaris Office
+Quran
+Samsung Apps
+Skype
+SMS
+Telephone
+World
+YouTube
+[Attributes]
+Home
+Company
+Home Wifi
+Network 3G
+Public Wifi
+Univ Wifi
+Smartphone Iphone
+Tablet
+Memory 16G
+[relation]
+0 0 1 1 0 1 1 1 0 
+1 1 0 0 0 0 1 1 0 
+0 0 1 0 0 0 0 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 1 0 1 1 1 1 0 
+0 0 0 0 0 0 0 1 0 
+0 0 1 1 0 1 1 1 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 1 0 0 1 1 1 1 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 1 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 1 0 0 1 0 0 
+0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 1 0 

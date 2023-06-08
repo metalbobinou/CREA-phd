@@ -1,0 +1,10 @@
+Calculate Rand Index from multiple csv files
+
+1) Create the partitions (from input-data to intermediate-data)
+
+./1-Build-Partitions.sh  ref-clusters.csv  clusters-file1.csv ...
+
+
+2) Calculate the Rand Indexes (normal and Ajusted)
+
+./2-Calculate-RandIndex  intermediate-data/clusters1.csv intermediate-data/clusters2.csv ...

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="babelfy-Java/BabelFyFiles.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/babelfy-Java/JARGeneration.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=babelfy-Java/src&lt;Main{Main.java[Main" manifestLocation="/babelfy-Java/Manifest.mf" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/babelfy-Java/JARGeneration.jardesc"/>
+        <javaElement handleIdentifier="=babelfy-Java/src"/>
+        <file path="/babelfy-Java/.project"/>
+        <file path="/babelfy-Java/.classpath"/>
+        <file path="/babelfy-Java/Manifest.mf"/>
+    </selectedElements>
+</jardesc>

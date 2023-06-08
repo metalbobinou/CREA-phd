@@ -1,0 +1,37 @@
+B
+
+12
+8
+
+AlloCine
+Appareil photo
+BBM
+E-mail
+Flappy Bird
+Instagram
+Photos
+SMS
+SnapChat
+Telephone
+Twitter
+WhatsApp
+University
+Cinema
+Home
+Home Wifi
+Network 3G
+Morning
+Evening
+Weekend
+.X.XX...
+..X....X
+..X...X.
+X..XX..X
+X....X..
+...X..X.
+....XX..
+X.X.X.XX
+X..XXXX.
+..X.....
+X..X..X.
+..X.X.X.

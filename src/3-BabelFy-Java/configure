@@ -1,0 +1,133 @@
+#! /bin/sh
+
+# Supported options :
+# DEBUG : add debug flags for gdb
+
+# Logging error : make > make.log 2>&1
+
+# Required function for later
+myrealpath()
+{
+    echo $(cd $(dirname "$1") && pwd -P)/$(basename "$1")
+}
+
+# Detecting OS commands (make/gmake, md5/md5sum, ...)
+OS=`uname`
+
+#  cygwin workout
+CYGWIN_PATTERN=${OS##CYGWIN}
+CYG_OS=${OS%%${CYGWIN_PATTERN}}
+
+
+# Java Compiler declaration
+if [ "$OS" = "FreeBSD" ]; then
+    JC="/usr/local/bin/javac"
+elif [ "$CYG_OS" = "CYGWIN" ]; then
+    JAVAC_FOUND="false"
+    ### !!! Quotes are sensitive here, do not touch them !!! ###
+    CUR_DIR=`pwd`
+    TMP_JAVA="/cygdrive/c/Program Files/Java/"
+    if [ -d "${TMP_JAVA}" ]; then
+	cd "/cygdrive/c/Program Files/Java/"
+	# for DIR in */; do
+	for DIR in jdk*/; do
+	    TMP_JAVA_DIR=${DIR}
+	done
+	cd "${CUR_DIR}"
+	TMP_JAVA_HOME=`realpath -s "${TMP_JAVA}/${TMP_JAVA_DIR}"`
+	TMP_JAVA_HOME=`echo ${TMP_JAVA_HOME} | sed -e "s/ /\\\\\\\ /g"`
+
+	export JAVA_HOME=${TMP_JAVA_HOME}
+	export PATH=${JAVA_HOME}/bin:${PATH}
+	JC=${JAVA_HOME}/bin/javac
+
+	JAVAC_FOUND="true"
+    else
+	echo "!!! NO JAVA COMPILER FOUND !!!"
+	JC=""
+    fi
+else
+    JC="/usr/bin/javac"
+fi
+
+
+# CLASSPATH declaration
+CLASSPATH_LIB=`myrealpath "./libs"`
+CLASSPATH_LIB=`echo ${CLASSPATH_LIB} | sed -e "s/ /\\\\\\\ /g"`
+CLASSPATH_BIN=`myrealpath "./bin"`
+CLASSPATH_BIN=`echo ${CLASSPATH_BIN} | sed -e "s/ /\\\\\\\ /g"`
+if [ "$CYG_OS" = "CYGWIN" ]; then
+    CLASSPATH_SEP=";"
+    CLASSPATH_LIB="../../libs"
+    CLASSPATH_BIN="../../bin"
+else
+    CLASSPATH_SEP=":"
+fi
+
+
+
+# JFLAGS declaration
+JFLAGS='-g -cp "$(CLASSPATH)"'
+# CLASSPATH is defined in the Makefiles
+
+# JAR program declaration
+if [ "$OS" = "FreeBSD" ]; then
+    JAR="/usr/local/bin/jar"
+elif [ "$CYG_OS" = "CYGWIN" ]; then
+    if [ "${JAVAC_FOUND}" = "true" ]; then
+	# Because of the quotes trick
+	JAR=${JAVA_HOME}/bin/jar
+    else
+	JAR=""
+    fi
+else
+    JAR="/usr/bin/jar"
+fi
+
+
+# JARFLAGS declaration
+JARFLAGS=""
+
+
+# Get flags
+DEBUG=false
+if [ $# -eq 0 ]; then
+    DEBUG=false
+else
+    while [ $# -ne 0 ]; do
+	VAL=`echo $1 | tr '[:lower:]' '[:upper:]' | tr -d '\n'`
+        if [ "${VAL}" = "DEBUG" ]; then
+            DEBUG=true
+        fi
+        shift
+    done
+fi
+
+
+# Include old Makefile
+CWD=`pwd`
+cd ..
+PREV_MAKEFILE_DIR=`pwd`
+cd "${CWD}"
+PREV_MAKEFILE_DIR=`echo ${PREV_MAKEFILE_DIR} | sed -e "s/ /\\\\\\\ /g"`
+PREV_MAKEFILE="${PREV_MAKEFILE_DIR}/Makefile.rules"
+
+
+# Export useful vars
+echo "-include ${PREV_MAKEFILE_DIR}/Makefile.rules" > Makefile.rules
+
+echo "JC=${JC}" >> Makefile.rules
+echo "CLASSPATH_SEP=${CLASSPATH_SEP}" >> Makefile.rules
+echo "CLASSPATH_LIB=${CLASSPATH_LIB}" >> Makefile.rules
+echo "CLASSPATH_BIN=${CLASSPATH_BIN}" >> Makefile.rules
+echo "JFLAGS=${JFLAGS}" >> Makefile.rules
+echo "JAR=${JAR}" >> Makefile.rules
+echo "JARFLAGS=${JARFLAGS}" >> Makefile.rules
+
+echo "JC=${JC}"
+echo "CLASSPATH_SEP=${CLASSPATH_SEP}"
+echo "CLASSPATH_LIB=${CLASSPATH_LIB}"
+echo "CLASSPATH_BIN=${CLASSPATH_BIN}"
+echo "JFLAGS=${JFLAGS}"
+echo "JAR=${JAR}"
+echo "JARFLAGS=${JARFLAGS}"

@@ -1,0 +1,20 @@
+[Lattice]
+4
+6
+[Objects]
+Gmail
+SMS
+Telephone
+VDM
+[Attributes]
+University
+Home
+Transportation
+Network 3G
+Morning
+Afternoon
+[relation]
+1 0 0 1 0 0 
+1 0 1 1 0 1 
+0 1 0 1 0 0 
+0 1 0 1 1 0 

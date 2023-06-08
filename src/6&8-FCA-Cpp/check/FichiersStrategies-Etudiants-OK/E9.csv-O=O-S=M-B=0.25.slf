@@ -1,0 +1,43 @@
+[Lattice]
+14
+9
+[Objects]
+Agenda
+Alarme
+Appareil photo
+Calculatrice
+Google
+Drive
+E-mail
+Facebook
+Gmail
+Google Play Store
+Maps
+Parametres
+Skype
+SMS
+[Attributes]
+University
+Train station
+Home
+Transportation
+Library
+Home Wifi
+Network 3G
+Public Wifi
+Univ Wifi
+[relation]
+1 0 1 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 
+1 0 0 1 0 0 0 0 0 
+1 0 1 0 0 0 0 0 0 
+1 0 1 0 0 1 0 0 1 
+1 0 1 0 0 1 0 0 1 
+1 1 1 1 1 1 1 1 1 
+1 0 1 0 0 0 0 0 0 
+1 0 1 0 0 1 1 1 1 
+1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 
+0 0 1 0 0 1 0 0 0 
+0 0 1 0 0 1 1 1 1 

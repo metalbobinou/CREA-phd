@@ -1,0 +1,40 @@
+[Lattice]
+13
+8
+[Objects]
+20minute-android
+E-mail
+Facebook
+Flappy Bird
+Google
+Google Play Store
+Mes fichiers
+Musique
+Ratp
+SMS
+SnapChat
+Telephone
+Tinder
+[Attributes]
+University
+Train station
+Street
+Transportation
+Network 3G
+Afternoon
+Smartphone Samsung
+Memory 32G
+[relation]
+0 0 0 0 0 0 1 0 
+0 0 0 0 1 0 1 1 
+0 0 0 0 1 0 1 1 
+0 1 0 1 0 0 1 1 
+0 0 0 0 1 0 1 1 
+1 0 0 0 1 0 1 1 
+0 0 0 0 0 0 1 1 
+0 1 0 1 0 0 1 1 
+0 0 1 0 0 0 1 1 
+0 0 0 0 0 0 1 1 
+1 0 0 0 0 0 1 1 
+0 0 0 0 0 0 1 1 
+1 0 0 0 1 1 1 1 

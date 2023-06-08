@@ -1,0 +1,32 @@
+B
+
+9
+9
+
+Facebook
+Flappy Bird
+Google
+Google Play Store
+Mes fichiers
+Musique
+SMS
+Telephone
+Tinder
+University
+Train station
+Home
+Transportation
+Early Morning
+Morning
+Lunch break
+Night
+Weekend
+.....X..X
+..X.....X
+..X......
+......X..
+X........
+......XX.
+....X.X..
+...X.....
+.X.X.X...

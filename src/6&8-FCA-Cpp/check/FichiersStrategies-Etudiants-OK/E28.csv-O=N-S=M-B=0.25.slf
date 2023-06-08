@@ -1,0 +1,30 @@
+[Lattice]
+9
+6
+[Objects]
+AlloCine
+Calculatrice
+Facebook
+Google
+Lecteur video
+Mes fichiers
+Radio
+SMS
+YouTube
+[Attributes]
+University
+Train station
+Transportation
+Home Wifi
+Morning
+Afternoon
+[relation]
+0 1 0 0 0 0 
+1 0 0 0 1 0 
+1 0 0 0 0 0 
+1 0 0 0 1 0 
+0 0 1 0 0 0 
+1 0 0 1 0 0 
+0 0 0 0 1 1 
+0 0 1 0 1 1 
+0 0 1 0 0 0 

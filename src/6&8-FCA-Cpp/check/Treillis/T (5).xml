@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LAT type="ConceptLattice" Desc="E-O=N-S=B-B=0,75 - T.slf - #OfNodes = 27">
+<OBJS>
+<OBJ id="0">N1</OBJ>
+<OBJ id="1">N4</OBJ>
+<OBJ id="2">N6</OBJ>
+<OBJ id="3">N11</OBJ>
+<OBJ id="4">N14</OBJ>
+<OBJ id="5">N18</OBJ>
+<OBJ id="6">N22</OBJ>
+<OBJ id="7">N24</OBJ>
+<OBJ id="8">N26</OBJ>
+<OBJ id="9">N27</OBJ>
+<OBJ id="10">N33</OBJ>
+<OBJ id="11">N35</OBJ>
+<OBJ id="12">N37</OBJ>
+<OBJ id="13">N39</OBJ>
+<OBJ id="14">N43</OBJ>
+<OBJ id="15">N52</OBJ>
+<OBJ id="16">N74</OBJ>
+<OBJ id="17">N100</OBJ>
+<OBJ id="18">N102</OBJ>
+<OBJ id="19">N110</OBJ>
+<OBJ id="20">N120</OBJ>
+<OBJ id="21">N139</OBJ>
+</OBJS>
+<ATTS>
+<ATT id="0">C1</ATT>
+<ATT id="1">C2</ATT>
+<ATT id="2">C3</ATT>
+<ATT id="3">C4</ATT>
+<ATT id="4">C5</ATT>
+<ATT id="5">C6</ATT>
+<ATT id="6">C7</ATT>
+<ATT id="7">C8</ATT>
+<ATT id="8">C9</ATT>
+<ATT id="9">C10</ATT>
+<ATT id="10">C11</ATT>
+</ATTS>
+<NODS>
+<NOD id="0">
+<EXT>
+</EXT>
+<INT>
+<ATT id="0"/>
+<ATT id="1"/>
+<ATT id="2"/>
+<ATT id="3"/>
+<ATT id="4"/>
+<ATT id="5"/>
+<ATT id="6"/>
+<ATT id="7"/>
+<ATT id="8"/>
+<ATT id="9"/>
+<ATT id="10"/>
+</INT>
+<SUP_NOD>
+<PARENT id="1"/>
+<PARENT id="2"/>
+<PARENT id="3"/>
+<PARENT id="4"/>
+<PARENT id="5"/>
+<PARENT id="6"/>
+<PARENT id="7"/>
+<PARENT id="8"/>
+<PARENT id="9"/>
+<PARENT id="10"/>
+<PARENT id="11"/>
+</SUP_NOD>
+</NOD>
+<NOD id="1">
+<EXT>
+<OBJ id="2"/>
+</EXT>
+<INT>
+<ATT id="3"/>
+<ATT id="4"/>
+</INT>
+<SUP_NOD>
+<PARENT id="21"/>
+<PARENT id="22"/>
+</SUP_NOD>
+</NOD>
+<NOD id="2">
+<EXT>
+<OBJ id="3"/>
+</EXT>
+<INT>
+<ATT id="2"/>
+<ATT id="3"/>
+<ATT id="5"/>
+<ATT id="7"/>
+</INT>
+<SUP_NOD>
+<PARENT id="12"/>
+<PARENT id="13"/>
+</SUP_NOD>
+</NOD>
+<NOD id="3">
+<EXT>
+<OBJ id="5"/>
+</EXT>
+<INT>
+<ATT id="5"/>
+<ATT id="10"/>
+</INT>
+<SUP_NOD>
+<PARENT id="24"/>
+<PARENT id="25"/>
+</SUP_NOD>
+</NOD>
+<NOD id="4">
+<EXT>
+<OBJ id="6"/>
+</EXT>
+<INT>
+<ATT id="4"/>
+<ATT id="9"/>
+</INT>
+<SUP_NOD>
+<PARENT id="22"/>
+<PARENT id="23"/>
+</SUP_NOD>
+</NOD>
+<NOD id="5">
+<EXT>
+<OBJ id="7"/>
+</EXT>
+<INT>
+<ATT id="0"/>
+<ATT id="10"/>
+</INT>
+<SUP_NOD>
+<PARENT id="25"/>
+</SUP_NOD>
+</NOD>
+<NOD id="6">
+<EXT>
+<OBJ id="8"/>
+</EXT>
+<INT>
+<ATT id="7"/>
+<ATT id="8"/>
+<ATT id="9"/>
+<ATT id="10"/>
+</INT>
+<SUP_NOD>
+<PARENT id="14"/>
+<PARENT id="15"/>
+<PARENT id="18"/>
+</SUP_NOD>
+</NOD>
+<NOD id="7">
+<EXT>
+<OBJ id="10"/>
+</EXT>
+<INT>
+<ATT id="2"/>
+<ATT id="3"/>
+<ATT id="5"/>
+<ATT id="8"/>
+</INT>
+<SUP_NOD>
+<PARENT id="13"/>
+<PARENT id="16"/>
+</SUP_NOD>
+</NOD>
+<NOD id="8">
+<EXT>
+<OBJ id="12"/>
+</EXT>
+<INT>
+<ATT id="3"/>
+<ATT id="8"/>
+<ATT id="10"/>
+</INT>
+<SUP_NOD>
+<PARENT id="14"/>
+<PARENT id="16"/>
+</SUP_NOD>
+</NOD>
+<NOD id="9">
+<EXT>
+<OBJ id="15"/>
+</EXT>
+<INT>
+<ATT id="1"/>
+<ATT id="5"/>
+</INT>
+<SUP_NOD>
+<PARENT id="17"/>
+<PARENT id="24"/>
+</SUP_NOD>
+</NOD>
+<NOD id="10">
+<EXT>
+<OBJ id="17"/>
+</EXT>
+<INT>
+<ATT id="5"/>
+<ATT id="6"/>
+</INT>
+<SUP_NOD>
+<PARENT id="20"/>
+<PARENT id="24"/>
+</SUP_NOD>
+</NOD>
+<NOD id="11">
+<EXT>
+<OBJ id="19"/>
+</EXT>
+<INT>
+<ATT id="6"/>
+<ATT id="9"/>
+<ATT id="10"/>
+</INT>
+<SUP_NOD>
+<PARENT id="15"/>
+<PARENT id="20"/>
+</SUP_NOD>
+</NOD>
+<NOD id="12">
+<EXT>
+<OBJ id="1"/>
+<OBJ id="3"/>
+</EXT>
+<INT>
+<ATT id="5"/>
+<ATT id="7"/>
+</INT>
+<SUP_NOD>
+<PARENT id="18"/>
+<PARENT id="24"/>
+</SUP_NOD>
+</NOD>
+<NOD id="13">
+<EXT>
+<OBJ id="3"/>
+<OBJ id="10"/>
+</EXT>
+<INT>
+<ATT id="2"/>
+<ATT id="3"/>
+<ATT id="5"/>
+</INT>
+<SUP_NOD>
+<PARENT id="21"/>
+<PARENT id="24"/>
+</SUP_NOD>
+</NOD>
+<NOD id="14">
+<EXT>
+<OBJ id="8"/>
+<OBJ id="12"/>
+</EXT>
+<INT>
+<ATT id="8"/>
+<ATT id="10"/>
+</INT>
+<SUP_NOD>
+<PARENT id="19"/>
+<PARENT id="25"/>
+</SUP_NOD>
+</NOD>
+<NOD id="15">
+<EXT>
+<OBJ id="8"/>
+<OBJ id="19"/>
+</EXT>
+<INT>
+<ATT id="9"/>
+<ATT id="10"/>
+</INT>
+<SUP_NOD>
+<PARENT id="23"/>
+<PARENT id="25"/>
+</SUP_NOD>
+</NOD>
+<NOD id="16">
+<EXT>
+<OBJ id="10"/>
+<OBJ id="12"/>
+</EXT>
+<INT>
+<ATT id="3"/>
+<ATT id="8"/>
+</INT>
+<SUP_NOD>
+<PARENT id="19"/>
+<PARENT id="21"/>
+</SUP_NOD>
+</NOD>
+<NOD id="17">
+<EXT>
+<OBJ id="15"/>
+<OBJ id="16"/>
+</EXT>
+<INT>
+<ATT id="1"/>
+</INT>
+<SUP_NOD>
+<PARENT id="26"/>
+</SUP_NOD>
+</NOD>
+<NOD id="18">
+<EXT>
+<OBJ id="1"/>
+<OBJ id="3"/>
+<OBJ id="8"/>
+</EXT>
+<INT>
+<ATT id="7"/>
+</INT>
+<SUP_NOD>
+<PARENT id="26"/>
+</SUP_NOD>
+</NOD>
+<NOD id="19">
+<EXT>
+<OBJ id="8"/>
+<OBJ id="10"/>
+<OBJ id="12"/>
+</EXT>
+<INT>
+<ATT id="8"/>
+</INT>
+<SUP_NOD>
+<PARENT id="26"/>
+</SUP_NOD>
+</NOD>
+<NOD id="20">
+<EXT>
+<OBJ id="9"/>
+<OBJ id="17"/>
+<OBJ id="19"/>
+</EXT>
+<INT>
+<ATT id="6"/>
+</INT>
+<SUP_NOD>
+<PARENT id="26"/>
+</SUP_NOD>
+</NOD>
+<NOD id="21">
+<EXT>
+<OBJ id="2"/>
+<OBJ id="3"/>
+<OBJ id="10"/>
+<OBJ id="12"/>
+</EXT>
+<INT>
+<ATT id="3"/>
+</INT>
+<SUP_NOD>
+<PARENT id="26"/>
+</SUP_NOD>
+</NOD>
+<NOD id="22">
+<EXT>
+<OBJ id="2"/>
+<OBJ id="4"/>
+<OBJ id="6"/>
+<OBJ id="18"/>
+<OBJ id="20"/>
+</EXT>
+<INT>
+<ATT id="4"/>
+</INT>
+<SUP_NOD>
+<PARENT id="26"/>
+</SUP_NOD>
+</NOD>
+<NOD id="23">
+<EXT>
+<OBJ id="6"/>
+<OBJ id="8"/>
+<OBJ id="14"/>
+<OBJ id="19"/>
+<OBJ id="21"/>
+</EXT>
+<INT>
+<ATT id="9"/>
+</INT>
+<SUP_NOD>
+<PARENT id="26"/>
+</SUP_NOD>
+</NOD>
+<NOD id="24">
+<EXT>
+<OBJ id="0"/>
+<OBJ id="1"/>
+<OBJ id="3"/>
+<OBJ id="5"/>
+<OBJ id="10"/>
+<OBJ id="15"/>
+<OBJ id="17"/>
+</EXT>
+<INT>
+<ATT id="5"/>
+</INT>
+<SUP_NOD>
+<PARENT id="26"/>
+</SUP_NOD>
+</NOD>
+<NOD id="25">
+<EXT>
+<OBJ id="5"/>
+<OBJ id="7"/>
+<OBJ id="8"/>
+<OBJ id="11"/>
+<OBJ id="12"/>
+<OBJ id="13"/>
+<OBJ id="19"/>
+</EXT>
+<INT>
+<ATT id="10"/>
+</INT>
+<SUP_NOD>
+<PARENT id="26"/>
+</SUP_NOD>
+</NOD>
+<NOD id="26">
+<EXT>
+<OBJ id="0"/>
+<OBJ id="1"/>
+<OBJ id="2"/>
+<OBJ id="3"/>
+<OBJ id="4"/>
+<OBJ id="5"/>
+<OBJ id="6"/>
+<OBJ id="7"/>
+<OBJ id="8"/>
+<OBJ id="9"/>
+<OBJ id="10"/>
+<OBJ id="11"/>
+<OBJ id="12"/>
+<OBJ id="13"/>
+<OBJ id="14"/>
+<OBJ id="15"/>
+<OBJ id="16"/>
+<OBJ id="17"/>
+<OBJ id="18"/>
+<OBJ id="19"/>
+<OBJ id="20"/>
+<OBJ id="21"/>
+</EXT>
+<INT>
+</INT>
+<SUP_NOD/>
+</NOD>
+</NODS>
+</LAT>

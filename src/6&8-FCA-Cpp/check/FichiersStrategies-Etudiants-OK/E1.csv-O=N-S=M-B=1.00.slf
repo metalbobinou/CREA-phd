@@ -1,0 +1,53 @@
+[Lattice]
+18
+11
+[Objects]
+Agenda
+Alarme
+AlloCine
+Calculatrice
+Google
+Drive
+E-mail
+Facebook
+Gmail
+Mes fichiers
+Musique
+Notes
+Photoshop
+Skype
+SMS
+Telephone
+Word
+YouTube
+[Attributes]
+University
+Train station
+Home
+Transportation
+Home Wifi
+Univ Wifi
+Early Morning
+Morning
+Lunch break
+Afternoon
+Evening
+[relation]
+0 0 1 0 0 0 0 1 0 0 1 
+0 0 1 0 1 0 1 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 1 0 1 1 0 0 0 0 0 
+1 0 1 0 0 0 0 0 0 0 0 
+0 0 1 0 1 0 0 0 0 0 0 
+0 0 1 0 1 0 0 0 0 0 0 
+0 0 1 0 1 0 0 0 0 0 0 
+1 0 1 0 0 0 0 0 0 0 0 
+0 1 0 1 0 0 0 1 0 1 0 
+0 0 0 1 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 1 
+0 0 1 0 1 0 0 0 0 0 0 
+1 1 1 1 0 0 1 1 1 1 1 
+1 1 0 1 0 0 0 1 1 0 0 
+0 0 1 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 1 1 

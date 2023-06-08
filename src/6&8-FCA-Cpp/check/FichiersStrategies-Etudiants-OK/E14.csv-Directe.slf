@@ -1,0 +1,91 @@
+[Lattice]
+33
+19
+[Objects]
+4 images 1 mot
+Alarme
+AlloCine
+Appareil photo
+Calculatrice
+Earth
+Facebook
+Flappy Bird
+Gmail
+Google
+Google Play Store
+Instagram
+Lecteur video
+LINE
+Maps
+Mes fichiers
+Meteo
+Mise a jour logicielle
+Musique
+Navigation
+Parametres
+Photos
+Ratp
+Shazam
+SMS
+SnapChat
+Telephone
+Translate
+Twitter
+WeChat
+WhatsApp
+Wifi Analyzer
+YouTube
+[Attributes]
+University
+Train station
+Cinema
+Restaurant
+Home
+Transportation
+Street
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+Smartphone Samsung
+Memory 64G
+[relation]
+1 0 0 0 1 0 0 0 1 0 0 0 0 1 1 0 0 1 0 
+0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 
+0 0 1 1 0 1 0 0 1 0 0 0 0 1 1 0 1 0 0 
+0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1 1 1 
+1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 
+1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 
+1 1 0 0 1 1 0 0 0 0 1 0 1 1 1 0 1 1 0 
+1 0 1 1 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 
+1 0 0 0 1 0 1 1 1 1 1 1 1 1 1 0 1 1 0 
+1 0 0 0 1 0 0 0 1 0 0 0 0 1 1 0 1 1 1 
+1 0 0 0 1 0 0 0 1 1 1 0 1 1 1 0 1 1 0 
+1 0 0 0 1 0 0 1 1 0 0 0 0 1 1 0 1 1 0 
+1 0 0 0 1 0 0 1 1 0 1 0 1 1 0 0 1 1 0 
+1 0 0 0 0 0 1 0 1 0 1 0 0 0 1 0 0 1 0 
+0 1 0 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 
+1 0 0 0 1 0 0 0 0 1 1 0 1 0 0 0 1 1 0 
+1 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 1 1 1 0 0 0 1 0 0 1 1 0 0 1 0 
+0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1 0 
+1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 
+1 0 0 1 1 1 1 0 0 0 1 0 1 1 1 0 1 1 0 
+0 0 0 0 1 1 0 0 1 0 1 0 0 1 1 0 1 0 0 
+0 0 0 1 1 0 0 0 1 0 0 0 0 1 1 0 1 1 0 
+1 1 0 0 1 1 1 0 0 0 1 0 1 1 1 0 1 1 0 
+1 1 0 1 1 1 1 0 1 0 0 0 0 0 0 0 0 1 0 
+1 1 0 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 
+1 0 0 0 1 0 0 0 1 0 1 0 1 1 1 0 0 0 0 
+1 0 0 0 1 0 0 0 1 0 1 0 0 1 1 0 1 1 0 
+1 0 0 0 1 1 1 0 1 0 1 0 1 1 1 0 0 1 0 
+1 0 0 0 1 0 0 0 1 0 1 0 0 1 1 0 1 0 0 
+0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 
+0 0 0 0 1 0 0 1 1 0 0 0 0 1 1 0 0 1 0 

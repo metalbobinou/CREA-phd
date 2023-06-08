@@ -1,0 +1,5 @@
+Helps a user to select which terms to keep or not
+
+(CSVReader/Writer includes)
+
+Compare the initial matrix of terms occurrencies with the matrix after the strategy

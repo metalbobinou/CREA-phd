@@ -1,0 +1,25 @@
+[Lattice]
+8
+3
+[Objects]
+ABC Transport
+Alarme
+E-mail
+Facebook
+Meteo
+SMS
+Telephone
+Twitter
+[Attributes]
+Home
+Network 3G
+Smartphone NokiaLumia
+[relation]
+0 1 0 
+1 1 0 
+0 1 0 
+0 1 0 
+0 1 1 
+0 1 1 
+0 1 0 
+0 1 1 

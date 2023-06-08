@@ -1,0 +1,43 @@
+B
+
+15
+8
+
+ABC Transport
+Alarme
+AlloCine
+Bing Spoort
+E-mail
+Facebook
+Google
+Lequipe
+Meteo
+Musique
+Parametres
+SMS
+Telephone
+Twitter
+Windows store
+University
+Home
+Transportation
+Network 3G
+Morning
+Afternoon
+Evening
+Smartphone NokiaLumia
+.X.XX...
+.X.X....
+X..X.X..
+...X.X..
+.X.X...X
+.X.X..X.
+..XX....
+...X.X.X
+...X...X
+.X.X....
+X..X...X
+.X.X...X
+...X.XX.
+...X...X
+...X.X.X

@@ -1,0 +1,35 @@
+[Lattice]
+11
+7
+[Objects]
+Adobe Reader
+Alarme
+Appareil photo
+Google
+E-mail
+Flappy Bird
+Maps
+Parametres
+Subway Surfer
+Twitter
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Afternoon
+Evening
+[relation]
+0 0 1 0 0 0 0 
+0 1 0 0 0 0 0 
+0 0 0 0 0 0 1 
+0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 
+1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 
+0 0 0 0 0 0 1 
+0 0 0 0 0 0 1 
+0 1 0 1 0 0 0 

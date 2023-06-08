@@ -1,0 +1,52 @@
+Dissimilarity Simple :
+Stress Kruskal : [Mauvais > 0.2 > Correct > 0.1 > Bon > 0.05 > Excellent > 0.025 > Parfait > 0.0]
+DBSCAN : cluster 0 contient les termes qui ne peuvent pas être regroupés
+
+
+* S=H (0.00) : 61 termes
+Beaucoup de clusters communs à plusieurs méthodes (K-Means, MDS+K-Means, DBSCAN) :
+perl	mysql	mÃ©thode	date	exception	hypertext	rasmus lerdorf	windows
+code	value	identifier	return
+option	page	instruction	strlen
+tableau	elseif	application	script	style
+apache	version	internet	content	h2	require_once
+session	post	timestamp	session cookies
+lamp	linux	pdf	installation	facebook
+
+
+
+- K-Means : 21 clusters, résultats pas très exploitables par l'utilisateur sauf :
+6	session	post	timestamp	session cookies		(++ OK, très logique à l'usage : ce sont des instructions/méthodes essentielles pour les sites en PHP)
+15	client	css		(+- OK, logique à l'usage : CSS c'est utile pour le côté client uniquement
+
+- MDS+K-Means : 20 clusters, résultats pas très exploitables par l'utilisateur sauf :
+0	web	php		(+- OK, mais très haut niveau : c'est le titre du cours...)
+11	client	css		(+- OK, logique à l'usage)
+12	session	post	timestamp	session cookies		(++ OK, très logique à l'usage)
+Stress Kruskal : 0.32033191844765485 (mauvais)
+Sinon, résultats très proches de K-Means seul
+
+- DBSCAN : 8 clusters, 25 termes "bruits" (41%), résultats pas très exploitables par l'utilisateur sauf :
+6	session	post	timestamp	session cookies
+Estimated number of noise points: 25
+Homogeneity: 0.439
+Completeness: 1.000
+V-measure: 0.610
+
+- OPTICS : 5 clusters, 31 termes "bruits" (51%), 3 clusters très intéressants
+2	elseif	break	foreach	strlen	return		(++ OK, très logique : ce ne sont que des instructions de code)
+4	application	lamp	linux	windows	licence		(+ Plutôt OK, logique : déployer en production PHP va impliquer de se poser des questions sur l'OS, le coût, la suite logicielle, ...)
+3	date	timestamp	session cookies	exception	hypertext	rasmus lerdorf		(+ Plutôt OK, logique : la gestion des cookies implique de gérer le temps... quelques termes peu utiles mais passables : exceptions et hypertext. Rasmus Lerdorf est hors sujet)
+Clusters pas intéressants :
+1	document	perl	sql	code	tableau	url
+5	flux	pdf	installation	facebook	message	compiler	script	style
+Estimated number of noise points: 31
+Homogeneity: 0.359
+Completeness: 1.000
+V-measure: 0.529
+
+- CAH : 5 clusters. "distance" (25) et "max_clusters" donnent les mêmes résultats. Clusters pas très utiles, sauf :
+5	web	html	javascript	http	site	apache	version	internet	content	doctype	w3c	h2	require_once	flux	(+- Plutôt OK, presque logique, sauf "require_once" : couvre le développement frontend, mais pas PHP... inversement, c'est un cluster intéressant dans le sens où il couvre les termes des cours qui ne sont pas PHP (sauf "require_once"). Mais il reste d'autres termes "non-PHP" dans les autres clusters.)
+3	sql	tableau	url	size	entier	elseif	break	foreach	application	script	style (- BOF, contient des termes de code trop granulaires et des termes plus haut niveau sans liens entre eux... mais c'est un fragment dont TOUS les termes doivent être présentés dans un cours)
+1	client	php	css	code	value	identifier	option	page	instruction	strlen	return	rows	message (- BOF, même chose que 3)
+Cophenetic Correlation (dans les 2 cas) : 0.8495708969715675

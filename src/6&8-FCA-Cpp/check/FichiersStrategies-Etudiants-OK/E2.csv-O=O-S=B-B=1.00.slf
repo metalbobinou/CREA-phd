@@ -1,0 +1,33 @@
+[Lattice]
+9
+9
+[Objects]
+Actualites
+AlloCine
+Google
+Flappy Bird
+Freebox Mobile
+Meteo
+SnapChat
+WeChat
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Early Morning
+Coffe break
+Lunch break
+Night
+Weekend
+[relation]
+0 0 0 0 1 1 0 0 0 
+1 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 1 
+0 0 1 0 0 0 0 0 0 
+0 1 0 1 0 0 0 0 0 
+0 0 0 0 1 1 0 0 0 
+0 0 0 0 0 0 1 0 1 
+0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 1 

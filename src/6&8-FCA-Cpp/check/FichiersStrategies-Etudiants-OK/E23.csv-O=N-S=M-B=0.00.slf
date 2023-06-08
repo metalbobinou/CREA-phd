@@ -1,0 +1,22 @@
+[Lattice]
+4
+8
+[Objects]
+JeuxVideo.com
+Mes fichiers
+My Boy Free
+Waze
+[Attributes]
+University
+Home
+Home Wifi
+Lunch break
+Afternoon
+Evening
+Weekend
+Smartphone Samsung
+[relation]
+0 0 0 0 0 1 0 0 
+1 1 0 0 0 0 0 1 
+1 1 0 1 0 1 0 1 
+0 1 1 0 1 0 1 1 

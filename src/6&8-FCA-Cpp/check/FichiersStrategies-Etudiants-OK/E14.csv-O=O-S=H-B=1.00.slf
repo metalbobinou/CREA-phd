@@ -1,0 +1,69 @@
+[Lattice]
+28
+7
+[Objects]
+4 images 1 mot
+AlloCine
+Appareil photo
+Facebook
+Flappy Bird
+Gmail
+Google
+Google Play Store
+Instagram
+Lecteur video
+LINE
+Maps
+Mes fichiers
+Meteo
+Mise a jour logicielle
+Musique
+Photos
+Ratp
+Shazam
+SMS
+SnapChat
+Telephone
+Translate
+Twitter
+WeChat
+WhatsApp
+Wifi Analyzer
+YouTube
+[Attributes]
+Restaurant
+Home
+Street
+Network 3G
+Evening
+Smartphone Samsung
+Memory 64G
+[relation]
+0 0 0 1 0 1 0 
+0 0 0 1 0 0 0 
+0 0 0 0 0 1 1 
+0 0 0 1 0 1 0 
+0 0 0 0 0 1 0 
+0 0 0 1 0 1 0 
+0 0 0 1 0 1 0 
+0 0 0 1 0 1 1 
+0 0 0 1 0 1 0 
+0 0 0 1 0 1 0 
+0 0 0 1 0 1 0 
+0 0 0 1 0 1 0 
+0 0 0 0 0 1 0 
+0 0 0 0 0 1 0 
+0 0 0 0 0 1 1 
+0 0 0 0 0 1 0 
+0 0 0 0 0 1 0 
+0 0 0 1 0 0 0 
+0 0 0 1 0 1 0 
+0 0 0 0 0 1 0 
+0 0 0 1 0 1 0 
+0 0 1 0 1 0 0 
+0 1 0 1 0 0 0 
+0 0 0 1 0 1 0 
+0 0 0 1 0 1 0 
+0 0 0 1 0 0 0 
+1 0 0 0 0 0 0 
+0 1 0 0 0 1 0 

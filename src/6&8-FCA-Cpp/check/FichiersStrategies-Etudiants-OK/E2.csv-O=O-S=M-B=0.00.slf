@@ -1,0 +1,15 @@
+[Lattice]
+3
+3
+[Objects]
+Calculatrice
+Lecteur video
+SnapChat
+[Attributes]
+University
+Home
+Memory 16G
+[relation]
+1 0 1 
+0 1 1 
+0 1 0 

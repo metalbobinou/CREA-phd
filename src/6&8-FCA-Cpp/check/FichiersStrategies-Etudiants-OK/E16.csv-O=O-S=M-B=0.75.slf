@@ -1,0 +1,56 @@
+[Lattice]
+18
+14
+[Objects]
+Agenda
+Alarme
+Appareil photo
+Calculatrice
+Drive
+E-mail
+Facebook
+Freebox Mobile
+Google
+Google Play Store
+Maps
+Mes fichiers
+Skype
+SMS
+Telephone
+Viber
+World
+YouTube
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+Smartphone Sony
+Computer
+[relation]
+1 0 0 0 1 1 0 0 0 0 0 0 1 1 
+0 0 0 0 0 1 1 0 0 0 1 1 1 1 
+1 0 0 0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 0 0 1 0 1 1 1 
+0 0 0 0 0 0 0 0 0 1 0 1 0 0 
+1 0 0 1 0 0 0 0 0 0 0 0 1 0 
+0 0 0 1 0 0 1 0 0 1 0 1 1 0 
+0 0 0 0 0 0 1 0 0 1 0 1 0 0 
+1 0 0 1 0 0 0 0 0 0 0 1 1 0 
+1 1 0 0 0 0 1 0 0 1 0 1 0 0 
+0 1 1 0 0 0 0 0 0 1 0 0 0 1 
+1 0 0 1 0 0 1 1 1 1 1 1 0 0 
+0 1 0 0 0 0 1 0 0 1 0 1 0 0 
+0 1 0 0 0 0 0 0 0 0 0 0 1 0 
+0 1 0 0 0 0 0 0 0 1 0 0 0 1 
+0 1 1 0 0 0 0 0 0 1 0 0 0 1 

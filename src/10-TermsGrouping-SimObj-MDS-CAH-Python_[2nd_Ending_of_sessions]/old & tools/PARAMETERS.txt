@@ -1,0 +1,20 @@
+Choix des paramètres pour PHP :
+
+DBSCAN :
+1) Fixer epsilon (rayon max pour trouver des voisins et devenir un "core point")
+2) Fixer MinPts (nombre minimum de points dans le rayon pour devenir un "core point")
+* Méthode Jorg Sander & al. :
+* Choisir k selon : k = (dimension * 2) - 1      [k == 3 ou 4 pour 2D]
+* Voir courbe "sorted k-dist graph" (NearestNeighbors)
+* Fixer seuil "epsilon" à la première vallée/Là où s'arrête le bruit
+* MinPts = k + 1
+=> nombre de dimensions des données ?
+=> 2D si passées par MDS
+=> nombre de cours en entrée ? (10)
+=> nombre de concepts du treillis ? (Directe : 203 - B : 91 - H : 33 - M : 156)
+=> nombre de termes ? (Directe : 245 - B : 61 - H : 61 - M : 244)
+===> Exemple : nombre de cours en entrée
+==> k = 19
+==> MinPts = 20
+==> (voir la courbe générée)
+==> eps = 

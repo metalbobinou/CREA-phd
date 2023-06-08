@@ -1,0 +1,40 @@
+[Lattice]
+10
+14
+[Objects]
+Agenda
+Alarme
+Appareil photo
+Facebook
+Gestion de taches
+Gmail
+Google
+Mes fichiers
+SMS
+Telephone
+[Attributes]
+University
+Restaurant
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+0 0 0 0 0 0 0 1 0 1 0 1 0 0 
+0 0 0 0 0 1 0 0 0 0 0 1 0 1 
+1 0 0 0 1 0 0 0 0 1 0 0 0 0 
+0 1 1 0 1 0 1 0 1 1 0 0 1 0 
+0 0 0 0 0 0 1 1 1 1 1 1 1 0 
+0 0 0 1 0 0 1 1 1 1 1 0 1 0 
+0 1 1 1 0 1 0 1 0 1 0 0 1 0 
+1 0 0 0 0 1 0 1 0 0 0 1 0 0 
+0 0 0 1 1 0 0 1 1 1 0 0 1 0 
+1 0 0 1 0 1 0 1 0 0 1 0 0 1 

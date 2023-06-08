@@ -1,0 +1,72 @@
+#! /bin/sh
+
+PYTHON3=python3
+PYTHON2=python
+
+# Detecting OS commands (make/gmake, md5/md5sum, ...)
+OS=`uname`
+
+#  cygwin workout
+CYGWIN_PATTERN=${OS##CYGWIN}
+CYG_OS=${OS%%${CYGWIN_PATTERN}}
+
+if [ "$OS" = "FreeBSD" ]; then
+	echo "Configure for FreeBSD"
+	PYTHON=${PYTHON3}
+	SED=sed
+	AWK=awk
+elif [ "$OS" = "Debian" ]; then
+	echo "Configure for Debian"
+	PYTHON=${PYTHON3}
+	SED=sed
+	AWK=awk
+elif [ "$OS" = "Linux" ]; then
+	echo "Configure for Linux (generic)"
+	PYTHON=${PYTHON3}
+	SED=sed
+	AWK=awk
+elif [ "$OS" = "Darwin" ]; then
+	echo "Configure for MacOS"
+	PYTHON=${PYTHON3}
+	SED=gsed
+	AWK=gawk
+elif [ "$CYG_OS" = "CYGWIN" ]; then
+	echo "Configure for Cygwin"
+	PYTHON=${PYTHON3}
+	SED=sed
+	AWK=awk
+else
+	echo "Generic configure"
+	PYTHON=${PYTHON3}
+	SED=sed
+	AWK=awk
+fi
+
+# Get flags
+DEBUG=false
+if [ $# -eq 0 ]; then
+    DEBUG=false
+else
+    while [ $# -ne 0 ]; do
+	VAL=`echo $1 | tr '[:lower:]' '[:upper:]' | tr -d '\n'`
+        if [ "${VAL}" = "DEBUG" ]; then
+            DEBUG=true
+        fi
+        shift
+    done
+fi
+
+
+# Export useful vars
+echo "PYTHON=${PYTHON}" > Makefile.rules
+echo "SED=${SED}" >> Makefile.rules
+echo "AWK=${AWK}" >> Makefile.rules
+
+echo "PYTHON=${PYTHON}" > vars.sh
+echo "SED=${SED}" >> vars.sh
+echo "AWK=${AWK}" >> vars.sh
+
+
+echo "PYTHON=${PYTHON}"
+echo "SED=${SED}"
+echo "AWK=${AWK}"

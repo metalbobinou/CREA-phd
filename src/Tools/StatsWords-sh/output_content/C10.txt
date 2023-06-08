@@ -1,0 +1,60 @@
+html 46
+web 24
+php 14
+apache 14
+version 10
+site 9
+vers 5
+type 4
+organisation 4
+h2 4
+base 4
+"back office" 4
+premier 3
+par 3
+mysql 3
+internet 3
+img 3
+css 3
+client 3
+text/css 2
+tbody 2
+rel 2
+lightblue 2
+jpg 2
+javascript 2
+include 2
+doctype 2
+content 2
+color 2
+caption 2
+author 2
+"html 5" 2
+"html 4.01" 2
+"html 4" 2
+"html 2" 2
+xamp 1
+w3c 1
+utiliser 1
+tutorial 1
+tr 1
+sql 1
+seul 1
+programme 1
+java 1
+importer 1
+http 1
+hr 1
+header 1
+firefox 1
+fin 1
+explorer 1
+evaluation 1
+ensemble 1
+dns 1
+descriptions 1
+code 1
+blockquote 1
+"php 4" 1
+"internet explorer" 1
+"internet explorer 9" 1

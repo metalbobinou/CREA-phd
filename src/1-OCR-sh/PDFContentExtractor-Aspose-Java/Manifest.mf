@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: Main.Main
+Class-Path: ./ ././libs/aspose.pdf-19.9.jar ./libs/jcommander-1.78.jar

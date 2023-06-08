@@ -1,0 +1,27 @@
+[Lattice]
+6
+9
+[Objects]
+Candy Crush
+Facebook
+Facebook messenger
+Instagram
+Wordpress
+YouTube
+[Attributes]
+University
+Network 3G
+Early Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+0 0 0 1 0 1 0 0 0 
+0 0 1 1 0 0 0 0 1 
+0 0 0 1 1 0 0 0 0 
+1 1 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 1 0 0 

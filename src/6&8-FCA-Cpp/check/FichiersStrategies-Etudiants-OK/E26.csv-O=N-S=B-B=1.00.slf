@@ -1,0 +1,29 @@
+[Lattice]
+7
+9
+[Objects]
+Agenda
+Alarme
+Appareil photo
+Google
+Mes fichiers
+SMS
+Telephone
+[Attributes]
+University
+Restaurant
+Transportation
+Home Wifi
+Network 3G
+Morning
+Coffe break
+Lunch break
+Evening
+[relation]
+0 0 0 0 0 1 0 1 1 
+0 0 0 0 1 0 0 0 1 
+1 0 0 1 0 0 0 1 0 
+0 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 1 1 0 0 
+0 0 1 0 0 1 0 0 0 

@@ -1,0 +1,16 @@
+[Lattice]
+3
+4
+[Objects]
+Musique
+WeChat
+WhatsApp
+[Attributes]
+Home
+Transportation
+Smartphone Iphone
+Memory 16G
+[relation]
+0 1 1 1 
+0 0 1 1 
+1 0 1 1 

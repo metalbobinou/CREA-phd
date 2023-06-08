@@ -1,0 +1,39 @@
+B
+
+11
+12
+
+Appareil photo
+BBM
+Facebook
+Flappy Bird
+Instagram
+Photos
+SMS
+SnapChat
+Telephone
+Twitter
+WhatsApp
+University
+Cinema
+Home
+Transportation
+Network 3G
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+X........X..
+..X.X.......
+.........X..
+..X...X.X...
+....X.......
+..X.X.......
+...XXX.X..X.
+.X.XX.X.X...
+...........X
+..X.X.......
+.....XX.....

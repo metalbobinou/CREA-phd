@@ -1,0 +1,16 @@
+[Lattice]
+3
+4
+[Objects]
+Agenda
+Calculatrice
+Gmail
+[Attributes]
+University
+Home
+Lunch break
+Evening
+[relation]
+0 1 0 1 
+0 1 0 1 
+1 0 1 0 

@@ -1,0 +1,38 @@
+[Lattice]
+13
+6
+[Objects]
+Candy Crush
+Dropbox
+Ebay
+Facebook
+Facebook messenger
+Gmail
+Instagram
+Google
+LizLisa
+Notes
+Tumblr
+Wordpress
+YouTube
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+Evening
+Smartphone GalaxyS3
+[relation]
+1 0 0 1 0 1 
+0 1 1 0 0 1 
+0 0 0 0 0 1 
+0 1 1 0 0 1 
+0 1 1 1 1 1 
+1 0 0 1 0 1 
+0 1 1 0 1 1 
+0 0 0 1 0 1 
+1 0 0 1 0 1 
+0 0 0 0 0 1 
+0 1 1 0 0 1 
+0 1 1 0 0 1 
+0 1 1 0 0 1 

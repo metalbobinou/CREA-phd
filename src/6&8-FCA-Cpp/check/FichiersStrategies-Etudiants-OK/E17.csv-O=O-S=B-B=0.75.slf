@@ -1,0 +1,46 @@
+[Lattice]
+15
+10
+[Objects]
+ABC Transport
+Alarme
+Bing Spoort
+E-mail
+Facebook
+Google
+Lequipe
+Meteo
+Musique
+Parametres
+Shazam
+SMS
+Telephone
+Twitter
+Windows store
+[Attributes]
+University
+Home
+Restaurant
+Transportation
+Morning
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+0 0 0 1 0 0 0 0 1 0 
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 1 1 0 0 0 1 
+0 0 0 1 1 1 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 1 0 1 
+0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 1 0 1 0 0 0 
+0 0 0 0 0 0 1 0 0 1 
+0 0 1 0 0 1 0 0 0 0 
+0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 1 0 1 
+1 1 0 0 0 0 0 0 0 0 

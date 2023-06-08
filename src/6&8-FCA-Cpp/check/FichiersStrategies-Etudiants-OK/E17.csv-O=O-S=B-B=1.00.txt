@@ -1,0 +1,33 @@
+B
+
+10
+8
+
+Alarme
+Bing Spoort
+E-mail
+Google
+Lequipe
+Musique
+Parametres
+Shazam
+Telephone
+Windows store
+University
+Home
+Transportation
+Morning
+Lunch break
+Afternoon
+Evening
+Weekend
+.......X
+..X.....
+....X...
+....X...
+X.......
+......X.
+...X.X..
+.....X.X
+..X.....
+XX......

@@ -1,0 +1,33 @@
+[Lattice]
+10
+7
+[Objects]
+Agenda
+Calculatrice
+Facebook
+Flappy Bird
+Gmail
+Google
+LINE
+Puzzle&Dragons
+Sotchi 2014
+Twitter
+[Attributes]
+University
+Home
+Morning
+Lunch break
+Afternoon
+Evening
+Weekend
+[relation]
+0 1 0 0 0 1 0 
+0 1 0 0 0 1 0 
+0 1 1 0 0 0 0 
+0 0 1 0 1 0 0 
+1 0 0 1 0 0 0 
+0 0 1 0 0 0 0 
+0 1 0 0 0 0 0 
+0 0 0 0 0 0 1 
+0 0 0 0 1 0 0 
+1 0 0 0 1 1 0 

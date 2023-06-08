@@ -1,0 +1,41 @@
+[Lattice]
+12
+11
+[Objects]
+Agenda
+Appareil photo
+Calculatrice
+Drive
+Facebook
+Freebox Mobile
+Gmail
+Google
+Google Play Store
+Mise a jour logicielle
+Telephone
+Viber
+[Attributes]
+University
+Train station
+Home
+Network 3G
+Coffe break
+Lunch break
+Evening
+Night
+Weekend
+Smartphone Sony
+Computer
+[relation]
+0 0 0 0 1 1 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 1 0 
+1 0 0 0 1 0 1 0 1 0 0 
+1 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 1 1 0 0 
+0 0 0 0 1 0 1 0 0 0 0 
+1 1 0 0 0 0 0 0 0 0 0 
+1 0 0 1 0 0 0 0 0 1 0 
+0 0 0 0 1 0 1 0 1 0 0 
+1 1 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 1 

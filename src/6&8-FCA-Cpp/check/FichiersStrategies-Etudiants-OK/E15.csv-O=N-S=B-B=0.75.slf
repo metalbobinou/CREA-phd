@@ -1,0 +1,30 @@
+[Lattice]
+8
+8
+[Objects]
+Bbc news
+Drive
+Facebook
+Google
+seriesaddict
+SMS
+Twitter
+WhatsApp
+[Attributes]
+Home
+Early Morning
+Morning
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+0 0 1 0 1 0 0 0 
+0 0 1 0 1 0 0 0 
+1 0 1 0 1 0 0 0 
+0 0 1 1 1 1 1 0 
+0 0 0 0 0 1 1 1 
+0 1 1 1 1 1 1 0 
+0 1 1 0 1 1 1 0 
+0 1 1 1 1 1 1 0 

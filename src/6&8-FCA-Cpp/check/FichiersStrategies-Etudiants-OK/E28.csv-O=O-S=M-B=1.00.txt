@@ -1,0 +1,53 @@
+B
+
+18
+12
+
+Alarme
+AlloCine
+Angry Birds
+Calculatrice
+Drive
+E-mail
+Facebook
+Gestion de taches
+Gmail
+Google
+Google Play Store
+Lecteur video
+Mes fichiers
+Mise a jour logicielle
+Radio
+SMS
+Telephone
+YouTube
+University
+Train station
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+......X....X
+.X..........
+XX.....X..X.
+X......X....
+...X.X.X....
+..........X.
+X...........
+X..X........
+.......X..X.
+X....X.X....
+X....X...X..
+...X........
+X...X.......
+.......XXXX.
+.X.....X..X.
+X.XX...XXXX.
+XX..........
+...X........

@@ -1,0 +1,30 @@
+[Lattice]
+8
+8
+[Objects]
+Agenda
+Alarme
+E-mail
+Facebook
+Musique
+SMS
+Telephone
+YouTube
+[Attributes]
+University
+Restaurant
+Home
+Network 3G
+Morning
+Coffe break
+Lunch break
+Weekend
+[relation]
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 1 0 0 0 1 0 
+0 0 0 0 0 1 0 1 
+0 1 0 0 0 1 0 1 
+0 0 0 0 0 0 0 1 

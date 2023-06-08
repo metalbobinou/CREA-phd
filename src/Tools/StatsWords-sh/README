@@ -1,0 +1,18 @@
+StatsWords :
+
+Count the number of words.
+Works on files where each word is alone on one line.
+(which is the output of TreeTagger)
+
+Use as input :
+2-tagged
+or
+data/4-tag-pos-filtered
+
+
+Usage :
+./StatsWords.sh C1.txt
+
+Output :
+stats_C1.txt
+sum_C1.txt

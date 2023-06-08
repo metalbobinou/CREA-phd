@@ -1,0 +1,26 @@
+[Lattice]
+6
+8
+[Objects]
+Agenda
+Calculatrice
+Lecteur video
+Mes fichiers
+Mise a jour logicielle
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Univ Wifi
+Morning
+Lunch break
+Afternoon
+Evening
+[relation]
+1 0 0 0 0 0 1 0 
+1 0 0 0 0 0 1 0 
+1 1 1 0 1 1 0 1 
+1 0 0 0 0 0 0 1 
+1 0 0 1 0 0 0 0 
+1 0 0 1 0 1 0 0 

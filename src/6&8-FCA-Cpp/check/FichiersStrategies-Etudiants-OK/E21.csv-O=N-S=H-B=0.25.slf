@@ -1,0 +1,63 @@
+[Lattice]
+24
+9
+[Objects]
+App Store
+Calculatrice
+Calendrier
+Dans ton chat
+Documents
+Eurosport
+Facebook
+Flappy Bird
+Gmail
+Google
+Instagram
+iTranslate
+JeuxVideo.com
+Musique
+NBA 2K14
+Ratp
+SMS
+SnapChat
+So Foot
+Telephone
+Transdev IDF
+Tumblr
+Twitter
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Morning
+Afternoon
+Evening
+Weekend
+[relation]
+0 1 0 0 0 0 0 0 0 
+1 0 0 0 0 0 1 0 0 
+1 0 0 0 0 0 1 0 0 
+0 1 0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 1 0 
+0 1 0 1 1 1 0 0 0 
+0 1 0 1 0 0 0 1 0 
+1 0 0 0 0 1 0 0 0 
+0 1 0 1 1 1 0 0 0 
+0 1 0 1 0 0 0 0 1 
+1 0 0 0 1 1 0 0 0 
+0 1 0 0 0 0 0 1 0 
+0 1 0 0 1 1 0 0 0 
+0 1 1 0 0 0 0 1 0 
+0 1 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 0 0 
+1 1 0 0 0 0 1 0 1 
+1 0 0 1 1 1 0 0 0 
+0 1 0 0 1 1 0 0 0 
+0 1 0 0 0 0 0 1 1 
+0 0 0 0 1 0 0 0 0 
+0 1 0 1 0 0 0 1 0 
+1 1 0 0 1 0 0 0 1 
+0 1 0 0 0 0 0 1 0 

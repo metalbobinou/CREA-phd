@@ -1,0 +1,38 @@
+[Lattice]
+12
+8
+[Objects]
+AlloCine
+Angry Birds
+Calculatrice
+Facebook
+Gmail
+Google
+Lecteur video
+Mes fichiers
+Mise a jour logicielle
+Radio
+SMS
+YouTube
+[Attributes]
+University
+Train station
+Transportation
+Home Wifi
+Morning
+Coffe break
+Lunch break
+Afternoon
+[relation]
+0 1 0 0 0 0 0 0 
+1 1 0 0 0 0 0 0 
+1 0 0 0 1 0 0 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 1 
+1 0 0 0 1 0 0 0 
+0 0 1 0 0 0 0 0 
+1 0 0 1 0 0 0 0 
+0 0 0 1 0 1 1 1 
+0 0 0 0 1 0 0 1 
+0 0 1 0 1 0 0 1 
+0 0 1 0 0 0 0 0 

@@ -1,0 +1,76 @@
+AJ0	0	Adjective (general or positive) (e.g. good, old, beautiful)
+AJC	0	Comparative adjective (e.g. better, older) ---- ENGLISH BNC !!!
+AJS	0	Superlative adjective (e.g. best, oldest)
+AT0	0	Article (e.g. the, a, an, no) [N.B. no is included among articles, which are defined here as determiner words which typically begin a noun phrase, but which cannot occur as the head of a noun phrase.]
+AV0	0	General adverb: an adverb not subclassified as AVP or AVQ (see below) (e.g. often, well, longer (adv.), furthest. [Note that adverbs, unlike adjectives, are not tagged as positive, comparative, or superlative.This is because of the relative rarity of comparative and superlative adverbs.]
+AVP	0	Adverb particle (e.g. up, off, out) [N.B. AVP is used for such "prepositional adverbs", whether or not they are used idiomatically in a phrasal verb: e.g. in 'Come out here' and 'I can't hold out any longer', the same AVP tag is used for out.
+AVQ	0	Wh-adverb (e.g. when, where, how, why, wherever) [The same tag is used, whether the word occurs in interrogative or relative use.]
+CJC	0	Coordinating conjunction (e.g. and, or, but)
+CJS	0	Subordinating conjunction (e.g. although, when)
+CJT	0	The subordinating conjunction that [N.B. that is tagged CJT when it introduces not only a nominal clause, but also a relative clause, as in 'the day that follows Christmas'. Some theories treat that here as a relative pronoun, whereas others treat it as a conjunction.We have adopted the latter analysis.]
+CRD	0	Cardinal number (e.g. one, 3, fifty-five, 3609)
+DPS	0	Possessive determiner (e.g. your, their, his)
+DT0	0	General determiner: i.e. a determiner which is not a DTQ. [Here a determiner is defined as a word which typically occurs either as the first word in a noun phrase, or as the head of a noun phrase. E.g. This is tagged DT0 both in 'This is my house' and in 'This house is mine'.]
+DTQ	0	Wh-determiner (e.g. which, what, whose, whichever) [The category of determiner here is defined as for DT0 above. These words are tagged as wh-determiners whether they occur in interrogative use or in relative use.]
+EX0	0	Existential there, i.e. there occurring in the there is ... or there are ... construction
+ITJ	0	Interjection or other isolate (e.g. oh, yes, mhm, wow)
+NN0	1	Common noun, neutral for number (e.g. aircraft, data, committee) [N.B. Singular collective nouns such as committee and team are tagged NN0, on the grounds that they are capable of taking singular or plural agreement with the following verb: e.g. 'The committee disagrees/disagree'.]
+NN1	1	Singular common noun (e.g. pencil, goose, time, revelation)
+NN2	1	Plural common noun (e.g. pencils, geese, times, revelations)
+NP0	1	Proper noun (e.g. London, Michael, Mars, IBM) [N.B. the distinction between singular and plural proper nouns is not indicated in the tagset, plural proper nouns being a comparative rarity.]
+ORD	0	Ordinal numeral (e.g. first, sixth, 77th, last) . [N.B. The ORD tag is used whether these words are used in a nominal or in an adverbial role. Next and last, as "general ordinals", are also assigned to this category.]
+PNI	0	Indefinite pronoun (e.g. none, everything, one [as pronoun], nobody) [N.B. This tag applies to words which always function as [heads of] noun phrases. Words like some and these, which can also occur before a noun head in an article-like function, are tagged as determiners (see DT0 and AT0 above).]
+PNP	0	Personal pronoun (e.g. I, you, them, ours) [Note that possessive pronouns like ours and theirs are tagged as personal pronouns.]
+PNQ	0	Wh-pronoun (e.g. who, whoever, whom) [N.B. These words are tagged as wh-pronouns whether they occur in interrogative or in relative use.]
+PNX	0	Reflexive pronoun (e.g. myself, yourself, itself, ourselves)
+POS	0	The possessive or genitive marker 's or ' (e.g. for 'Peter's or somebody else's', the sequence of tags is: NP0 POS CJC PNI AV0 POS)
+PRF	0	The preposition of. Because of its frequency and its almost exclusively postnominal function, of is assigned a special tag of its own.
+PRP	0	Preposition (except for of) (e.g. about, at, in, on, on behalf of, with)
+PUL	0	Punctuation: left bracket - i.e. ( or [
+PUN	0	Punctuation: general separating mark - i.e. . , ! , : ; - or ?
+PUQ	0	Punctuation: quotation mark - i.e. ' or "
+PUR	0	Punctuation: right bracket - i.e. ) or ]
+TO0	0	Infinitive marker to
+UNC	0	Unclassified items which are not appropriately classified as items of the English lexicon. [Items tagged UNC include foreign (non-English) words, special typographical symbols, formulae, and (in spoken language) hesitation fillers such as er and erm.]
+VBB	0	The present tense forms of the verb BE, except for is, 's: i.e. am, are, 'm, 're and be [subjunctive or imperative]
+VBD	0	The past tense forms of the verb BE: was and were
+VBG	0	The -ing form of the verb BE: being
+VBI	0	The infinitive form of the verb BE: be
+VBN	0	The past participle form of the verb BE: been
+VBZ	0	The -s form of the verb BE: is, 's
+VDB	0	The finite base form of the verb BE: do
+VDD	0	The past tense form of the verb DO: did
+VDG	0	The -ing form of the verb DO: doing
+VDI	0	The infinitive form of the verb DO: do
+VDN	0	The past participle form of the verb DO: done
+VDZ	0	The -s form of the verb DO: does, 's
+VHB	0	The finite base form of the verb HAVE: have, 've
+VHD	0	The past tense form of the verb HAVE: had, 'd
+VHG	0	The -ing form of the verb HAVE: having
+VHI	0	The infinitive form of the verb HAVE: have
+VHN	0	The past participle form of the verb HAVE: had
+VHZ	0	The -s form of the verb HAVE: has, 's
+VM0	0	Modal auxiliary verb (e.g. will, would, can, could, 'll, 'd)
+VVB	0	The finite base form of lexical verbs (e.g. forget, send, live, return) [Including the imperative and present subjunctive]
+VVD	0	The past tense form of lexical verbs (e.g. forgot, sent, lived, returned)
+VVG	0	The -ing form of lexical verbs (e.g. forgetting, sending, living, returning)
+VVI	0	The infinitive form of lexical verbs (e.g. forget, send, live, return)
+VVN	0	The past participle form of lexical verbs (e.g. forgotten, sent, lived, returned)
+VVZ	0	The -s form of lexical verbs (e.g. forgets, sends, lives, returns)
+XX0	0	The negative particle not or n't
+ZZ0	0	Alphabetical symbols (e.g. A, a, B, b, c, d)
+AJ0-AV0	0	Ambiguity Tags 1
+AJ0-VVN	0	Ambiguity Tags 2
+AJ0-VVD	0	Ambiguity Tags 3
+AJ0-NN1	1	Ambiguity Tags 4
+AJ0-VVG	0	Ambiguity Tags 5
+AVP-PRP	0	Ambiguity Tags 6
+AVQ-CJS	0	Ambiguity Tags 7
+CJS-PRP	0	Ambiguity Tags 8
+CJT-DT0	0	Ambiguity Tags 9
+CRD-PNI	0	Ambiguity Tags 10
+NN1-NP0	1	Ambiguity Tags 11
+NN1-VVB	1	Ambiguity Tags 12
+NN1-VVG	1	Ambiguity Tags 13
+NN2-VVZ	1	Ambiguity Tags 14
+VVD-VVN	0	Ambiguity Tags 15

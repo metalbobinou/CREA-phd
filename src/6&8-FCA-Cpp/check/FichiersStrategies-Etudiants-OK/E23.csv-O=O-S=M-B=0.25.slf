@@ -1,0 +1,54 @@
+[Lattice]
+20
+8
+[Objects]
+Alarme
+Calculatrice
+Candy Crush
+E-mail
+Facebook
+Firefox
+Flappy Bird
+Flipboard
+Gestion de taches
+Gmail
+Google Now
+Google Play Store
+HFR4droid
+JeuxVideo.com
+Maps
+Meteo
+News Republic
+Parametres
+SMS
+WeChat
+[Attributes]
+University
+Home
+Transportation
+Network 3G
+Morning
+Afternoon
+Evening
+Weekend
+[relation]
+0 0 0 0 1 0 0 0 
+1 0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 0 
+1 0 1 0 0 0 1 0 
+1 0 1 0 0 0 1 0 
+0 0 0 1 0 0 0 0 
+1 0 1 0 0 0 0 0 
+1 0 1 0 0 0 0 0 
+1 0 1 0 0 0 0 1 
+1 0 1 0 0 0 1 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 1 0 0 
+0 1 0 0 0 0 0 0 
+1 0 1 0 0 0 0 0 
+0 0 0 0 0 1 1 0 
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 

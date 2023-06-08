@@ -1,0 +1,28 @@
+[Lattice]
+8
+6
+[Objects]
+Agenda
+Appareil photo
+Facebook
+Gmail
+Musique
+Safari
+SMS
+WhatsApp
+[Attributes]
+University
+Restaurant
+Home
+Transportation
+Morning
+Evening
+[relation]
+1 0 0 1 0 0 
+0 0 0 0 0 1 
+0 1 1 1 0 0 
+0 1 1 1 0 0 
+0 0 0 0 1 0 
+0 0 0 1 0 0 
+0 0 1 0 0 0 
+0 0 0 1 1 0 

@@ -1,0 +1,56 @@
+[Lattice]
+19
+12
+[Objects]
+ABC Transport
+Alarme
+AlloCine
+Appareil photo
+Bing Spoort
+E-mail
+Facebook
+Google
+Lequipe
+Meteo
+Musique
+Parametres
+Shazam
+SMS
+SnapChat
+Telephone
+Twitter
+Windows store
+YouTube
+[Attributes]
+University
+Home
+Restaurant
+Transportation
+Network 3G
+Morning
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+Smartphone NokiaLumia
+[relation]
+0 1 0 1 1 1 0 0 1 1 1 0 
+0 1 0 0 1 0 0 0 1 1 1 1 
+1 0 0 0 1 0 0 1 0 0 0 1 
+0 1 0 0 1 0 0 0 1 0 0 1 
+1 0 0 1 1 0 0 1 0 0 0 0 
+1 1 0 0 1 1 1 1 1 0 1 1 
+1 1 0 1 1 1 1 1 1 0 0 0 
+0 0 0 1 1 0 1 1 0 0 0 0 
+1 0 0 1 1 0 0 1 0 0 0 1 
+1 1 0 0 1 0 0 1 1 0 1 1 
+0 1 0 0 1 0 0 1 1 0 1 0 
+1 0 0 0 1 1 0 1 0 0 0 1 
+0 1 0 0 1 0 0 1 0 0 1 1 
+1 1 1 0 1 0 1 1 1 1 1 1 
+1 0 0 0 1 0 0 1 0 0 0 1 
+1 1 1 1 1 0 0 1 1 0 1 0 
+1 1 0 1 1 1 0 1 1 0 1 1 
+1 1 0 0 1 0 0 1 0 0 0 1 
+0 0 0 0 1 0 0 0 1 0 1 0 

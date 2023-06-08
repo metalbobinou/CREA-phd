@@ -1,0 +1,16 @@
+php 5
+transaction 3
+base 3
+web 2
+mysql 2
+condition 2
+type 1
+structure 1
+sql 1
+session 1
+redirection 1
+méthode 1
+installation 1
+abstraction 1
+"session cookies" 1
+"php variables" 1

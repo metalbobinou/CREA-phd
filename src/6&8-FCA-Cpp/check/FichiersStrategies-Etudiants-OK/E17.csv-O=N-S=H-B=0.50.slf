@@ -1,0 +1,42 @@
+[Lattice]
+15
+6
+[Objects]
+ABC Transport
+Alarme
+AlloCine
+Bing Spoort
+E-mail
+Facebook
+Google
+Lequipe
+Meteo
+Musique
+Parametres
+SMS
+Telephone
+Twitter
+Windows store
+[Attributes]
+University
+Home
+Transportation
+Network 3G
+Afternoon
+Smartphone NokiaLumia
+[relation]
+0 1 0 1 0 0 
+0 1 0 1 0 0 
+1 0 0 1 1 0 
+0 0 0 1 1 0 
+0 1 0 1 0 1 
+0 0 0 1 0 0 
+0 0 1 1 0 0 
+0 0 0 1 1 1 
+0 0 0 1 0 1 
+0 1 0 1 0 0 
+1 0 0 1 0 1 
+0 1 0 1 0 1 
+0 0 0 1 0 0 
+0 0 0 1 0 1 
+0 0 0 1 1 1 

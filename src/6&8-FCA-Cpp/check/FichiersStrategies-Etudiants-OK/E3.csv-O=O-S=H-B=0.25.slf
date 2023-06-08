@@ -1,0 +1,43 @@
+[Lattice]
+15
+7
+[Objects]
+Appareil photo
+Google
+Drive
+Facebook
+Flipboard
+Gmail
+Google Play Store
+Instagram
+Jelly Splash
+Keep
+NBA GM
+Parametres
+SMS
+SnapChat
+WeChat
+[Attributes]
+University
+Home
+Transportation
+Home Wifi
+Network 3G
+Evening
+Smartphone Samsung
+[relation]
+0 0 1 0 0 0 1 
+0 0 0 0 1 0 1 
+1 0 0 0 1 0 0 
+1 0 0 0 1 0 1 
+0 1 0 1 0 0 1 
+1 0 0 0 1 0 1 
+0 1 0 1 0 0 1 
+0 0 0 0 1 0 1 
+0 1 0 0 0 0 1 
+0 0 0 0 0 0 1 
+0 1 0 0 1 1 1 
+0 0 1 0 0 0 1 
+1 1 0 0 0 0 1 
+1 0 0 0 1 0 1 
+0 0 1 0 1 1 1 

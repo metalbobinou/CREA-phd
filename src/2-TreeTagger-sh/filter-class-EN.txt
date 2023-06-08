@@ -1,0 +1,58 @@
+CC	1	Coordination conjunction    ---- ENGLISH.PAR ! NOT BNC !
+CD	0	Cardinal number
+CDZ	1	Possessive pronoun (added)
+DT	0	Determiner    ===> exception
+EX	1	Existential there
+FW	0	Foreign word
+IN	1	Preposition or subordinating conjunction
+IN/that	1	"that" as subordinator (added)
+JJ	0	Adjective
+JJR	0	Adjective, comparative
+JJS	0	Adjective, superlative
+LS	1	List item marker
+MD	1	Modal (will, shall, can)
+NN	0	Noun, singular or mass
+NNS	0	Noun, plural
+NNSZ	0	Possessive noun plural (added)
+NNZ	0	Possessive noun, singular or mass (added)
+NP	0	Proper noun, singular
+NPS	0	Proper noun, plural
+NPSZ	0	Possessive proper noun, plural (added)
+NPZ	0	Possessive noun, singular (added)
+PDT	1	Predeterminer
+POS	1	Possessive ending
+PP	1	Personal pronoun
+PP$	1	Possessive pronoun
+PPZ	1	Possessive pronoun (added)
+RB	0	Adverb    ===> exception
+RBR	1	Adverb, comparative
+RBS	1	Adverb, superlative
+RP	1	Particle
+SENT	0	Sentence-break punctuation (added)
+SYM	0	Symbol
+TO	1	to
+UH	0	Interjection
+VB	1	Verb "be", base form
+VBD	1	Verb "be", past tense
+VBG	1	Verb "be", gerund or present participle
+VBN	1	Verb "be", past participle
+VBP	1	Verb "be", non-3rd person singular
+VBZ	1	Verb "be", 3rd person singular present
+VH	1	Verb "have", base form (added)
+VHD	1	Verb "have", past tense (added)
+VHG	1	Verb "have", gerund/present participle (added)
+VHN	1	Verb "have", past participle
+VHP	1	Verb "have", sing. present, non-3d (added)
+VHZ	1	Verb "have", 3rd person sing. present (added)
+VV	0	Verb, base form (added)
+VVD	0	Verb, past tense (added)
+VVG	0	Verb, gerund/present participle (added)
+VVN	0	Verb, past participle (added)
+VVP	0	Verb, present, not 3rd person (added)
+VVZ	0	Verb, 3rd person sing. present (added)
+WDT	1	Wh-determiner
+WP	1	Wh-pronoun
+WP$	1	Possessive wh-pronoun
+WPZ	1	Possessive wh-pronoun (added)
+WRB	1	Wh-adverb
+Z	1	Possessive ending (added)

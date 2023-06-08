@@ -1,0 +1,57 @@
+[Lattice]
+16
+19
+[Objects]
+9GAG
+Agenda
+Alarme
+Appareil photo
+Calculatrice
+Google
+Drive
+E-mail
+Facebook
+Gmail
+Google Play Store
+Maps
+Parametres
+Skype
+SMS
+YouTube
+[Attributes]
+University
+Train station
+Cinema
+Restaurant
+Home
+Transportation
+Library
+Home Wifi
+Network 3G
+Public Wifi
+Univ Wifi
+Early Morning
+Morning
+Coffe break
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+1 0 0 0 0 0 0 1 0 0 1 1 1 1 1 1 1 1 1 
+1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 1 0 
+1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 
+1 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 
+1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 

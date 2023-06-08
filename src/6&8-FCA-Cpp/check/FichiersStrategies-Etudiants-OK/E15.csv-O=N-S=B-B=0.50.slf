@@ -1,0 +1,42 @@
+[Lattice]
+13
+10
+[Objects]
+Agenda
+Bbc news
+Drive
+E-mail
+Facebook
+Facebook Messenger
+Google
+Maps
+seriesaddict
+SMS
+SnapChat
+Twitter
+WhatsApp
+[Attributes]
+Home
+Transportation
+Home Wifi
+Early Morning
+Morning
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+0 0 0 1 1 1 0 1 0 0 
+0 0 0 0 1 0 1 0 0 0 
+0 0 0 0 1 0 1 0 0 0 
+1 0 1 0 1 1 1 1 0 0 
+1 0 0 0 1 0 1 0 0 0 
+0 0 0 1 1 1 1 1 0 1 
+0 0 0 0 1 1 1 1 1 0 
+0 1 0 0 0 0 0 1 0 1 
+0 0 0 0 0 0 0 1 1 1 
+0 0 0 1 1 1 1 1 1 0 
+0 0 0 1 1 1 1 1 1 1 
+0 0 0 1 1 0 1 1 1 0 
+0 0 0 1 1 1 1 1 1 0 

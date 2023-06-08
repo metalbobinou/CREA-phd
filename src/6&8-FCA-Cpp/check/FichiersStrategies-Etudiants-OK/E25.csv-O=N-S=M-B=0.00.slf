@@ -1,0 +1,33 @@
+[Lattice]
+7
+13
+[Objects]
+9GAG
+Alarme
+Echec
+Meteo
+Shazam
+Sudoku
+YouTube
+[Attributes]
+University
+Restaurant
+Home
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Afternoon
+Evening
+Night
+Weekend
+Smartphone Samsung
+Memory 32G
+[relation]
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 1 0 0 1 0 0 0 0 0 1 1 
+1 0 0 0 0 0 0 1 0 0 0 1 1 
+0 0 1 0 1 0 1 0 0 0 0 1 1 
+0 1 0 0 1 0 0 0 1 0 1 1 1 
+1 0 0 0 0 0 0 1 0 0 0 1 1 
+0 0 1 1 0 0 0 0 0 1 1 1 1 

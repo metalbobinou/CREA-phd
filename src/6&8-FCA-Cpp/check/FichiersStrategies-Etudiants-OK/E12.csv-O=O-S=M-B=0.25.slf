@@ -1,0 +1,32 @@
+[Lattice]
+10
+6
+[Objects]
+E-mail
+Maps
+Notes
+Skype
+SMS
+SnapChat
+Spotify
+Telephone
+Twitter
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Network 3G
+Evening
+Weekend
+[relation]
+0 1 0 0 0 0 
+0 0 1 1 0 0 
+1 0 0 1 0 0 
+0 0 0 0 0 1 
+0 1 0 0 0 0 
+1 0 0 0 0 0 
+1 0 0 1 0 0 
+0 1 0 0 1 0 
+0 0 0 0 0 1 
+0 0 0 0 0 1 

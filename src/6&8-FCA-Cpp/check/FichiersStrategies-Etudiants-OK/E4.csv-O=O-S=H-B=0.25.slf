@@ -1,0 +1,69 @@
+[Lattice]
+27
+9
+[Objects]
+8tracks
+AlloCine
+Appareil photo
+AppyGeek
+Boost eclair
+Google
+Eurosport
+Facebook
+Flappy Bird
+Gestion de taches
+Gestionnaire de depenses
+Gmail
+HorairesMey
+IMDb
+Instagram
+LCL Mobile
+Mes fichiers
+Notes
+Parametres
+Runtastic
+SMS
+SnapChat
+So Foot
+Spotify
+Telephone
+Twitter
+YouTube
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+Univ Wifi
+Morning
+Lunch break
+Evening
+Smartphone Samsung
+[relation]
+0 0 0 1 0 1 0 1 1 
+0 1 1 0 0 0 0 1 1 
+0 1 0 0 0 0 0 1 1 
+0 0 0 0 0 1 0 0 1 
+0 1 1 0 0 0 0 0 1 
+0 1 1 0 0 0 0 1 1 
+0 1 1 0 0 1 0 1 1 
+1 1 1 0 1 0 0 1 1 
+0 1 0 0 0 0 0 1 1 
+0 1 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 1 
+0 1 1 0 0 0 0 0 1 
+0 0 0 1 0 0 0 0 1 
+0 0 0 0 0 0 0 1 1 
+1 1 1 0 1 0 0 1 1 
+0 0 0 0 0 0 1 0 1 
+0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 1 
+0 1 0 1 0 0 0 0 1 
+0 0 0 1 0 0 0 0 1 
+0 1 1 0 0 0 0 1 1 
+0 0 0 1 0 1 0 0 1 
+0 0 0 0 0 0 0 1 1 
+0 1 0 1 0 0 0 1 1 
+0 1 1 0 0 0 0 0 1 
+0 1 1 0 0 0 0 1 1 

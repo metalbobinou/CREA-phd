@@ -1,0 +1,11 @@
+StrategyCounter :
+
+Count the number of 0 and 1 in each matrix !
+
+Usage:
+
+./1-CounterOf0and1.sh matrix1.csv [matrix2.csv ...]
+
+
+Eventually, print the matrix :
+./0-Matrix-Printer.sh matrix1.csv [matrix2.csv ...]

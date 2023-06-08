@@ -1,0 +1,35 @@
+[Lattice]
+11
+7
+[Objects]
+Alarme
+Appareil photo
+Google
+Flappy Bird
+Google Play Store
+Instagram
+Maps
+Parametres
+Subway Surfer
+Viber
+YouTube
+[Attributes]
+University
+Home
+Transportation
+Library
+Network 3G
+Morning
+Weekend
+[relation]
+0 0 0 0 0 0 1 
+0 0 0 0 0 1 0 
+0 0 0 1 0 0 0 
+0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 
+0 1 0 0 0 0 0 
+1 0 0 0 0 0 0 
+0 0 1 0 0 0 0 
+1 0 0 0 0 0 0 
+0 0 0 0 1 0 0 
+0 0 0 1 0 0 0 

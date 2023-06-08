@@ -1,0 +1,24 @@
+OrderingFragments-sh :
+
+* OrderingFragments.sh
+
+- Why :
+  Add a temporal order on each fragment for ordering them
+  (Propose one or multiple scenario(s) of execution from past cases executions)
+- What :
+  Fragments of past cases are organized temporarily with significative terms
+  in each parts
+- How :
+  Past cases knowledge has been transformed into documents which were
+  cut into N parts. The most significative words in these parts are highlighted
+  and used as ordered references.
+  Past cases knowledge has also been cut into fragments of words.
+  The fragments are ordered based on the words they contains and the ordering
+  proposed by the significative words and their parts.
+
+
+Fragments input :
+Concept ID ; Level ; Type Obj/Attr ; Nb Obj ; Nb Attr ; Object1/Attribute1 ; Obj2/Attr2 ; ...
+
+Ordering input :
+Name ; bn:ID ; Part ; Document1 ; Document2 ; ...

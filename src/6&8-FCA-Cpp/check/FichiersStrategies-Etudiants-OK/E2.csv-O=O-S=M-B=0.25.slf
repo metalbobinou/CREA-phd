@@ -1,0 +1,53 @@
+[Lattice]
+18
+11
+[Objects]
+Actualites
+Calculatrice
+Google
+Facebook
+Flappy Bird
+Freebox Mobile
+Gmail
+Google Play Store
+Instagram
+Lecteur video
+Mes fichiers
+Meteo
+Notes
+Parametres
+Ratp
+SMS
+SnapChat
+WeChat
+[Attributes]
+University
+Train station
+Home
+Transportation
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Afternoon
+Evening
+Memory 16G
+[relation]
+0 0 1 1 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 0 1 0 
+1 0 0 0 0 0 0 0 1 1 0 
+1 0 1 0 0 0 0 0 0 0 0 
+1 0 0 0 0 1 0 0 0 0 0 
+0 1 1 1 0 0 0 0 1 1 0 
+0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 1 1 0 
+0 0 1 0 0 0 0 0 0 0 1 
+0 0 1 1 0 0 0 1 1 0 0 
+0 0 1 1 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+0 0 1 1 0 0 0 0 0 0 0 
+0 0 0 0 1 1 1 0 0 0 0 
+1 1 0 0 0 0 0 1 0 0 0 
+0 0 1 0 1 0 0 0 1 0 0 
+1 0 0 0 0 0 0 0 0 0 0 

@@ -1,0 +1,28 @@
+[Lattice]
+7
+8
+[Objects]
+20minute-android
+9GAG
+Alarme
+Echec
+Meteo
+Sudoku
+Telephone
+[Attributes]
+University
+Home
+Network 3G
+Early Morning
+Morning
+Afternoon
+Smartphone Samsung
+Memory 32G
+[relation]
+0 0 0 0 0 1 1 0 
+1 0 0 0 0 0 0 0 
+0 1 0 1 0 0 1 1 
+1 0 0 0 0 1 1 1 
+0 1 1 0 1 0 1 1 
+1 0 0 0 0 1 1 1 
+0 1 0 0 0 0 0 0 

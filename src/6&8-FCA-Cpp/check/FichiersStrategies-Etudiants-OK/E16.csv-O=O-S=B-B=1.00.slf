@@ -1,0 +1,31 @@
+[Lattice]
+8
+9
+[Objects]
+Agenda
+Appareil photo
+Calculatrice
+Facebook
+Freebox Mobile
+Gmail
+Google
+Viber
+[Attributes]
+University
+Train station
+Coffe break
+Lunch break
+Evening
+Night
+Weekend
+Smartphone Sony
+Computer
+[relation]
+0 0 1 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 0 0 1 0 
+1 0 0 0 0 0 0 1 0 
+0 0 1 0 0 1 1 0 0 
+0 0 1 0 1 0 0 0 0 
+0 1 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 1 

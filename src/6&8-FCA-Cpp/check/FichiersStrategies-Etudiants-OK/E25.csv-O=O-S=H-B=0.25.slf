@@ -1,0 +1,45 @@
+[Lattice]
+14
+11
+[Objects]
+E-mail
+Facebook
+Flappy Bird
+Google
+Google Play Store
+Mes fichiers
+Musique
+Ratp
+Shazam
+SMS
+SnapChat
+Telephone
+Tinder
+YouTube
+[Attributes]
+University
+Train station
+Restaurant
+Street
+Home
+Transportation
+Home Wifi
+Network 3G
+Afternoon
+Smartphone Samsung
+Memory 32G
+[relation]
+0 0 0 0 0 0 0 1 0 1 1 
+0 0 0 0 0 0 0 1 0 1 1 
+0 0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 1 0 1 1 
+1 0 0 0 0 0 0 1 0 1 1 
+0 0 0 0 0 0 0 0 0 1 1 
+0 1 0 0 0 1 0 0 0 1 1 
+0 0 0 1 0 0 0 1 0 1 1 
+0 0 1 0 0 0 0 1 0 1 1 
+0 0 0 0 0 0 0 0 0 1 1 
+1 0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 0 0 1 1 
+0 0 0 0 0 0 0 1 1 1 1 
+0 0 0 0 1 0 1 0 0 1 1 

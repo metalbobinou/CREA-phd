@@ -1,0 +1,32 @@
+[Lattice]
+9
+8
+[Objects]
+Google
+Flipboard
+Google Play Store
+Instagram
+Jelly Splash
+Keep
+NBA GM
+SMS
+WeChat
+[Attributes]
+University
+Restaurant
+Transportation
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 1 
+0 0 0 0 0 1 1 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 1 1 0 
+0 0 0 1 0 0 0 0 
+0 1 0 0 0 0 0 0 
+1 0 0 1 0 0 0 1 

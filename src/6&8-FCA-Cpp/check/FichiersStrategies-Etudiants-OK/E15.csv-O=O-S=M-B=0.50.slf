@@ -1,0 +1,36 @@
+[Lattice]
+10
+10
+[Objects]
+Alarme
+Appareil photo
+Calculatrice
+Facebook
+Facebook Messenger
+Google
+Meteo
+Mise a jour logicielle
+Telephone
+Twitter
+[Attributes]
+University
+Home
+Home Wifi
+Network 3G
+Early Morning
+Morning
+Lunch break
+Afternoon
+Evening
+Weekend
+[relation]
+0 1 1 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 1 
+1 0 0 1 0 1 0 0 0 0 
+1 0 0 0 0 1 0 1 0 0 
+0 1 1 0 0 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 0 
+0 1 1 0 1 0 0 0 0 0 
+0 1 1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 1 0 
+1 0 0 1 0 0 0 0 0 0 

@@ -1,0 +1,12 @@
+v1.5	25th December 2019
+	The project is refactored nearly from scratch to handle any files.
+
+--	--
+v1.1	October 2019
+	The project is divided into multiple programs, and it manages multiples files.
+
+v1.0.1	June 2019
+	The program is adapted for another specific case.
+
+v1.0	2017-2018
+	The program calculates the formal contexts, lattices, and measures on 28 files.

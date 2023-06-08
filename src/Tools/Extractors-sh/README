@@ -1,0 +1,61 @@
+* Extractor :
+
+- Why : Create files with only core information to be reused by other scripts.
+- What : Reference files (with only terms, only BabelNet ID, ...) are required
+  by other scripts for processing.
+- How : The occurrences matrix is read and transformed into multiples lists.
+  A list with terms only, documents only, ID of terms/documents, matrix with
+  ID of terms/documents, occurrences matrix extended with IDs around.
+
+
+* Replaceator :
+
+- Why : Softwares require only integers as input (instead of texts).
+- What : The terms and documents are therefore replaced by their IDs created in
+  "Extractor" step.
+- How : The "Extractor" step created lists of ID's for terms and documents,
+  they are used to replace their appearences in the Fragments (Formal Concepts)
+
+
+* Add-Letter-1st-*.sh :
+
+- Add 1 letter in each column of 1st line/each 1st column of each line
+
+
+1-Extract-1st-col.sh :
+Uses a formal context as an input (a matrix with sources and terms).
+Generates extracts where sources/terms are replaced by a reference number:
+- cols_* : lists the terms and their numbers horizontally
+- colstrans_* : lists the terms and their numbers vertically (required next)
+- lines_* : lists the sources and their numbers vertically
+- enhanced_* : add one line and one column of numbers around the matrix
+- numbered_* : change the sources and terms by their numbers
+
+
+
+2-Replaceator.sh :
+Transforms the list of fragments given in $2 by its references from previous
+step. The attributes are transformed into their numbers.
+The reference file in $1 must be of the format (usually colstrans_* or lines_*) :
+[Ref] ; [Term]
+1 ; "city bn:4431090"
+2 ; "lol bn:42424242"
+...
+The list of fragments must be of the format :
+[Concept ID] ; [Level] ; [Type] ; [Nb Objects] ; [Nb Attributes] ; Obj/Attr1 ; Obj/Attr2 ; ...
+1 ; 0 ; Objects ; 2 ; 4 ; "city bn:0000123" ; "lol bn:42424242"
+2 ; 0 ; Objects ; 1 ; 8 ; "lol bn:42424242"
+...
+
+Usage:
+./Replaceator.sh ref-file.csv data-file.csv
+
+The output are:
+- replaced_* : concepts objects/attributes are replaced by numbers
+- list_* : objects/attributes are separated by "\t", and transactions by "\n"
+
+The list_* files are perfect for use with A Priori algorithms
+
+
+Add-Letter-1st-*.sh :
+./Add*.sh file1.csv file2.csv ...

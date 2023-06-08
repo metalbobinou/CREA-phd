@@ -1,0 +1,54 @@
+[Lattice]
+18
+12
+[Objects]
+Calendrier
+Dans ton chat
+Documents
+Eurosport
+Facebook
+Gmail
+Instagram
+iTranslate
+JeuxVideo.com
+Musique
+NBA 2K14
+SMS
+SnapChat
+So Foot
+Telephone
+Tumblr
+Twitter
+YouTube
+[Attributes]
+University
+Train station
+Home
+Transportation
+Home Wifi
+Network 3G
+Morning
+Lunch break
+Afternoon
+Evening
+Night
+Weekend
+[relation]
+0 0 0 0 0 0 0 0 0 0 0 1 
+0 0 0 0 0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 0 0 1 0 1 
+0 0 0 1 0 0 0 1 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 1 
+0 0 1 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 0 0 0 0 0 1 
+1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 0 0 0 1 
+0 1 0 1 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 1 
+1 0 0 0 0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 0 0 1 0 
+0 0 0 0 1 0 0 0 0 0 0 0 
