@@ -5,6 +5,9 @@ This is the exact set of tools developped for my PhD defense the january 17th 20
 
 The current state of the CREA method is available in another Git repository : [CREA](https://github.com/metalbobinou/CREA)
 
+The thesis manuscript (in french) can be found here : [PhD Thesis](https://theses.hal.science/tel-03774087v1)
+
+The data generated with this version and for the manuscript can be found here : [CREA-PhD-Data](https://github.com/metalbobinou/CREA-phd-data)
 
 # Requirements
 Multiple languages were used because of the successive tests and explorations.
